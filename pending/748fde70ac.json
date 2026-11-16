@@ -1,0 +1,155 @@
+{
+  "id": "748fde70ac",
+  "created": "2026-11-16T21:04:42+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Infostealers/Vidar.md",
+  "headline": "New IOC proposal — Vidar",
+  "items": [
+    {
+      "type": "domain",
+      "value": "sever.cx",
+      "source": "SOCRadar",
+      "context": "SeverVault: Infostealer Logs Sold as AI Victim Profiles",
+      "ref": "https://socradar.io/blog/severvault-infostealer-logs-ai-profiles/"
+    },
+    {
+      "type": "domain",
+      "value": "sever.st",
+      "source": "SOCRadar",
+      "context": "SeverVault: Infostealer Logs Sold as AI Victim Profiles",
+      "ref": "https://socradar.io/blog/severvault-infostealer-logs-ai-profiles/"
+    },
+    {
+      "type": "domain",
+      "value": "sever.to",
+      "source": "SOCRadar",
+      "context": "SeverVault: Infostealer Logs Sold as AI Victim Profiles",
+      "ref": "https://socradar.io/blog/severvault-infostealer-logs-ai-profiles/"
+    },
+    {
+      "type": "domain",
+      "value": "sever.ws",
+      "source": "SOCRadar",
+      "context": "SeverVault: Infostealer Logs Sold as AI Victim Profiles",
+      "ref": "https://socradar.io/blog/severvault-infostealer-logs-ai-profiles/"
+    },
+    {
+      "type": "onion",
+      "value": "sever4apt73wclanpzgoelsscbj274xupr4npybhyr4vyvxl7jlarrqd.onion",
+      "source": "SOCRadar",
+      "context": "SeverVault: Infostealer Logs Sold as AI Victim Profiles",
+      "ref": "https://socradar.io/blog/severvault-infostealer-logs-ai-profiles/"
+    },
+    {
+      "type": "onion",
+      "value": "severgoodb3kdzmdnrnx3gb4jbw4gxe43mhvnxaacfq7oowb2ttsh7id.onion",
+      "source": "SOCRadar",
+      "context": "SeverVault: Infostealer Logs Sold as AI Victim Profiles",
+      "ref": "https://socradar.io/blog/severvault-infostealer-logs-ai-profiles/"
+    },
+    {
+      "type": "onion",
+      "value": "severown5xd6ojimw7qij32dvgeav5ath7fei4w7rbui5zo2rutk3yad.onion",
+      "source": "SOCRadar",
+      "context": "SeverVault: Infostealer Logs Sold as AI Victim Profiles",
+      "ref": "https://socradar.io/blog/severvault-infostealer-logs-ai-profiles/"
+    },
+    {
+      "type": "onion",
+      "value": "severxpppwio5sku5ffx2ddlbqszqous3wr7hph52dlcbdr3henfibid.onion",
+      "source": "SOCRadar",
+      "context": "SeverVault: Infostealer Logs Sold as AI Victim Profiles",
+      "ref": "https://socradar.io/blog/severvault-infostealer-logs-ai-profiles/"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "b21e09ffa024b5a70529a23685341835fe70ee8e",
+      "source": "Abuse.ch SSLBL",
+      "context": "Vidar C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/b21e09ffa024b5a70529a23685341835fe70ee8e/"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "e8bbdcda86189418cf712ef40f6c619669912c2d",
+      "source": "Abuse.ch SSLBL",
+      "context": "Vidar C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/e8bbdcda86189418cf712ef40f6c619669912c2d/"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "fc8993b811653fde5166bcc34d4a216096a93147",
+      "source": "Abuse.ch SSLBL",
+      "context": "Vidar C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/fc8993b811653fde5166bcc34d4a216096a93147/"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "16a95fe1ecb7f220df07fa546ccdef59bf5c9ca6",
+      "source": "Abuse.ch SSLBL",
+      "context": "Vidar C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/16a95fe1ecb7f220df07fa546ccdef59bf5c9ca6/"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "adc27d87353c64f0cedd18c66af8718a6dd0c4ab",
+      "source": "Abuse.ch SSLBL",
+      "context": "Vidar C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/adc27d87353c64f0cedd18c66af8718a6dd0c4ab/"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "cbe8f557e3190083e91514273c218917ec46534a",
+      "source": "Abuse.ch SSLBL",
+      "context": "Vidar C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/cbe8f557e3190083e91514273c218917ec46534a/"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "02d3e8f5f12d2b94432870d2c5a07e819001b6f3",
+      "source": "Abuse.ch SSLBL",
+      "context": "Vidar C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/02d3e8f5f12d2b94432870d2c5a07e819001b6f3/"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "0038c1179510d131864264eb4a4a6648e8c54425",
+      "source": "Abuse.ch SSLBL",
+      "context": "Vidar C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/0038c1179510d131864264eb4a4a6648e8c54425/"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "187d60de02b8184158547240aec75f31b8e93a27",
+      "source": "Abuse.ch SSLBL",
+      "context": "Vidar C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/187d60de02b8184158547240aec75f31b8e93a27/"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "e637e68e3a9cdbe38b1c1c3ca411596797a0fd66",
+      "source": "Abuse.ch SSLBL",
+      "context": "Vidar C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/e637e68e3a9cdbe38b1c1c3ca411596797a0fd66/"
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/severvault-infostealer-logs-ai-profiles/",
+      "title": "SeverVault: Infostealer Logs Sold as AI Victim Profiles",
+      "source": "SOCRadar",
+      "published": "2026-11-16",
+      "context": "Vidar"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/severvault-infostealer-logs-ai-profiles/",
+      "title": "SeverVault: Infostealer Logs Sold as AI Victim Profiles",
+      "source": "SOCRadar",
+      "published": "2026-11-16",
+      "context": "Vidar"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

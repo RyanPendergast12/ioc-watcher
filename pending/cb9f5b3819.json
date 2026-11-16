@@ -1,0 +1,36 @@
+{
+  "id": "cb9f5b3819",
+  "created": "2026-11-16T21:04:42+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Threat Actors → Ransomware/Brain Cipher.md",
+  "headline": "New IOC proposal — Brain Cipher",
+  "items": [
+    {
+      "type": "onion",
+      "value": "braincgksuixxkpkme7zlpkh7u47oryxx574d74ws4eal4t2mxyahbqd.onion",
+      "source": "RavenFile Daily-Hunt",
+      "context": "Brain Cipher Ransomware",
+      "ref": "https://github.com/TheRavenFile/Daily-Hunt/blob/3bbe72106094f108987d10367fc16e50944ae344/Brain Cipher Ransomware"
+    },
+    {
+      "type": "report",
+      "value": "https://github.com/TheRavenFile/Daily-Hunt/blob/3bbe72106094f108987d10367fc16e50944ae344/Brain Cipher Ransomware",
+      "title": "Brain Cipher Ransomware",
+      "source": "RavenFile Daily-Hunt",
+      "published": "2026-11-16",
+      "context": "Brain Cipher"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://github.com/TheRavenFile/Daily-Hunt/blob/3bbe72106094f108987d10367fc16e50944ae344/Brain Cipher Ransomware",
+      "title": "Brain Cipher Ransomware",
+      "source": "RavenFile Daily-Hunt",
+      "published": "2026-11-16",
+      "context": "Brain Cipher"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

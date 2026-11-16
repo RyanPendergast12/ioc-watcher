@@ -1,0 +1,432 @@
+{
+  "id": "41eabbf3f8",
+  "created": "2026-11-16T21:04:42+00:00",
+  "kind": "bucket",
+  "target_md": "Threat Intel/Raw Threat Intel/BAD DOMAINS.md",
+  "headline": "Raw intel — BAD DOMAINS",
+  "items": [
+    {
+      "type": "domain",
+      "value": "135461223.site",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "itrustcapitl-en-us.apper.so",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "gwrfdz4nmd.wpdns.site",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "escovamagal.vercel.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "sharemyhtml.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "olx.payu-poland-run.bond",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "vzmpt731-4k8w2xn-6j3d9g-rq517c.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "rodcm-hdv-a2mo-78web-11-10-2026-aa.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "raqmero-mpt-qunzeli-p8d4me57.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "xqvmt82nlo-k7p4w91-zm6j3d-rp825k.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "15aip-xj9-argi-3d4r3-17-09-2026-hh.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "xkmtq731-9p2w5zt-6j4d8g-rv217c.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "zrxmq95pla-7w2k8nt-3j6d4g-vq521c.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "marvani-mpt-qelzuro-k5x7pe82.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "meta-ronuno-biz-zavaro-pelaki.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "davquri-mpt-fenzelo-r8x3ka67.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "x5y2d-75b-99kc-gxhsk-18-09-2026-aa.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "burfavo-mpt-zumqeri-k7x5pe64.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "nqptx619-3m8w5zk-7j2d4g-rv921c.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "olx.paycore-my1.shop",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "bestchange.net.ua",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9560180"
+    },
+    {
+      "type": "domain",
+      "value": "olx.oferty24.cfd",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9560146"
+    },
+    {
+      "type": "domain",
+      "value": "sertzu.pagamentohostingeservizioyttakyishhzjyalwyts.eu.cc",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9560145"
+    },
+    {
+      "type": "domain",
+      "value": "allegro-lokalnie.pl-9382471.cfd",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9560144"
+    },
+    {
+      "type": "domain",
+      "value": "scuit.servizpos.eu.cc",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9560143"
+    },
+    {
+      "type": "domain",
+      "value": "flowcode.com",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9560140"
+    },
+    {
+      "type": "domain",
+      "value": "allegro.oferty24.cfd",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9560138"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.oferty24.cfd",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9560137"
+    },
+    {
+      "type": "domain",
+      "value": "s7pvczdc.pro",
+      "source": "PhishTank",
+      "context": "phish Amazon.com",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9560134"
+    },
+    {
+      "type": "domain",
+      "value": "jeandumpont.s7pvczdc.pro",
+      "source": "PhishTank",
+      "context": "phish Amazon.com",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9560132"
+    },
+    {
+      "type": "domain",
+      "value": "olx.pwpwwp.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9560125"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.ofe24.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9560124"
+    },
+    {
+      "type": "domain",
+      "value": "rsaccounts.com.gamevote.trade",
+      "source": "PhishTank",
+      "context": "phish RuneScape",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9560122"
+    },
+    {
+      "type": "domain",
+      "value": "rsaccounts.gamevote.trade",
+      "source": "PhishTank",
+      "context": "phish RuneScape",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9560121"
+    },
+    {
+      "type": "domain",
+      "value": "rsaccount.gamevote.trade",
+      "source": "PhishTank",
+      "context": "phish RuneScape",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9560119"
+    },
+    {
+      "type": "domain",
+      "value": "allegro.pwpwwp.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9560117"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.pwpwwp.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9560116"
+    },
+    {
+      "type": "domain",
+      "value": "allegro.ofe24.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9560115"
+    },
+    {
+      "type": "domain",
+      "value": "xc.frenchconnection.com.br",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9560112"
+    },
+    {
+      "type": "domain",
+      "value": "dev.sbphototours.com",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9560111"
+    },
+    {
+      "type": "domain",
+      "value": "achillharpfestival.ie",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "unwaveringmedia.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "gungangfam.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "swingerxxx.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "orepasscg.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "bartonmcgill.co.nz",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "westtrek.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "vormax.link",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "wenolira.top",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "depressionk1d.ug",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "lb096418.justinstalledpanel.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "l094b2d2.justinstalledpanel.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "foxydownloader.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "74f26d34ffff049368a6cff8812f86ee.gq",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "74f26d34ffff049368a6cff8812f86ee.ml",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "checkvim.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "arku.xyz",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "lkki.xyz",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "boat.salvajesrp.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "8babok.ru",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

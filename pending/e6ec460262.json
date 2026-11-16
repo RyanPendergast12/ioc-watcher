@@ -1,0 +1,47 @@
+{
+  "id": "e6ec460262",
+  "created": "2026-11-16T21:04:42+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Threat Actors → APT + Nation-State/KIMSUKY-APT43.md",
+  "headline": "New IOC proposal — KIMSUKY-APT43",
+  "items": [
+    {
+      "type": "domain",
+      "value": "j2mkcafd.mywebcommunity.org",
+      "source": "TweetFeed",
+      "context": "@copy_and_paster #Kimsuky",
+      "ref": "https://x.com/copy_and_paster/status/2122263881632674178"
+    },
+    {
+      "type": "domain",
+      "value": "o9tq2b08.onlinewebshop.net",
+      "source": "TweetFeed",
+      "context": "@copy_and_paster #Kimsuky",
+      "ref": "https://x.com/copy_and_paster/status/2122263881632674178"
+    },
+    {
+      "type": "domain",
+      "value": "aji9w5i3.scienceontheweb.net",
+      "source": "TweetFeed",
+      "context": "@copy_and_paster #Kimsuky",
+      "ref": "https://x.com/copy_and_paster/status/2122263881632674178"
+    },
+    {
+      "type": "domain",
+      "value": "kbcard.lovestoblog.com",
+      "source": "TweetFeed",
+      "context": "@copy_and_paster #Kimsuky",
+      "ref": "https://x.com/copy_and_paster/status/2122263881632674178"
+    },
+    {
+      "type": "domain",
+      "value": "samsungfire.lovestoblog.com",
+      "source": "TweetFeed",
+      "context": "@copy_and_paster #Kimsuky",
+      "ref": "https://x.com/copy_and_paster/status/2122263881632674178"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

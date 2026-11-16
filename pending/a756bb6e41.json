@@ -1,0 +1,99 @@
+{
+  "id": "a756bb6e41",
+  "created": "2026-11-16T21:04:42+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Threat Actors → Ransomware/Nitrogen.md",
+  "headline": "New IOC proposal — Nitrogen",
+  "items": [
+    {
+      "type": "onion",
+      "value": "5ahn3sxya4fdj642cutemvxdwi4rfwa2ugtggnu3gkmct6wsugpdefyd.onion",
+      "source": "RavenFile Daily-Hunt",
+      "context": "Nitrogen Ransomware",
+      "ref": "https://github.com/TheRavenFile/Daily-Hunt/blob/850d14e670ed3d9b34af4b07cd858a195f674804/Nitrogen Ransomware"
+    },
+    {
+      "type": "onion",
+      "value": "bf7dw4n6zne6rbgjlpcsidphpk753nkyubipkym5t4pntgfyb6clw2qd.onion",
+      "source": "RavenFile Daily-Hunt",
+      "context": "Nitrogen Ransomware",
+      "ref": "https://github.com/TheRavenFile/Daily-Hunt/blob/850d14e670ed3d9b34af4b07cd858a195f674804/Nitrogen Ransomware"
+    },
+    {
+      "type": "onion",
+      "value": "gjendw2d6oqjs6nxnwwuc6khpa5g5gzp7pyuiwzamalzzzk6vomm7xid.onion",
+      "source": "RavenFile Daily-Hunt",
+      "context": "Nitrogen Ransomware",
+      "ref": "https://github.com/TheRavenFile/Daily-Hunt/blob/850d14e670ed3d9b34af4b07cd858a195f674804/Nitrogen Ransomware"
+    },
+    {
+      "type": "onion",
+      "value": "j56wqkcxzvuz25wzypoxua3fex5zfuc3emkhw4bemtiuikt46dwma6id.onion",
+      "source": "RavenFile Daily-Hunt",
+      "context": "Nitrogen Ransomware",
+      "ref": "https://github.com/TheRavenFile/Daily-Hunt/blob/850d14e670ed3d9b34af4b07cd858a195f674804/Nitrogen Ransomware"
+    },
+    {
+      "type": "onion",
+      "value": "jjd7mnfahw6sk45c6ozeuhd2g4653dwncojppqtn42amedvqg6hfy6ad.onion",
+      "source": "RavenFile Daily-Hunt",
+      "context": "Nitrogen Ransomware",
+      "ref": "https://github.com/TheRavenFile/Daily-Hunt/blob/850d14e670ed3d9b34af4b07cd858a195f674804/Nitrogen Ransomware"
+    },
+    {
+      "type": "onion",
+      "value": "vz4ybjdqhtm753rznnwx67elvzhbcdkqk24g3ytnq32h6qpirigkytqd.onion",
+      "source": "RavenFile Daily-Hunt",
+      "context": "Nitrogen Ransomware",
+      "ref": "https://github.com/TheRavenFile/Daily-Hunt/blob/850d14e670ed3d9b34af4b07cd858a195f674804/Nitrogen Ransomware"
+    },
+    {
+      "type": "onion",
+      "value": "ws6uapok34o3uvn3v6nru574urlvlbn5u3pi2xzyg765vpv2fixcm4ad.onion",
+      "source": "RavenFile Daily-Hunt",
+      "context": "Nitrogen Ransomware",
+      "ref": "https://github.com/TheRavenFile/Daily-Hunt/blob/850d14e670ed3d9b34af4b07cd858a195f674804/Nitrogen Ransomware"
+    },
+    {
+      "type": "onion",
+      "value": "x2uegexhalau7yn5aa6pkmq6vxx54p7hpda5fie66lhz2vlul65sjzyd.onion",
+      "source": "RavenFile Daily-Hunt",
+      "context": "Nitrogen Ransomware",
+      "ref": "https://github.com/TheRavenFile/Daily-Hunt/blob/850d14e670ed3d9b34af4b07cd858a195f674804/Nitrogen Ransomware"
+    },
+    {
+      "type": "onion",
+      "value": "xpfyw5zw4zpyvr7bpyww7za2konudigljazg54lyjdy2svysusq6nnqd.onion",
+      "source": "RavenFile Daily-Hunt",
+      "context": "Nitrogen Ransomware",
+      "ref": "https://github.com/TheRavenFile/Daily-Hunt/blob/850d14e670ed3d9b34af4b07cd858a195f674804/Nitrogen Ransomware"
+    },
+    {
+      "type": "onion",
+      "value": "xqsdbtrtmufdyiqnkrkvosec4gqappf2egcptzqppjtqdevsoadakyqd.onion",
+      "source": "RavenFile Daily-Hunt",
+      "context": "Nitrogen Ransomware",
+      "ref": "https://github.com/TheRavenFile/Daily-Hunt/blob/850d14e670ed3d9b34af4b07cd858a195f674804/Nitrogen Ransomware"
+    },
+    {
+      "type": "report",
+      "value": "https://github.com/TheRavenFile/Daily-Hunt/blob/850d14e670ed3d9b34af4b07cd858a195f674804/Nitrogen Ransomware",
+      "title": "Nitrogen Ransomware",
+      "source": "RavenFile Daily-Hunt",
+      "published": "2026-11-16",
+      "context": "Nitrogen"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://github.com/TheRavenFile/Daily-Hunt/blob/850d14e670ed3d9b34af4b07cd858a195f674804/Nitrogen Ransomware",
+      "title": "Nitrogen Ransomware",
+      "source": "RavenFile Daily-Hunt",
+      "published": "2026-11-16",
+      "context": "Nitrogen"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

@@ -1,0 +1,155 @@
+{
+  "id": "75387482cc",
+  "created": "2026-11-16T21:04:42+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Threat Actors → APT + Nation-State/Mustang Panda.md",
+  "headline": "New IOC proposal — Mustang Panda",
+  "items": [
+    {
+      "type": "domain",
+      "value": "app.box.com",
+      "source": "IBM X-Force",
+      "context": "Trapping a Mustang Panda",
+      "ref": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda"
+    },
+    {
+      "type": "domain",
+      "value": "couldinstallup.com",
+      "source": "IBM X-Force",
+      "context": "Trapping a Mustang Panda",
+      "ref": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda"
+    },
+    {
+      "type": "domain",
+      "value": "creative-daifuku-5699cd.netlify.app",
+      "source": "IBM X-Force",
+      "context": "Trapping a Mustang Panda",
+      "ref": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda"
+    },
+    {
+      "type": "domain",
+      "value": "fdcvgbb.com",
+      "source": "IBM X-Force",
+      "context": "Trapping a Mustang Panda",
+      "ref": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda"
+    },
+    {
+      "type": "ip",
+      "value": "188.208.141.177",
+      "source": "IBM X-Force",
+      "context": "Trapping a Mustang Panda",
+      "ref": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda"
+    },
+    {
+      "type": "ip",
+      "value": "188.5.97.169",
+      "source": "IBM X-Force",
+      "context": "Trapping a Mustang Panda",
+      "ref": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda"
+    },
+    {
+      "type": "ip",
+      "value": "194.5.97.169",
+      "source": "IBM X-Force",
+      "context": "Trapping a Mustang Panda",
+      "ref": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda"
+    },
+    {
+      "type": "ip",
+      "value": "92.63.180.35",
+      "source": "IBM X-Force",
+      "context": "Trapping a Mustang Panda",
+      "ref": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda"
+    },
+    {
+      "type": "md5",
+      "value": "823b122deea347dbe2407c1542c1cc6c",
+      "source": "IBM X-Force",
+      "context": "Trapping a Mustang Panda",
+      "ref": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda"
+    },
+    {
+      "type": "md5",
+      "value": "a1383f905eb9a69762b46ed879a31959",
+      "source": "IBM X-Force",
+      "context": "Trapping a Mustang Panda",
+      "ref": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda"
+    },
+    {
+      "type": "md5",
+      "value": "fcb83daf9d21d90e80223df88f9105ae",
+      "source": "IBM X-Force",
+      "context": "Trapping a Mustang Panda",
+      "ref": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda"
+    },
+    {
+      "type": "sha256",
+      "value": "39ba7a4ae768b175e7168066a3df2b4df2ca64a91d12f6e1400efee0ed9fd568",
+      "source": "IBM X-Force",
+      "context": "Trapping a Mustang Panda",
+      "ref": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda"
+    },
+    {
+      "type": "sha256",
+      "value": "50765fe4557ee9c1482ed4cd857ce48e4698ae992202aed09be66f8c05119b73",
+      "source": "IBM X-Force",
+      "context": "Trapping a Mustang Panda",
+      "ref": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda"
+    },
+    {
+      "type": "sha256",
+      "value": "550fd495a053cfb9516b123b3d78146047f05b2cee9e06281577265e60b6c0cd",
+      "source": "IBM X-Force",
+      "context": "Trapping a Mustang Panda",
+      "ref": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda"
+    },
+    {
+      "type": "sha256",
+      "value": "89ec6417600d4f9dd6f67109f46718645dfd9c57100ba0bbc01704884b818218",
+      "source": "IBM X-Force",
+      "context": "Trapping a Mustang Panda",
+      "ref": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda"
+    },
+    {
+      "type": "sha256",
+      "value": "b7aa6cda2d08f5f2d9b422446a2abfbf6a84f35285b139af6a24c020076bb0e0",
+      "source": "IBM X-Force",
+      "context": "Trapping a Mustang Panda",
+      "ref": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda"
+    },
+    {
+      "type": "sha256",
+      "value": "db4176b0c83065f4f4820aded7f7170d28268a253b28ed09e8067f39ab554d78",
+      "source": "IBM X-Force",
+      "context": "Trapping a Mustang Panda",
+      "ref": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda"
+    },
+    {
+      "type": "sha256",
+      "value": "ebd533de7ca16daa70093b0b1084fb6136b6ba091d6ee0e4199762581e1b2e5a",
+      "source": "IBM X-Force",
+      "context": "Trapping a Mustang Panda",
+      "ref": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda"
+    },
+    {
+      "type": "report",
+      "value": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda",
+      "title": "Trapping a Mustang Panda",
+      "source": "IBM X-Force",
+      "published": "2026-11-16",
+      "context": "Mustang Panda"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda",
+      "title": "Trapping a Mustang Panda",
+      "source": "IBM X-Force",
+      "published": "2026-11-16",
+      "context": "Mustang Panda"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

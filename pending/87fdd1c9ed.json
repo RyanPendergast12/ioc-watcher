@@ -1,0 +1,29 @@
+{
+  "id": "87fdd1c9ed",
+  "created": "2026-11-16T21:04:42+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Threat Actors → Cybercrime + Other/Shai-Hulud 2.0.md",
+  "headline": "New IOC proposal — Shai-Hulud 2.0",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/ai-arena-huntress-ctf-2026-retro",
+      "title": "The AI Arena: Huntress CTF 2026 Retro",
+      "source": "Huntress",
+      "published": "2026-11-16",
+      "context": "ClawBot + OpenClaw, Shai-Hulud 2.0"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/ai-arena-huntress-ctf-2026-retro",
+      "title": "The AI Arena: Huntress CTF 2026 Retro",
+      "source": "Huntress",
+      "published": "2026-11-16",
+      "context": "ClawBot + OpenClaw, Shai-Hulud 2.0"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

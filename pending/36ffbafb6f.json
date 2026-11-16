@@ -1,0 +1,50 @@
+{
+  "id": "36ffbafb6f",
+  "created": "2026-11-16T21:04:42+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Threat Actors → Cybercrime + Other/HandalaMuddyWater.md",
+  "headline": "New IOC proposal — HandalaMuddyWater",
+  "items": [
+    {
+      "type": "ip",
+      "value": "157.20.182.49",
+      "source": "CrowdStrike",
+      "context": "How Adversaries Are Turning the Vulnerability Ecosystem Against Defend",
+      "ref": "https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/"
+    },
+    {
+      "type": "sha256",
+      "value": "de8d1b25e8965dc98c62d675ee7c451ed12502194890f6cc691322ad66f3abf4",
+      "source": "CrowdStrike",
+      "context": "How Adversaries Are Turning the Vulnerability Ecosystem Against Defend",
+      "ref": "https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/"
+    },
+    {
+      "type": "sha256",
+      "value": "fd6b46d148af22da6163f18ce43b35ebb827cc6e140f03f0f514bc2a6f548743",
+      "source": "CrowdStrike",
+      "context": "How Adversaries Are Turning the Vulnerability Ecosystem Against Defend",
+      "ref": "https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/"
+    },
+    {
+      "type": "report",
+      "value": "https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/",
+      "title": "How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders",
+      "source": "CrowdStrike",
+      "published": "2026-11-16",
+      "context": "HandalaMuddyWater"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/",
+      "title": "How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders",
+      "source": "CrowdStrike",
+      "published": "2026-11-16",
+      "context": "HandalaMuddyWater"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

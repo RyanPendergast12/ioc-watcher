@@ -1,0 +1,29 @@
+{
+  "id": "ebbfce6016",
+  "created": "2026-11-16T21:04:42+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Threat Actors → Ransomware/Cl0p.md",
+  "headline": "New IOC proposal — Cl0p",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://www.dragos.com/blog/dragos-industrial-ransomware-analysis-q3-2026",
+      "title": "Industrial Ransomware Analysis for Q3 2026",
+      "source": "Dragos",
+      "published": "2026-11-16",
+      "context": "Qilin, Cl0p, INC, Akira"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://www.dragos.com/blog/dragos-industrial-ransomware-analysis-q3-2026",
+      "title": "Industrial Ransomware Analysis for Q3 2026",
+      "source": "Dragos",
+      "published": "2026-11-16",
+      "context": "Qilin, Cl0p, INC, Akira"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

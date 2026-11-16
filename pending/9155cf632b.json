@@ -1,0 +1,29 @@
+{
+  "id": "9155cf632b",
+  "created": "2026-11-16T21:04:42+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Threat Actors → APT + Nation-State/APT35 - Charming Kitten.md",
+  "headline": "New IOC proposal — APT35 - Charming Kitten",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://www.dragos.com/blog/dragos-acquires-netrise-runzero-xot-platform",
+      "title": "Dragos Acquires NetRise and runZero: What's Next for xOT Security",
+      "source": "Dragos",
+      "published": "2026-11-16",
+      "context": "APT35 - Charming Kitten"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://www.dragos.com/blog/dragos-acquires-netrise-runzero-xot-platform",
+      "title": "Dragos Acquires NetRise and runZero: What's Next for xOT Security",
+      "source": "Dragos",
+      "published": "2026-11-16",
+      "context": "APT35 - Charming Kitten"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

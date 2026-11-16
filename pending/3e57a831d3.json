@@ -1,0 +1,29 @@
+{
+  "id": "3e57a831d3",
+  "created": "2026-11-16T21:04:42+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Threat Actors → APT + Nation-State/Lazarus.md",
+  "headline": "New IOC proposal — Lazarus",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://github.com/blackorbird/APT_REPORT/blob/c3078731dd619996a355cbbbae7251d3d97b0228/lazarus/North Korean Hackers Use Secretly Recorded Webcam Library of .pdf",
+      "title": "North Korean Hackers Use Secretly Recorded Webcam Library of ",
+      "source": "APT_REPORT",
+      "published": "2026-11-16",
+      "context": "Lazarus"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://github.com/blackorbird/APT_REPORT/blob/c3078731dd619996a355cbbbae7251d3d97b0228/lazarus/North Korean Hackers Use Secretly Recorded Webcam Library of .pdf",
+      "title": "North Korean Hackers Use Secretly Recorded Webcam Library of ",
+      "source": "APT_REPORT",
+      "published": "2026-11-16",
+      "context": "Lazarus"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

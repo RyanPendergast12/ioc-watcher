@@ -1,0 +1,144 @@
+{
+  "id": "1f0a7b942e",
+  "created": "2026-11-16T21:04:42+00:00",
+  "kind": "kev",
+  "target_md": "Vulnerability Management/CISA KEV.md",
+  "headline": "CISA KEV — 12 new",
+  "items": [
+    {
+      "type": "cve",
+      "value": "CVE-2026-114713",
+      "source": "CISA KEV",
+      "context": "UnrealIRCd UnrealIRCd — UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
+      "ref": "https://nvd.nist.gov/vuln/detail/CVE-2026-114713",
+      "dateAdded": "2026-11-13",
+      "dueDate": "2026-11-16",
+      "ransomware": false,
+      "notes": "UnrealIRCd UnrealIRCd contains an improper neutralization of delimiters vulnerability that allows any user on a network with two or more linked servers to inject server-to-server commands that are executed with server authority."
+    },
+    {
+      "type": "cve",
+      "value": "CVE-2026-123039",
+      "source": "CISA KEV",
+      "context": "Check Point Multiple Products — Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability",
+      "ref": "https://nvd.nist.gov/vuln/detail/CVE-2026-123039",
+      "dateAdded": "2026-11-13",
+      "dueDate": "2026-11-16",
+      "ransomware": false,
+      "notes": "Check Point Firewall, Multi-Domain Security Management Server, Scalable Platforms, Security Gateway, and Security Management Server contain an incorrect permissions assignment for critical resources vulnerability when the Gaia OS DynamicCLI daemon runs as root and listens on a world-writable local s"
+    },
+    {
+      "type": "cve",
+      "value": "CVE-2026-124194",
+      "source": "CISA KEV",
+      "context": "Microsoft Office — Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
+      "ref": "https://nvd.nist.gov/vuln/detail/CVE-2026-124194",
+      "dateAdded": "2026-11-10",
+      "dueDate": "2026-11-24",
+      "ransomware": false,
+      "notes": "Microsoft Office Outlook contains a missing user interaction for potentially unsafe action vulnerability that allows an unauthorized attacker to perform spoofing over a network."
+    },
+    {
+      "type": "cve",
+      "value": "CVE-2026-111793",
+      "source": "CISA KEV",
+      "context": "Openwave Messaging Limited Webtop Media Transcoder — Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability",
+      "ref": "https://nvd.nist.gov/vuln/detail/CVE-2026-111793",
+      "dateAdded": "2026-11-10",
+      "dueDate": "2026-11-24",
+      "ransomware": false,
+      "notes": "Openwave Messaging Limited Webtop Media Transcoder contains an incorrect resource transfer between spheres vulnerability that may allow an authenticated user to process and convert unintended document types if bypassing the Webmail experience."
+    },
+    {
+      "type": "cve",
+      "value": "CVE-2026-20320",
+      "source": "CISA KEV",
+      "context": "Cisco BroadWorks — Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability",
+      "ref": "https://nvd.nist.gov/vuln/detail/CVE-2026-20320",
+      "dateAdded": "2026-11-10",
+      "dueDate": "2026-11-24",
+      "ransomware": false,
+      "notes": "Cisco BroadWorks contains an improper restriction of XML external entity reference vulnerability that could allow an unauthenticated, remote attacker to read sensitive configuration information on an affected system."
+    },
+    {
+      "type": "cve",
+      "value": "CVE-2026-111560",
+      "source": "CISA KEV",
+      "context": "Barracuda Networks Multiple Products — Barracuda Networks Multiple Products OS Command Injection Vulnerability",
+      "ref": "https://nvd.nist.gov/vuln/detail/CVE-2026-111560",
+      "dateAdded": "2026-11-10",
+      "dueDate": "2026-11-13",
+      "ransomware": false,
+      "notes": "Barracuda Networks Email Security Gateway (ESG), Load Balancer, Application Delivery Controller (ADC), Message Archiver (BMA), WAF Control Center (WCC), Web Application Firewall (WAF), and Web Security Gateway (WSG) contain an OS command injection vulnerability. This vulnerability could allow an aut"
+    },
+    {
+      "type": "cve",
+      "value": "CVE-2026-116606",
+      "source": "CISA KEV",
+      "context": "Barracuda Networks Barracuda Email Security Gateway (ESG) — Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+      "ref": "https://nvd.nist.gov/vuln/detail/CVE-2026-116606",
+      "dateAdded": "2026-11-10",
+      "dueDate": "2026-11-13",
+      "ransomware": false,
+      "notes": "Barracuda Networks Email Security Gateway (ESG) contains an authentication bypass using an alternate path or channel that could allow an unauthenticated remote attacker to invoke a configuration-import function and restore a crafted, compatible backup archive, resulting in unauthorized modification "
+    },
+    {
+      "type": "cve",
+      "value": "CVE-2026-125350",
+      "source": "CISA KEV",
+      "context": "Google Chromium — Google Chromium Use-After-Free Vulnerability",
+      "ref": "https://nvd.nist.gov/vuln/detail/CVE-2026-125350",
+      "dateAdded": "2026-11-10",
+      "dueDate": "2026-11-24",
+      "ransomware": false,
+      "notes": "Google Chromium contains a use-after-free vulnerability in the XML component that could allow a remote attacker to execute arbitrary code inside the sandbox via a specially crafted webpage. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Go"
+    },
+    {
+      "type": "cve",
+      "value": "CVE-2026-102895",
+      "source": "CISA KEV",
+      "context": "GPUStack GPUStack — GPUStack Improper Authentication Vulnerability",
+      "ref": "https://nvd.nist.gov/vuln/detail/CVE-2026-102895",
+      "dateAdded": "2026-11-09",
+      "dueDate": "2026-11-12",
+      "ransomware": false,
+      "notes": "GPUStack contains an improper authentication vulnerability which could allow unauthenticated administrative access, including user and model changes, persistent administrator API-key creation, disclosure of worker and cloud-provider secrets, and code execution through POST /v2/inference-backends/fro"
+    },
+    {
+      "type": "cve",
+      "value": "CVE-2026-123158",
+      "source": "CISA KEV",
+      "context": "OpenBSD OpenSSH — OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability",
+      "ref": "https://nvd.nist.gov/vuln/detail/CVE-2026-123158",
+      "dateAdded": "2026-11-09",
+      "dueDate": "2026-11-12",
+      "ransomware": false,
+      "notes": "OpenBSD OpenSSH on Linux contains an unexpected status code or return value vulnerability that could allow for authentication bypass."
+    },
+    {
+      "type": "cve",
+      "value": "CVE-2026-116779",
+      "source": "CISA KEV",
+      "context": "SignalWire FreeSwitch — SignalWire FreeSwitch Code Injection Vulnerability",
+      "ref": "https://nvd.nist.gov/vuln/detail/CVE-2026-116779",
+      "dateAdded": "2026-11-09",
+      "dueDate": "2026-11-12",
+      "ransomware": false,
+      "notes": "SignalWire FreeSwitch contains a code injection vulnerability that permits configuration and credential disclosure, arbitrary call control, and command execution."
+    },
+    {
+      "type": "cve",
+      "value": "CVE-2026-123218",
+      "source": "CISA KEV",
+      "context": "IBM Aspera Faspex — IBM Aspera Faspex Incorrect Authorization Vulnerability",
+      "ref": "https://nvd.nist.gov/vuln/detail/CVE-2026-123218",
+      "dateAdded": "2026-11-09",
+      "dueDate": "2026-11-12",
+      "ransomware": false,
+      "notes": "IBM Aspera Faspex contains an incorrect authorization vulnerability that could allow an authenticated user to craft a specific message to bypass authorization, causing privilege escalations."
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

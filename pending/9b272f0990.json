@@ -1,0 +1,45 @@
+{
+  "id": "9b272f0990",
+  "created": "2026-11-16T21:04:42+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Botnets/ClawBot + OpenClaw.md",
+  "headline": "New IOC proposal — ClawBot + OpenClaw",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/security-insights-report",
+      "title": "New Huntress Security Insights Report & Reporting Center",
+      "source": "Huntress",
+      "published": "2026-11-16",
+      "context": "ClawBot + OpenClaw"
+    },
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/ai-arena-huntress-ctf-2026-retro",
+      "title": "The AI Arena: Huntress CTF 2026 Retro",
+      "source": "Huntress",
+      "published": "2026-11-16",
+      "context": "ClawBot + OpenClaw, Shai-Hulud 2.0"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/security-insights-report",
+      "title": "New Huntress Security Insights Report & Reporting Center",
+      "source": "Huntress",
+      "published": "2026-11-16",
+      "context": "ClawBot + OpenClaw"
+    },
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/ai-arena-huntress-ctf-2026-retro",
+      "title": "The AI Arena: Huntress CTF 2026 Retro",
+      "source": "Huntress",
+      "published": "2026-11-16",
+      "context": "ClawBot + OpenClaw, Shai-Hulud 2.0"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "72fa49cb43",
+  "created": "2026-11-16T21:04:42+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Loaders + Initial Access/QakBot.md",
+  "headline": "New IOC proposal — QakBot",
+  "items": [
+    {
+      "type": "ip",
+      "value": "50.16.16.211",
+      "source": "Feodo Tracker",
+      "context": "QakBot C2 :443",
+      "ref": "https://feodotracker.abuse.ch/browse/host/50.16.16.211/"
+    },
+    {
+      "type": "ip",
+      "value": "34.204.119.63",
+      "source": "Feodo Tracker",
+      "context": "QakBot C2 :443",
+      "ref": "https://feodotracker.abuse.ch/browse/host/34.204.119.63/"
+    },
+    {
+      "type": "ip",
+      "value": "178.62.3.223",
+      "source": "Feodo Tracker",
+      "context": "QakBot C2 :443",
+      "ref": "https://feodotracker.abuse.ch/browse/host/178.62.3.223/"
+    },
+    {
+      "type": "ip",
+      "value": "27.133.154.218",
+      "source": "Feodo Tracker",
+      "context": "QakBot C2 :443",
+      "ref": "https://feodotracker.abuse.ch/browse/host/27.133.154.218/"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}
