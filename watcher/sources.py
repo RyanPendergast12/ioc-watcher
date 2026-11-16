@@ -233,6 +233,19 @@ def spamhaus_drop(cfg, ctx) -> SourceResult:
     return res
 
 
+def cidrlist(cfg, ctx) -> SourceResult:
+    """Plain-text CIDR list (e.g. StopForumSpam toxic ranges). Baselines first, then proposes new ranges."""
+    res = SourceResult()
+    snaps = ctx.state.setdefault("snap", {})
+    known = set(snaps.get(cfg["name"], []))
+    current = [l.split()[0] for l in _lines(get(cfg["url"]).text) if iocs.CIDR_RE.fullmatch(l.split()[0])]
+    for c in current:
+        if known and c not in known:
+            res.candidates.append(Candidate("cidr", c, cfg["name"], context=cfg.get("context", "")))
+    snaps[cfg["name"]] = sorted(current)
+    return res
+
+
 # ------------------------------------------------------------------ domain / url lists
 def urllist(cfg, ctx) -> SourceResult:
     """Line-based URL or domain list (OpenPhish, VXVault, CyberCrime Tracker, CoinBlocker)."""
@@ -466,6 +479,6 @@ def github_repo(cfg, ctx) -> SourceResult:
 REGISTRY = {
     "threatfox": threatfox, "malwarebazaar": malwarebazaar, "urlhaus": urlhaus, "feodo": feodo,
     "sslbl": sslbl, "iplist": iplist, "isc_sans": isc_sans, "abuseipdb": abuseipdb,
-    "spamhaus_drop": spamhaus_drop, "urllist": urllist, "phishtank": phishtank, "tweetfeed": tweetfeed,
+    "spamhaus_drop": spamhaus_drop, "cidrlist": cidrlist, "urllist": urllist, "phishtank": phishtank, "tweetfeed": tweetfeed,
     "otx": otx, "cisa_kev": cisa_kev, "rss": rss, "html_index": html_index, "github_repo": github_repo,
 }

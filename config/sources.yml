@@ -13,6 +13,11 @@
 #   Digital Shadows (APT/Threat profiles) paid — now ReliaQuest GreyMatter DRP
 #   Stroz Friedberg ..................... no public feed
 #   ThreatMiner, BotScout, GreyNoise .... lookup/enrichment APIs, not feeds
+#   VirusTotal, Shodan, Censys, ZoomEye, Netlas, SecurityTrails, WhoisXML, ViewDNS,
+#   RiskIQ/PassiveTotal, DNSDumpster ...... lookup/pivot tools (per-IOC queries), not feeds
+#   A-ISAC, H-ISAC, FS-ISAC ............. member-only sharing (TAXII/portal)
+#   KELA, Recorded Future (API), Intel471 (API), Mandiant Advantage, ThreatConnect,
+#   IBM X-Force Exchange (API) .......... paid platforms — their public blogs are included below
 #   ZeroDot1 CoinBlockerList ............ GitLab Pages returns 403 to scripts (enabled below; may fail)
 
 sources:
@@ -36,6 +41,7 @@ sources:
   - {name: isc_sans,                type: isc_sans}
   - {name: abuseipdb,               type: abuseipdb, min_confidence: 100}      # needs ABUSEIPDB_API_KEY
   - {name: spamhaus_drop,           type: spamhaus_drop}
+  - {name: stopforumspam_toxic,     type: cidrlist, url: "https://www.stopforumspam.com/downloads/toxic_ip_cidr.txt", context: StopForumSpam toxic range}
 
   # ---------------------------------------------------------------- domains / urls / mixed
   - {name: openphish,         type: urllist, url: "https://openphish.com/feed.txt", context: phishing, max_items: 300}
@@ -74,7 +80,15 @@ sources:
   - {name: SOCRadar,            type: rss, kind: research, url: "https://socradar.io/feed/"}
   - {name: Proofpoint,          type: rss, kind: research, url: "https://www.proofpoint.com/us/rss.xml"}
   - {name: CrowdStrike,         type: rss, kind: research, url: "https://www.crowdstrike.com/en-us/blog/feed"}
-  # Sophos / Trellix: refuse automated clients (disabled). Expel / Cybereason / Acronis / Deepweb Informer: no working RSS found (2026-11-15)
+  - {name: Intel 471,           type: rss, kind: research, url: "https://intel471.com/blog/feed"}
+  - {name: Google Threat Intelligence (Mandiant), type: rss, kind: research, url: "https://feeds.feedburner.com/threatintelligence/pvexyqv7v0v"}
+  - {name: LevelBlue SpiderLabs (ex-Cybereason), type: rss, kind: research, url: "https://www.levelblue.com/blogs/spiderlabs-blog/rss.xml"}
+  - {name: Expel,               type: html_index, kind: research, url: "https://expel.com/blog/", link_pattern: 'expel\.com/blog/[a-z0-9-]{12,}/?$'}
+  - {name: Dragos,              type: html_index, kind: research, url: "https://www.dragos.com/blog/", link_pattern: 'dragos\.com/blog/[a-z0-9-]{12,}/?$'}
+  - {name: IBM X-Force,         type: html_index, kind: research, url: "https://www.ibm.com/think/x-force", link_pattern: "/think/x-force/[a-z0-9-]{12,}$"}
+  # Sophos / Trellix: refuse automated clients (disabled).
+  # Acronis TRU, KELA: blog index is JavaScript-rendered, no RSS. ThreatConnect is now Dataminr (no research feed).
+  # Deepweb Informer: domain no longer resolves (2026-11-16).
 
   # ---------------------------------------------------------------- GitHub IOC repos
   - {name: Unit42 Timely TI,   type: github_repo, kind: repo,    repo: PaloAltoNetworks/Unit42-timely-threat-intel}
