@@ -1,0 +1,834 @@
+# GENERATED — edit config/aliases.yml and re-run tools/build_mapping.py
+generated_from: tools/build_mapping.py
+buckets:
+  ip: Threat Intel/Raw Threat Intel/BAD IPS.md
+  domain: Threat Intel/Raw Threat Intel/BAD DOMAINS.md
+  hash: Threat Intel/Raw Threat Intel/BAD HASHES.md
+  kev: Vulnerability Management/CISA KEV.md
+  digest_dir: Threat Intel/Intel Feed
+mb_signatures:
+- LummaStealer
+- RedLineStealer
+- Vidar
+- AgentTesla
+- AsyncRAT
+- NjRAT
+- VenomRAT
+- Rhadamanthys
+- AtomicStealer
+- AMOS
+- QakBot
+- GuLoader
+- CloudEyE
+- SocGholish
+- GootLoader
+- BumbleBee
+- RaspberryRobin
+- Gozi
+- Ursnif
+- PlugX
+- ShadowPad
+- Mimikatz
+- Rubeus
+- LaZagne
+- Grandoreiro
+- Mispadu
+- Coyote
+- Metamorfo
+- Octo
+- LockBit
+- Akira
+- BlackBasta
+- Conti
+- Rhysida
+- Qilin
+- CaddyWiper
+- HermeticWiper
+- WhisperGate
+- ChromeLoader
+- CastleLoader
+- Medusa
+- BlackSuit
+- ValleyRAT
+- DcRAT
+- Winos
+targets:
+- path: Threat Intel/Malware Families/Banking Trojans/Coyote.md
+  title: Coyote
+  category: Banking Trojans
+  aliases:
+  - Coyote
+  strict: []
+- path: Threat Intel/Malware Families/Banking Trojans/Grandoreiro.md
+  title: Grandoreiro
+  category: Banking Trojans
+  aliases:
+  - Grandoreiro
+  strict: []
+- path: Threat Intel/Malware Families/Banking Trojans/Metamorfo.md
+  title: Metamorfo
+  category: Banking Trojans
+  aliases:
+  - Metamorfo
+  strict: []
+- path: Threat Intel/Malware Families/Banking Trojans/Mispadu.md
+  title: Mispadu
+  category: Banking Trojans
+  aliases:
+  - Mispadu
+  strict: []
+- path: Threat Intel/Malware Families/Banking Trojans/Octo.md
+  title: Octo
+  category: Banking Trojans
+  aliases:
+  - Octo banking trojan
+  - Octo2
+  - ExobotCompact
+  strict:
+  - Octo
+- path: Threat Intel/Malware Families/Banking Trojans/OxtaRAT.md
+  title: OxtaRAT
+  category: Banking Trojans
+  aliases:
+  - OxtaRAT
+  strict: []
+- path: Threat Intel/Malware Families/Banking Trojans/TCLBanker.md
+  title: TCLBanker
+  category: Banking Trojans
+  aliases:
+  - TCLBanker
+  strict: []
+- path: Threat Intel/Malware Families/Botnets/ClawBot + OpenClaw.md
+  title: ClawBot + OpenClaw
+  category: Botnets
+  aliases:
+  - ClawBot
+  - OpenClaw
+  strict: []
+- path: Threat Intel/Malware Families/Botnets/KV-Botnet.md
+  title: KV-Botnet
+  category: Botnets
+  aliases:
+  - KV-Botnet
+  - KV botnet
+  strict: []
+- path: Threat Intel/Malware Families/Botnets/Raptor Train.md
+  title: Raptor Train
+  category: Botnets
+  aliases:
+  - Raptor Train
+  - Flax Typhoon
+  strict: []
+- path: Threat Intel/Malware Families/Dll Sideloaders/Dragonbreath.md
+  title: Dragonbreath
+  category: Dll Sideloaders
+  aliases:
+  - Dragon Breath
+  - Dragonbreath
+  - APT-Q-27
+  - Golden Eye Dog
+  strict: []
+- path: Threat Intel/Malware Families/Dll Sideloaders/NightDoor.md
+  title: NightDoor
+  category: Dll Sideloaders
+  aliases:
+  - NightDoor
+  strict: []
+- path: Threat Intel/Malware Families/Dll Sideloaders/PlugX.md
+  title: PlugX
+  category: Dll Sideloaders
+  aliases:
+  - PlugX
+  - Korplug
+  - Sogu
+  strict: []
+- path: Threat Intel/Malware Families/Dll Sideloaders/ShadowPad.md
+  title: ShadowPad
+  category: Dll Sideloaders
+  aliases:
+  - ShadowPad
+  - PoisonPlug
+  strict: []
+- path: Threat Intel/Malware Families/Infostealers/Agent Tesla.md
+  title: Agent Tesla
+  category: Infostealers
+  aliases:
+  - Agent Tesla
+  - AgentTesla
+  strict: []
+- path: Threat Intel/Malware Families/Infostealers/AtomicStealer.md
+  title: AtomicStealer
+  category: Infostealers
+  aliases:
+  - Atomic Stealer
+  - AtomicStealer
+  - AMOS
+  - Atomic macOS Stealer
+  strict: []
+- path: Threat Intel/Malware Families/Infostealers/Lumma Stealer.md
+  title: Lumma Stealer
+  category: Infostealers
+  aliases:
+  - Lumma Stealer
+  - LummaC2
+  - LummaC
+  - Lumma
+  - Storm-2477
+  strict: []
+- path: Threat Intel/Malware Families/Infostealers/RedLine.md
+  title: RedLine
+  category: Infostealers
+  aliases:
+  - RedLine Stealer
+  - RedLine
+  - RedLineStealer
+  strict: []
+- path: Threat Intel/Malware Families/Infostealers/Rhadamanthys.md
+  title: Rhadamanthys
+  category: Infostealers
+  aliases:
+  - Rhadamanthys
+  strict: []
+- path: Threat Intel/Malware Families/Infostealers/Vidar.md
+  title: Vidar
+  category: Infostealers
+  aliases:
+  - Vidar Stealer
+  - Vidar
+  strict: []
+- path: Threat Intel/Malware Families/Loaders + Initial Access/Baoloader.md
+  title: Baoloader
+  category: Loaders + Initial Access
+  aliases:
+  - Baoloader
+  strict: []
+- path: Threat Intel/Malware Families/Loaders + Initial Access/BumbleBee.md
+  title: BumbleBee
+  category: Loaders + Initial Access
+  aliases:
+  - Bumblebee loader
+  - BumbleBee
+  strict: []
+- path: Threat Intel/Malware Families/Loaders + Initial Access/CastleLoader.md
+  title: CastleLoader
+  category: Loaders + Initial Access
+  aliases:
+  - CastleLoader
+  strict: []
+- path: Threat Intel/Malware Families/Loaders + Initial Access/Chromeloader.md
+  title: Chromeloader
+  category: Loaders + Initial Access
+  aliases:
+  - ChromeLoader
+  - Shampoo
+  - Choziosi
+  strict: []
+- path: Threat Intel/Malware Families/Loaders + Initial Access/Clickfix.md
+  title: Clickfix
+  category: Loaders + Initial Access
+  aliases:
+  - ClickFix
+  - CrashFix
+  - FileFix
+  - fake CAPTCHA
+  - ClearFake
+  - KongTuke
+  strict: []
+- path: Threat Intel/Malware Families/Loaders + Initial Access/Glassworm.md
+  title: Glassworm
+  category: Loaders + Initial Access
+  aliases:
+  - Glassworm
+  strict: []
+- path: Threat Intel/Malware Families/Loaders + Initial Access/Gootloader (aka FakeUpdates).md
+  title: Gootloader (aka FakeUpdates)
+  category: Loaders + Initial Access
+  aliases:
+  - GootLoader
+  - Gootkit loader
+  strict: []
+- path: Threat Intel/Malware Families/Loaders + Initial Access/Guloader.md
+  title: Guloader
+  category: Loaders + Initial Access
+  aliases:
+  - GuLoader
+  - CloudEyE
+  strict: []
+- path: Threat Intel/Malware Families/Loaders + Initial Access/QakBot.md
+  title: QakBot
+  category: Loaders + Initial Access
+  aliases:
+  - QakBot
+  - QBot
+  - Quakbot
+  - Pinkslipbot
+  strict: []
+- path: Threat Intel/Malware Families/Loaders + Initial Access/Raspberry Robin.md
+  title: Raspberry Robin
+  category: Loaders + Initial Access
+  aliases:
+  - Raspberry Robin
+  - Roshtyak
+  - Storm-0856
+  strict: []
+- path: Threat Intel/Malware Families/Loaders + Initial Access/SocGlolish.md
+  title: SocGlolish
+  category: Loaders + Initial Access
+  aliases:
+  - SocGholish
+  - FakeUpdates
+  - TA569
+  - Mustard Tempest
+  strict: []
+- path: Threat Intel/Malware Families/Loaders + Initial Access/SynkLoader.md
+  title: SynkLoader
+  category: Loaders + Initial Access
+  aliases:
+  - SynkLoader
+  strict: []
+- path: Threat Intel/Malware Families/Loaders + Initial Access/Ursnif.md
+  title: Ursnif
+  category: Loaders + Initial Access
+  aliases:
+  - Ursnif
+  - Gozi
+  - ISFB
+  - Dreambot
+  strict: []
+- path: Threat Intel/Malware Families/Loaders + Initial Access/WinosStager.md
+  title: WinosStager
+  category: Loaders + Initial Access
+  aliases:
+  - Winos4.0
+  - Winos 4.0
+  - WinosStager
+  - ValleyRAT
+  strict: []
+- path: Threat Intel/Malware Families/RATs/AsyncRAT.md
+  title: AsyncRAT
+  category: RATs
+  aliases:
+  - AsyncRAT
+  - DcRAT
+  strict: []
+- path: Threat Intel/Malware Families/RATs/NjRAT.md
+  title: NjRAT
+  category: RATs
+  aliases:
+  - njRAT
+  - Bladabindi
+  strict: []
+- path: Threat Intel/Malware Families/RATs/VenomRAT.md
+  title: VenomRAT
+  category: RATs
+  aliases:
+  - VenomRAT
+  - Venom RAT
+  strict: []
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/Akira.md
+  title: Akira
+  category: Threat Actors → Ransomware
+  aliases:
+  - Akira
+  strict: []
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/Anubis.md
+  title: Anubis
+  category: Threat Actors → Ransomware
+  aliases:
+  - Anubis ransomware
+  strict:
+  - Anubis
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/Black Basta.md
+  title: Black Basta
+  category: Threat Actors → Ransomware
+  aliases:
+  - Black Basta
+  - BlackBasta
+  strict: []
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/BlackCat + ALPHV.md
+  title: BlackCat + ALPHV
+  category: Threat Actors → Ransomware
+  aliases:
+  - BlackCat
+  - ALPHV
+  - Noberus
+  strict: []
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/BlackMoon.md
+  title: BlackMoon
+  category: Threat Actors → Ransomware
+  aliases:
+  - BlackMoon
+  strict: []
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/BlackSuit.md
+  title: BlackSuit
+  category: Threat Actors → Ransomware
+  aliases:
+  - BlackSuit
+  - Royal ransomware
+  - Chaos ransomware
+  strict: []
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/Blackwater.md
+  title: Blackwater
+  category: Threat Actors → Ransomware
+  aliases:
+  - Blackwater ransomware
+  strict:
+  - Blackwater
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/Booba.md
+  title: Booba
+  category: Threat Actors → Ransomware
+  aliases:
+  - Booba
+  strict: []
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/Brain Cipher.md
+  title: Brain Cipher
+  category: Threat Actors → Ransomware
+  aliases:
+  - Brain Cipher
+  strict: []
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/Cl0p.md
+  title: Cl0p
+  category: Threat Actors → Ransomware
+  aliases:
+  - Cl0p
+  - Clop
+  - TA505
+  - FIN11
+  strict: []
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/Conti.md
+  title: Conti
+  category: Threat Actors → Ransomware
+  aliases:
+  - Conti
+  strict: []
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/INC.md
+  title: INC
+  category: Threat Actors → Ransomware
+  aliases:
+  - INC Ransom
+  - INC ransomware
+  - Lynx ransomware
+  strict:
+  - INC
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/Lockbit.md
+  title: Lockbit
+  category: Threat Actors → Ransomware
+  aliases:
+  - LockBit
+  - LockBit 3.0
+  - LockBit Black
+  - LockBit 5.0
+  strict: []
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/Medusa.md
+  title: Medusa
+  category: Threat Actors → Ransomware
+  aliases:
+  - Medusa ransomware
+  - MedusaLocker
+  - Spearwing
+  strict:
+  - Medusa
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/Metaencryptor.md
+  title: Metaencryptor
+  category: Threat Actors → Ransomware
+  aliases:
+  - Metaencryptor
+  strict: []
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/Nitrogen.md
+  title: Nitrogen
+  category: Threat Actors → Ransomware
+  aliases:
+  - Nitrogen ransomware
+  - Nitrogen loader
+  - NitrogenLoader
+  strict: []
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/Qilin.md
+  title: Qilin
+  category: Threat Actors → Ransomware
+  aliases:
+  - Qilin
+  - Agenda ransomware
+  - Gold Feather
+  strict: []
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/REvil.md
+  title: REvil
+  category: Threat Actors → Ransomware
+  aliases:
+  - REvil
+  - Sodinokibi
+  strict: []
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/Rhysida.md
+  title: Rhysida
+  category: Threat Actors → Ransomware
+  aliases:
+  - Rhysida
+  - Vice Society
+  strict: []
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/Settra.md
+  title: Settra
+  category: Threat Actors → Ransomware
+  aliases:
+  - Settra
+  strict: []
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/Shiba RaaS.md
+  title: Shiba RaaS
+  category: Threat Actors → Ransomware
+  aliases:
+  - Shiba RaaS
+  - Shiba ransomware
+  strict: []
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/Sicari.md
+  title: Sicari
+  category: Threat Actors → Ransomware
+  aliases:
+  - Sicari
+  strict: []
+- path: Threat Intel/Malware Families/Threat Actors → Ransomware/Vect.md
+  title: Vect
+  category: Threat Actors → Ransomware
+  aliases:
+  - Vect ransomware
+  strict:
+  - Vect
+- path: Threat Intel/Malware Families/Wipers/CaddyWiper.md
+  title: CaddyWiper
+  category: Wipers
+  aliases:
+  - CaddyWiper
+  strict: []
+- path: Threat Intel/Malware Families/Wipers/HermeticWiper.md
+  title: HermeticWiper
+  category: Wipers
+  aliases:
+  - HermeticWiper
+  strict: []
+- path: Threat Intel/Malware Families/Wipers/WhisperGate.md
+  title: WhisperGate
+  category: Wipers
+  aliases:
+  - WhisperGate
+  strict: []
+- path: Threat Intel/Threat Actors → APT + Nation-State/APT10 Stone Panda.md
+  title: APT10 Stone Panda
+  category: Threat Actors → APT + Nation-State
+  aliases:
+  - APT10
+  - Stone Panda
+  - menuPass
+  - Potassium
+  - Cicada
+  strict: []
+- path: Threat Intel/Threat Actors → APT + Nation-State/APT28.md
+  title: APT28
+  category: Threat Actors → APT + Nation-State
+  aliases:
+  - APT28
+  - Fancy Bear
+  - Sofacy
+  - Sednit
+  - Forest Blizzard
+  - Strontium
+  - Pawn Storm
+  - UAC-0001
+  strict: []
+- path: Threat Intel/Threat Actors → APT + Nation-State/APT29.md
+  title: APT29
+  category: Threat Actors → APT + Nation-State
+  aliases:
+  - APT29
+  - Cozy Bear
+  - Midnight Blizzard
+  - Nobelium
+  - The Dukes
+  - UNC2452
+  - Cloaked Ursa
+  strict: []
+- path: Threat Intel/Threat Actors → APT + Nation-State/APT32 - OceanLotus.md
+  title: APT32 - OceanLotus
+  category: Threat Actors → APT + Nation-State
+  aliases:
+  - APT32
+  - OceanLotus
+  - Canvas Cyclone
+  - SeaLotus
+  strict: []
+- path: Threat Intel/Threat Actors → APT + Nation-State/APT33 - Elfin.md
+  title: APT33 - Elfin
+  category: Threat Actors → APT + Nation-State
+  aliases:
+  - APT33
+  - Elfin
+  - Peach Sandstorm
+  - Refined Kitten
+  - Holmium
+  strict: []
+- path: Threat Intel/Threat Actors → APT + Nation-State/APT34 - OilRig.md
+  title: APT34 - OilRig
+  category: Threat Actors → APT + Nation-State
+  aliases:
+  - APT34
+  - OilRig
+  - Helix Kitten
+  - Hazel Sandstorm
+  - Europium
+  strict: []
+- path: Threat Intel/Threat Actors → APT + Nation-State/APT35 - Charming Kitten.md
+  title: APT35 - Charming Kitten
+  category: Threat Actors → APT + Nation-State
+  aliases:
+  - APT35
+  - Charming Kitten
+  - Mint Sandstorm
+  - Phosphorus
+  - Magic Hound
+  - APT42
+  strict: []
+- path: Threat Intel/Threat Actors → APT + Nation-State/APT38 -DPRK financial ops.md
+  title: APT38 -DPRK financial ops
+  category: Threat Actors → APT + Nation-State
+  aliases:
+  - APT38
+  - BlueNoroff
+  - Sapphire Sleet
+  - Stardust Chollima
+  - TraderTraitor
+  strict: []
+- path: Threat Intel/Threat Actors → APT + Nation-State/APT41 Barium + Winnti overlap.md
+  title: APT41 Barium + Winnti overlap
+  category: Threat Actors → APT + Nation-State
+  aliases:
+  - APT41
+  - Barium
+  - Winnti
+  - Brass Typhoon
+  - Wicked Panda
+  - Earth Baku
+  strict: []
+- path: Threat Intel/Threat Actors → APT + Nation-State/Bronze Starlight.md
+  title: Bronze Starlight
+  category: Threat Actors → APT + Nation-State
+  aliases:
+  - Bronze Starlight
+  - DEV-0401
+  - Emperor Dragonfly
+  - Cinnamon Tempest
+  strict: []
+- path: Threat Intel/Threat Actors → APT + Nation-State/KIMSUKY-APT43.md
+  title: KIMSUKY-APT43
+  category: Threat Actors → APT + Nation-State
+  aliases:
+  - Kimsuky
+  - APT43
+  - Emerald Sleet
+  - Velvet Chollima
+  - Thallium
+  - Black Banshee
+  strict: []
+- path: Threat Intel/Threat Actors → APT + Nation-State/Lazarus.md
+  title: Lazarus
+  category: Threat Actors → APT + Nation-State
+  aliases:
+  - Lazarus Group
+  - Lazarus
+  - Hidden Cobra
+  - Diamond Sleet
+  - Labyrinth Chollima
+  - Famous Chollima
+  strict: []
+- path: Threat Intel/Threat Actors → APT + Nation-State/Mustang Panda.md
+  title: Mustang Panda
+  category: Threat Actors → APT + Nation-State
+  aliases:
+  - Mustang Panda
+  - Bronze President
+  - TA416
+  - Earth Preta
+  - RedDelta
+  - Twill Typhoon
+  strict: []
+- path: Threat Intel/Threat Actors → APT + Nation-State/Salt Typhoon.md
+  title: Salt Typhoon
+  category: Threat Actors → APT + Nation-State
+  aliases:
+  - Salt Typhoon
+  - GhostEmperor
+  - Earth Estries
+  - FamousSparrow
+  - UNC2286
+  strict: []
+- path: Threat Intel/Threat Actors → APT + Nation-State/Sandworm.md
+  title: Sandworm
+  category: Threat Actors → APT + Nation-State
+  aliases:
+  - Sandworm
+  - APT44
+  - Seashell Blizzard
+  - Voodoo Bear
+  - Iridium
+  - BlackEnergy
+  strict: []
+- path: Threat Intel/Threat Actors → APT + Nation-State/Volt Typhoon.md
+  title: Volt Typhoon
+  category: Threat Actors → APT + Nation-State
+  aliases:
+  - Volt Typhoon
+  - Bronze Silhouette
+  - Vanguard Panda
+  - Insidious Taurus
+  - Dev-0391
+  strict: []
+- path: Threat Intel/Threat Actors → Cybercrime + Other/CoinbaseCartel.md
+  title: CoinbaseCartel
+  category: Threat Actors → Cybercrime + Other
+  aliases:
+  - Coinbase Cartel
+  - CoinbaseCartel
+  strict: []
+- path: Threat Intel/Threat Actors → Cybercrime + Other/Gentleman.md
+  title: Gentleman
+  category: Threat Actors → Cybercrime + Other
+  aliases:
+  - The Gentlemen ransomware
+  - Gentlemen ransomware
+  strict:
+  - Gentlemen
+- path: Threat Intel/Threat Actors → Cybercrime + Other/Gold Melody.md
+  title: Gold Melody
+  category: Threat Actors → Cybercrime + Other
+  aliases:
+  - Gold Melody
+  - Prophet Spider
+  - UNC961
+  strict: []
+- path: Threat Intel/Threat Actors → Cybercrime + Other/HandalaMuddyWater.md
+  title: HandalaMuddyWater
+  category: Threat Actors → Cybercrime + Other
+  aliases:
+  - Handala
+  - MuddyWater
+  - Mango Sandstorm
+  - Static Kitten
+  - Seedworm
+  - Mercury
+  strict: []
+- path: Threat Intel/Threat Actors → Cybercrime + Other/MagoSpeak.md
+  title: MagoSpeak
+  category: Threat Actors → Cybercrime + Other
+  aliases:
+  - MagoSpeak
+  strict: []
+- path: Threat Intel/Threat Actors → Cybercrime + Other/Ransomhouse.md
+  title: Ransomhouse
+  category: Threat Actors → Cybercrime + Other
+  aliases:
+  - RansomHouse
+  strict: []
+- path: Threat Intel/Threat Actors → Cybercrime + Other/Shai-Hulud 2.0.md
+  title: Shai-Hulud 2.0
+  category: Threat Actors → Cybercrime + Other
+  aliases:
+  - Shai-Hulud
+  - Shai Hulud
+  - Sha1-Hulud
+  strict: []
+- path: Threat Intel/Threat Actors → Cybercrime + Other/Shinyhunters.md
+  title: Shinyhunters
+  category: Threat Actors → Cybercrime + Other
+  aliases:
+  - ShinyHunters
+  - Shiny Hunters
+  - UNC6040
+  - Scattered LAPSUS$ Hunters
+  strict: []
+- path: Threat Intel/Threat Actors → Cybercrime + Other/TA577.md
+  title: TA577
+  category: Threat Actors → Cybercrime + Other
+  aliases:
+  - TA577
+  - Hive0118
+  strict: []
+- path: Threat Intel/Threat Actors → Cybercrime + Other/TeamPCP.md
+  title: TeamPCP
+  category: Threat Actors → Cybercrime + Other
+  aliases:
+  - TeamPCP
+  strict: []
+- path: Threat Intel/Threat Intel → Capabilities/Credential Access/LaZagne.md
+  title: LaZagne
+  category: Credential Access
+  aliases:
+  - LaZagne
+  strict: []
+- path: Threat Intel/Threat Intel → Capabilities/Credential Access/Mimikatz.md
+  title: Mimikatz
+  category: Credential Access
+  aliases:
+  - Mimikatz
+  strict: []
+- path: Threat Intel/Threat Intel → Capabilities/Credential Access/Rubeus.md
+  title: Rubeus
+  category: Credential Access
+  aliases:
+  - Rubeus
+  strict: []
+- path: Threat Intel/Threat Intel → Capabilities/EDR Evasion/AuKill.md
+  title: AuKill
+  category: EDR Evasion
+  aliases:
+  - AuKill
+  strict: []
+- path: Threat Intel/Threat Intel → Capabilities/EDR Evasion/Poisonkiller.md
+  title: Poisonkiller
+  category: EDR Evasion
+  aliases:
+  - Poisonkiller
+  strict: []
+- path: Threat Intel/Threat Intel → Capabilities/EDR Evasion/Terminator.md
+  title: Terminator
+  category: EDR Evasion
+  aliases:
+  - Spyboy Terminator
+  - Spyboy
+  strict:
+  - Terminator
+- path: Threat Intel/Threat Intel → Capabilities/Persistence + Priv Esc/BlackLotus.md
+  title: BlackLotus
+  category: Persistence + Priv Esc
+  aliases:
+  - BlackLotus
+  strict: []
+- path: Threat Intel/Threat Intel → Capabilities/Persistence + Priv Esc/JuicyPotatoNG.md
+  title: JuicyPotatoNG
+  category: Persistence + Priv Esc
+  aliases:
+  - JuicyPotatoNG
+  strict: []
+- path: Threat Intel/Threat Intel → Capabilities/Persistence + Priv Esc/PrintNightmare.md
+  title: PrintNightmare
+  category: Persistence + Priv Esc
+  aliases:
+  - PrintNightmare
+  - CVE-2021-34527
+  strict: []
+- path: Threat Intel/Threat Intel → Techniques + Tradecraft/Axios.md
+  title: Axios
+  category: Threat Intel → Techniques + Tradecraft
+  aliases:
+  - axios npm
+  - axios supply chain
+  - axios package
+  strict: []
+- path: Threat Intel/Threat Intel → Techniques + Tradecraft/DPRK Emails.md
+  title: DPRK Emails
+  category: Threat Intel → Techniques + Tradecraft
+  aliases:
+  - DPRK IT workers
+  - North Korean IT workers
+  - Jasper Sleet
+  strict: []
+- path: Threat Intel/Threat Intel → Techniques + Tradecraft/memfd_create Fileless Execution.md
+  title: memfd_create Fileless Execution
+  category: Threat Intel → Techniques + Tradecraft
+  aliases:
+  - memfd_create
+  strict: []

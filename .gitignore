@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.tmp
+dry-run/
+.venv/
+worker/node_modules/
+worker/.wrangler/
+.dev.vars

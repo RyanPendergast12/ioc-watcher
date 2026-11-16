@@ -1,0 +1,84 @@
+# Every source is isolated: if one fails or lacks a key, the run continues and the
+# failure shows up in state/last_run.md and the Actions job summary.
+#
+# kind:  feed      structured IOC feed (default)
+#        research  blog / RSS — goes in the daily Intel digest, matched to vault pages, IOCs extracted
+#        repo      GitHub IOC repo — IOCs extracted from new/changed files
+#        reports   GitHub report archive — new reports become "Recent Reporting" links only
+#
+# NOT INCLUDED (checked 2026-11-15):
+#   BadIPs.com, Rutgers, Malsilo ........ services are dead
+#   Cisco Talos IP blacklist ............ retired; Talos blog is included below as research
+#   DHS AIS / AIS Hashes / CISCP ........ TAXII + CISA AIS enrollment (cert) required
+#   Digital Shadows (APT/Threat profiles) paid — now ReliaQuest GreyMatter DRP
+#   Stroz Friedberg ..................... no public feed
+#   ThreatMiner, BotScout, GreyNoise .... lookup/enrichment APIs, not feeds
+#   ZeroDot1 CoinBlockerList ............ GitLab Pages returns 403 to scripts (enabled below; may fail)
+
+sources:
+  # ---------------------------------------------------------------- abuse.ch (free Auth-Key: https://auth.abuse.ch)
+  - {name: threatfox,        type: threatfox,     days: 1, min_confidence: 75}
+  - {name: malwarebazaar,    type: malwarebazaar, hash_types: [sha256, sha1, md5], per_signature: 25}
+  - {name: urlhaus,          type: urlhaus,       limit: 1000, route_unmapped: false}
+  - {name: feodo_tracker,    type: feodo}
+  - {name: sslbl,            type: sslbl}
+
+  # ---------------------------------------------------------------- IP reputation (consensus only)
+  - {name: blocklist_de_bots,       type: iplist, url: "https://lists.blocklist.de/lists/bots.txt"}
+  - {name: blocklist_de_bruteforce, type: iplist, url: "https://lists.blocklist.de/lists/bruteforcelogin.txt"}
+  - {name: blocklist_de_strong,     type: iplist, url: "https://lists.blocklist.de/lists/strongips.txt"}
+  - {name: ci_army,                 type: iplist, url: "https://cinsscore.com/list/ci-badguys.txt"}
+  - {name: danger_rulez,            type: iplist, url: "https://danger.rulez.sk/projects/bruteforceblocker/blist.php"}
+  - {name: emerging_threats,        type: iplist, url: "https://rules.emergingthreats.net/blockrules/compromised-ips.txt"}
+  - {name: firehol_webclient,       type: iplist, url: "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_webclient.netset"}
+  - {name: firehol_webserver,       type: iplist, url: "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_webserver.netset"}
+  - {name: greensnow,               type: iplist, url: "https://blocklist.greensnow.co/greensnow.txt"}
+  - {name: isc_sans,                type: isc_sans}
+  - {name: abuseipdb,               type: abuseipdb, min_confidence: 100}      # needs ABUSEIPDB_API_KEY
+  - {name: spamhaus_drop,           type: spamhaus_drop}
+
+  # ---------------------------------------------------------------- domains / urls / mixed
+  - {name: openphish,         type: urllist, url: "https://openphish.com/feed.txt", context: phishing, max_items: 300}
+  - {name: phishtank,         type: phishtank}
+  - {name: vxvault,           type: urllist, url: "http://vxvault.net/URL_List.php", context: malware download}
+  - {name: cybercrime_tracker, type: urllist, url: "https://cybercrime-tracker.net/all.php", context: C2 panel, max_items: 100}
+  - {name: coinblocker,       type: urllist, url: "https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt", context: cryptojacking, route_unmapped: false}
+  - {name: tweetfeed,         type: tweetfeed, route_unmapped: false}
+  - {name: alienvault_otx,    type: otx, max_pages: 6, route_unmapped: false}      # needs OTX_API_KEY
+  - {name: cisa_kev,          type: cisa_kev, bootstrap_days: 7}
+
+  # ---------------------------------------------------------------- research blogs (Threat Intel/RSS Websites.md + extras)
+  - {name: The DFIR Report,     type: rss, kind: research, url: "https://thedfirreport.com/feed/"}
+  - {name: ReliaQuest,          type: html_index, kind: research, url: "https://www.reliaquest.com/blog/", link_pattern: "reliaquest\\.com/blog/[a-z0-9-]{12,}/?$"}
+  - {name: Unit 42,             type: rss, kind: research, url: "https://unit42.paloaltonetworks.com/feed/"}
+  - {name: Sophos X-Ops,        enabled: false, type: rss, kind: research, url: "https://news.sophos.com/en-us/category/threat-research/feed/"}
+  - {name: Huntress,            type: rss, kind: research, url: "https://www.huntress.com/blog/rss.xml"}
+  - {name: Cyble,               type: rss, kind: research, url: "https://cyble.com/feed/"}
+  - {name: AlphaHunt,           type: rss, kind: research, url: "https://blog.alphahunt.io/rss/"}
+  - {name: Trend Micro Research, type: html_index, kind: research, url: "https://www.trendmicro.com/en_us/research.html", link_pattern: "/en_us/research/\\d\\d/[a-z]/[^/]+\\.html$"}
+  - {name: Red Canary,          type: rss, kind: research, url: "https://redcanary.com/feed/"}
+  - {name: Trellix Research,    enabled: false, type: rss, kind: research, url: "https://www.trellix.com/en-us/about/newsroom/stories/research.rss"}
+  - {name: Malwarebytes Labs,   type: rss, kind: research, url: "https://www.malwarebytes.com/blog/feed/index.xml"}
+  - {name: Check Point Research, type: rss, kind: research, url: "https://research.checkpoint.com/feed/"}
+  - {name: Cyber Triage,        type: rss, kind: research, url: "https://www.cybertriage.com/feed/"}
+  - {name: Cisco Talos,         type: rss, kind: research, url: "https://blog.talosintelligence.com/rss/"}
+  - {name: ESET WeLiveSecurity, type: rss, kind: research, url: "https://www.welivesecurity.com/en/rss/feed/"}
+  - {name: Microsoft Threat Intelligence, type: rss, kind: research, url: "https://www.microsoft.com/en-us/security/blog/feed/"}
+  - {name: SentinelLABS,        type: rss, kind: research, url: "https://www.sentinelone.com/labs/feed/"}
+  - {name: Elastic Security Labs, type: rss, kind: research, url: "https://www.elastic.co/security-labs/rss/feed.xml"}
+  - {name: Securelist,          type: rss, kind: research, url: "https://securelist.com/feed/"}
+  - {name: Zscaler ThreatLabz,  type: rss, kind: research, url: "https://www.zscaler.com/blogs/feeds/security-research"}
+  - {name: Sekoia TDR,          type: rss, kind: research, url: "https://blog.sekoia.io/feed/"}
+  - {name: Recorded Future,     type: rss, kind: research, url: "https://www.recordedfuture.com/feed"}
+  - {name: Rapid7,              type: rss, kind: research, url: "https://www.rapid7.com/blog/rss/"}
+  - {name: SOCRadar,            type: rss, kind: research, url: "https://socradar.io/feed/"}
+  - {name: Proofpoint,          type: rss, kind: research, url: "https://www.proofpoint.com/us/rss.xml"}
+  - {name: CrowdStrike,         type: rss, kind: research, url: "https://www.crowdstrike.com/en-us/blog/feed"}
+  # Sophos / Trellix: refuse automated clients (disabled). Expel / Cybereason / Acronis / Deepweb Informer: no working RSS found (2026-11-15)
+
+  # ---------------------------------------------------------------- GitHub IOC repos
+  - {name: Unit42 Timely TI,   type: github_repo, kind: repo,    repo: PaloAltoNetworks/Unit42-timely-threat-intel}
+  - {name: RavenFile Daily-Hunt, type: github_repo, kind: repo,  repo: TheRavenFile/Daily-Hunt}
+  - {name: ESET malware-ioc,   type: github_repo, kind: repo,    repo: eset/malware-ioc}
+  - {name: PRODAFT malware-ioc, type: github_repo, kind: repo,   repo: prodaft/malware-ioc}
+  - {name: APT_REPORT,         type: github_repo, kind: reports, repo: blackorbird/APT_REPORT, mode: reports}

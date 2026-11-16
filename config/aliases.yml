@@ -1,0 +1,94 @@
+# Hand-curated aliases, keyed by vault page title (file name without .md).
+# tools/build_mapping.py merges these with names auto-derived from the vault and writes mapping.yml.
+#   aliases: case-insensitive, matched in feed tags + article title/body
+#   strict:  case-sensitive, matched in feed tags + article TITLES only (short/ambiguous names)
+#   skip: true  → never auto-route anything to this page
+
+pages:
+  # ---------------- APT / nation-state
+  APT10 Stone Panda: {aliases: [APT10, Stone Panda, menuPass, Potassium, Cicada]}
+  APT28: {aliases: [APT28, Fancy Bear, Sofacy, Sednit, Forest Blizzard, Strontium, Pawn Storm, UAC-0001]}
+  APT29: {aliases: [APT29, Cozy Bear, Midnight Blizzard, Nobelium, The Dukes, UNC2452, Cloaked Ursa]}
+  APT32 - OceanLotus: {aliases: [APT32, OceanLotus, Canvas Cyclone, SeaLotus]}
+  APT33 - Elfin: {aliases: [APT33, Elfin, Peach Sandstorm, Refined Kitten, Holmium]}
+  APT34 - OilRig: {aliases: [APT34, OilRig, Helix Kitten, Hazel Sandstorm, Europium]}
+  APT35 - Charming Kitten: {aliases: [APT35, Charming Kitten, Mint Sandstorm, Phosphorus, Magic Hound, APT42]}
+  APT38 -DPRK financial ops: {aliases: [APT38, BlueNoroff, Sapphire Sleet, Stardust Chollima, TraderTraitor]}
+  APT41 Barium + Winnti overlap: {aliases: [APT41, Barium, Winnti, Brass Typhoon, Wicked Panda, Earth Baku]}
+  Bronze Starlight: {aliases: [Bronze Starlight, DEV-0401, Emperor Dragonfly, Cinnamon Tempest]}
+  KIMSUKY-APT43: {aliases: [Kimsuky, APT43, Emerald Sleet, Velvet Chollima, Thallium, Black Banshee]}
+  Lazarus: {aliases: [Lazarus Group, Lazarus, Hidden Cobra, Diamond Sleet, Labyrinth Chollima, Famous Chollima]}
+  Mustang Panda: {aliases: [Mustang Panda, Bronze President, TA416, Earth Preta, RedDelta, Twill Typhoon]}
+  Salt Typhoon: {aliases: [Salt Typhoon, GhostEmperor, Earth Estries, FamousSparrow, UNC2286]}
+  Sandworm: {aliases: [Sandworm, APT44, Seashell Blizzard, Voodoo Bear, Iridium, BlackEnergy]}
+  Volt Typhoon: {aliases: [Volt Typhoon, Bronze Silhouette, Vanguard Panda, Insidious Taurus, Dev-0391]}
+
+  # ---------------- cybercrime / other actors
+  Gentleman: {aliases: [The Gentlemen ransomware, Gentlemen ransomware], strict: [Gentlemen]}
+  Gold Melody: {aliases: [Gold Melody, Prophet Spider, UNC961]}
+  HandalaMuddyWater: {aliases: [Handala, MuddyWater, Mango Sandstorm, Static Kitten, Seedworm, Mercury]}
+  Shinyhunters: {aliases: [ShinyHunters, Shiny Hunters, UNC6040, Scattered LAPSUS$ Hunters]}
+  Shai-Hulud 2.0: {aliases: [Shai-Hulud, Shai Hulud, Sha1-Hulud]}
+  TA577: {aliases: [TA577, Hive0118]}
+  TeamPCP: {aliases: [TeamPCP]}
+  CoinbaseCartel: {aliases: [Coinbase Cartel, CoinbaseCartel]}
+  Ransomhouse: {aliases: [RansomHouse]}
+
+  # ---------------- ransomware
+  BlackCat + ALPHV: {aliases: [BlackCat, ALPHV, Noberus]}
+  Black Basta: {aliases: [Black Basta, BlackBasta]}
+  BlackSuit: {aliases: [BlackSuit, Royal ransomware, Chaos ransomware]}
+  Cl0p: {aliases: [Cl0p, Clop, TA505, FIN11]}
+  INC: {aliases: [INC Ransom, INC ransomware, Lynx ransomware], strict: [INC]}
+  Lockbit: {aliases: [LockBit, LockBit 3.0, LockBit Black, LockBit 5.0]}
+  Medusa: {aliases: [Medusa ransomware, MedusaLocker, Spearwing], strict: [Medusa]}
+  Qilin: {aliases: [Qilin, Agenda ransomware, Gold Feather]}
+  REvil: {aliases: [REvil, Sodinokibi]}
+  Rhysida: {aliases: [Rhysida, Vice Society]}
+  Vect: {aliases: [Vect ransomware], strict: [Vect]}
+  Anubis: {aliases: [Anubis ransomware], strict: [Anubis]}
+  Blackwater: {aliases: [Blackwater ransomware], strict: [Blackwater]}
+  Nitrogen: {aliases: [Nitrogen ransomware, Nitrogen loader, NitrogenLoader]}
+  Shiba RaaS: {aliases: [Shiba RaaS, Shiba ransomware]}
+
+  # ---------------- malware families
+  Clickfix: {aliases: [ClickFix, CrashFix, FileFix, fake CAPTCHA, ClearFake, KongTuke]}
+  SocGlolish: {aliases: [SocGholish, FakeUpdates, TA569, Mustard Tempest]}
+  Gootloader (aka FakeUpdates): {aliases: [GootLoader, Gootkit loader]}
+  QakBot: {aliases: [QakBot, QBot, Quakbot, Pinkslipbot]}
+  Guloader: {aliases: [GuLoader, CloudEyE]}
+  CloudEyE: {skip: true}
+  Ursnif: {aliases: [Ursnif, Gozi, ISFB, Dreambot]}
+  Raspberry Robin: {aliases: [Raspberry Robin, Roshtyak, Storm-0856]}
+  BumbleBee: {aliases: [Bumblebee loader, BumbleBee]}
+  Chromeloader: {aliases: [ChromeLoader, Shampoo, Choziosi]}
+  Lumma Stealer: {aliases: [Lumma Stealer, LummaC2, LummaC, Lumma, Storm-2477]}
+  RedLine: {aliases: [RedLine Stealer, RedLine, RedLineStealer]}
+  Vidar: {aliases: [Vidar Stealer, Vidar]}
+  Agent Tesla: {aliases: [Agent Tesla, AgentTesla]}
+  AtomicStealer: {aliases: [Atomic Stealer, AtomicStealer, AMOS, Atomic macOS Stealer]}
+  Rhadamanthys: {aliases: [Rhadamanthys]}
+  AsyncRAT: {aliases: [AsyncRAT, DcRAT]}
+  NjRAT: {aliases: [njRAT, Bladabindi]}
+  VenomRAT: {aliases: [VenomRAT, Venom RAT]}
+  PlugX: {aliases: [PlugX, Korplug, Sogu]}
+  ShadowPad: {aliases: [ShadowPad, PoisonPlug]}
+  Octo: {aliases: [Octo banking trojan, Octo2, ExobotCompact], strict: [Octo]}
+  Terminator: {aliases: [Spyboy Terminator, Spyboy], strict: [Terminator]}
+  Axios: {aliases: [axios npm, axios supply chain, axios package]}
+  DPRK Emails: {aliases: [DPRK IT workers, North Korean IT workers, Jasper Sleet]}
+  memfd_create Fileless Execution: {aliases: [memfd_create]}
+  ClawBot + OpenClaw: {aliases: [ClawBot, OpenClaw]}
+  KV-Botnet: {aliases: [KV-Botnet, KV botnet]}
+  Raptor Train: {aliases: [Raptor Train, Flax Typhoon]}
+  WinosStager: {aliases: [Winos4.0, Winos 4.0, WinosStager, ValleyRAT]}
+  Dragonbreath: {aliases: [Dragon Breath, Dragonbreath, APT-Q-27, Golden Eye Dog]}
+  BlackLotus: {aliases: [BlackLotus]}
+  PrintNightmare: {aliases: [PrintNightmare, CVE-2021-34527]}
+
+# MalwareBazaar signature names to pull daily (get_siginfo) — only families you have pages for.
+mb_signatures: [LummaStealer, RedLineStealer, Vidar, AgentTesla, AsyncRAT, NjRAT, VenomRAT, Rhadamanthys,
+  AtomicStealer, AMOS, QakBot, GuLoader, CloudEyE, SocGholish, GootLoader, BumbleBee, RaspberryRobin,
+  Gozi, Ursnif, PlugX, ShadowPad, Mimikatz, Rubeus, LaZagne, Grandoreiro, Mispadu, Coyote, Metamorfo,
+  Octo, LockBit, Akira, BlackBasta, Conti, Rhysida, Qilin, CaddyWiper, HermeticWiper, WhisperGate,
+  ChromeLoader, CastleLoader, Medusa, BlackSuit, ValleyRAT, DcRAT, Winos]

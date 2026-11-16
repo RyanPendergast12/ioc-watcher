@@ -1,0 +1,22 @@
+# Global knobs for the detect run.
+
+hash_types: [sha256, sha1, md5]       # which hash types to extract from reports / MalwareBazaar
+bootstrap_days: 3                     # first run: only look this far back (avoid a flood)
+max_lookback_days: 7                  # later runs: ignore RSS items older than this
+
+# Proposal sizing — keeps each Discord card reviewable on a phone.
+max_items_per_proposal: 75            # per family/actor page per day
+max_items_per_bucket: 60              # per Raw Threat Intel bucket (BAD IPS / DOMAINS / HASHES) per day
+max_iocs_per_article: 150
+
+# Unattributed IP reputation lists (blocklist.de, CI Army, ET, ISC, …) are only proposed
+# when an IP shows up in at least this many independent feeds the same day.
+consensus_min_feeds: 2
+
+# Blog article → vault page matching. Title hit = 5 pts, body hit = 1 pt.
+article_min_score: 3
+# IOCs from reports that match no vault page: false = drop, true = Raw Threat Intel buckets
+route_unmapped_report_iocs: false
+
+seen_retention_days: 180              # don't re-propose an IOC for this long
+max_per_source_in_bucket: 20            # keep one noisy feed from filling a whole bucket

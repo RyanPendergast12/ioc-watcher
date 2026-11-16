@@ -1,0 +1,12 @@
+name = "ioc-watcher-discord"
+main = "src/index.js"
+compatibility_date = "2025-06-01"
+
+[vars]
+GITHUB_REPO = "RyanPendergast12/ioc-watcher"
+
+# Secrets (set with `npx wrangler secret put NAME`, never committed):
+#   DISCORD_PUBLIC_KEY       Discord app → General Information → Public Key
+#   DISCORD_APPLICATION_ID   Discord app → General Information → Application ID
+#   ALLOWED_USER_IDS         your Discord user id (comma-separated if more approvers)
+#   GITHUB_TOKEN             fine-grained PAT, repo ioc-watcher only, Contents: Read and write
