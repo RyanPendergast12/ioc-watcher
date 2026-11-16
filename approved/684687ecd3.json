@@ -1,6 +1,6 @@
 {
-  "id": "597aea914f",
-  "created": "2026-11-16T21:04:42+00:00",
+  "id": "684687ecd3",
+  "created": "2026-11-16T21:12:51+00:00",
   "kind": "bucket",
   "target_md": "Threat Intel/Raw Threat Intel/BAD HASHES.md",
   "headline": "Raw intel — BAD HASHES",
@@ -10,35 +10,40 @@
       "value": "f9e5d2b65403f7a11c01ac424729c955c6b4f177",
       "source": "Abuse.ch SSLBL",
       "context": "ACRStealer C&C",
-      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/f9e5d2b65403f7a11c01ac424729c955c6b4f177/"
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/f9e5d2b65403f7a11c01ac424729c955c6b4f177/",
+      "family": "ACRStealer"
     },
     {
       "type": "ssl_sha1",
       "value": "3dbb965b25e91a542ec6259e8aed5b1f1a0b4b32",
       "source": "Abuse.ch SSLBL",
       "context": "PureRAT C&C",
-      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/3dbb965b25e91a542ec6259e8aed5b1f1a0b4b32/"
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/3dbb965b25e91a542ec6259e8aed5b1f1a0b4b32/",
+      "family": "PureRAT"
     },
     {
       "type": "ssl_sha1",
       "value": "2f595bf93f35afe2252bb41c6f98372c9c258222",
       "source": "Abuse.ch SSLBL",
       "context": "PureLogsStealer C&C",
-      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/2f595bf93f35afe2252bb41c6f98372c9c258222/"
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/2f595bf93f35afe2252bb41c6f98372c9c258222/",
+      "family": "PureLogsStealer"
     },
     {
       "type": "ssl_sha1",
       "value": "f2584ca3bfd03dbc915a3d433ffc42f96c78bfb6",
       "source": "Abuse.ch SSLBL",
       "context": "MopsStealer C&C",
-      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/f2584ca3bfd03dbc915a3d433ffc42f96c78bfb6/"
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/f2584ca3bfd03dbc915a3d433ffc42f96c78bfb6/",
+      "family": "MopsStealer"
     },
     {
       "type": "ssl_sha1",
       "value": "3060dea64fbaa980b36f302f230cd21f3890fd6d",
       "source": "Abuse.ch SSLBL",
       "context": "OffLoader C&C",
-      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/3060dea64fbaa980b36f302f230cd21f3890fd6d/"
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/3060dea64fbaa980b36f302f230cd21f3890fd6d/",
+      "family": "OffLoader"
     },
     {
       "type": "ssl_sha1",
@@ -52,101 +57,120 @@
       "value": "5b70b528b4396852cb7d36dd7d3951fb0c2fd271",
       "source": "Abuse.ch SSLBL",
       "context": "WARDENStealer C&C",
-      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/5b70b528b4396852cb7d36dd7d3951fb0c2fd271/"
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/5b70b528b4396852cb7d36dd7d3951fb0c2fd271/",
+      "family": "WARDENStealer"
     },
     {
       "type": "ssl_sha1",
       "value": "db5571bc18c450b7ff96110035b634440006a5fd",
       "source": "Abuse.ch SSLBL",
       "context": "PureLogsStealer C&C",
-      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/db5571bc18c450b7ff96110035b634440006a5fd/"
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/db5571bc18c450b7ff96110035b634440006a5fd/",
+      "family": "PureLogsStealer"
     },
     {
       "type": "ssl_sha1",
       "value": "2187472d18ae94eb9b84594963c762f4bccb2bdc",
       "source": "Abuse.ch SSLBL",
       "context": "ApolloAgent C&C",
-      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/2187472d18ae94eb9b84594963c762f4bccb2bdc/"
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/2187472d18ae94eb9b84594963c762f4bccb2bdc/",
+      "family": "ApolloAgent"
     },
     {
       "type": "ssl_sha1",
       "value": "a0ced9d182ba868da0705b67b553d47fdae988e4",
       "source": "Abuse.ch SSLBL",
       "context": "PureLogsStealer C&C",
-      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/a0ced9d182ba868da0705b67b553d47fdae988e4/"
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/a0ced9d182ba868da0705b67b553d47fdae988e4/",
+      "family": "PureLogsStealer"
     },
     {
       "type": "ssl_sha1",
       "value": "7bed55b6ae0398ce51ffb0eb1a2c70e696c80a55",
       "source": "Abuse.ch SSLBL",
       "context": "OffLoader C&C",
-      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/7bed55b6ae0398ce51ffb0eb1a2c70e696c80a55/"
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/7bed55b6ae0398ce51ffb0eb1a2c70e696c80a55/",
+      "family": "OffLoader"
     },
     {
       "type": "ssl_sha1",
       "value": "8ca4afdbe8bd72257d4e55b29eeaec241a7e5e5c",
       "source": "Abuse.ch SSLBL",
       "context": "OffLoader C&C",
-      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/8ca4afdbe8bd72257d4e55b29eeaec241a7e5e5c/"
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/8ca4afdbe8bd72257d4e55b29eeaec241a7e5e5c/",
+      "family": "OffLoader"
     },
     {
       "type": "ssl_sha1",
       "value": "e5c6bc2ac2d1652063eb67e480d46a4dc47540e5",
       "source": "Abuse.ch SSLBL",
       "context": "OffLoader C&C",
-      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/e5c6bc2ac2d1652063eb67e480d46a4dc47540e5/"
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/e5c6bc2ac2d1652063eb67e480d46a4dc47540e5/",
+      "family": "OffLoader"
     },
     {
       "type": "ssl_sha1",
       "value": "05c6a9e036d113011f89780eeea7427fd93584d5",
       "source": "Abuse.ch SSLBL",
       "context": "OffLoader C&C",
-      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/05c6a9e036d113011f89780eeea7427fd93584d5/"
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/05c6a9e036d113011f89780eeea7427fd93584d5/",
+      "family": "OffLoader"
     },
     {
       "type": "ssl_sha1",
       "value": "d85d66a961c9d2c9680b51f458425fb4f0d330cc",
       "source": "Abuse.ch SSLBL",
       "context": "OffLoader C&C",
-      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/d85d66a961c9d2c9680b51f458425fb4f0d330cc/"
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/d85d66a961c9d2c9680b51f458425fb4f0d330cc/",
+      "family": "OffLoader"
     },
     {
       "type": "ssl_sha1",
       "value": "c59f75bda1bb56a514bdfda31674f7344ec534ed",
       "source": "Abuse.ch SSLBL",
       "context": "OffLoader C&C",
-      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/c59f75bda1bb56a514bdfda31674f7344ec534ed/"
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/c59f75bda1bb56a514bdfda31674f7344ec534ed/",
+      "family": "OffLoader"
     },
     {
       "type": "ssl_sha1",
       "value": "e0df07e0a7e6dc641bca1a7f24403a0f2ef6996f",
       "source": "Abuse.ch SSLBL",
       "context": "RemusStealer C&C",
-      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/e0df07e0a7e6dc641bca1a7f24403a0f2ef6996f/"
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/e0df07e0a7e6dc641bca1a7f24403a0f2ef6996f/",
+      "family": "RemusStealer"
     },
     {
       "type": "ssl_sha1",
       "value": "c8e6fc7bb95a5fe2122679cfca61f87c7ce2875a",
       "source": "Abuse.ch SSLBL",
       "context": "NativeLoader C&C",
-      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/c8e6fc7bb95a5fe2122679cfca61f87c7ce2875a/"
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/c8e6fc7bb95a5fe2122679cfca61f87c7ce2875a/",
+      "family": "NativeLoader"
     },
     {
       "type": "ssl_sha1",
       "value": "0d04a50138c74a1ecfa1a7b4a3afddeb2a4be571",
       "source": "Abuse.ch SSLBL",
       "context": "QuasarRAT C&C",
-      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/0d04a50138c74a1ecfa1a7b4a3afddeb2a4be571/"
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/0d04a50138c74a1ecfa1a7b4a3afddeb2a4be571/",
+      "family": "QuasarRAT"
     },
     {
       "type": "ssl_sha1",
       "value": "d43053e6c4c7f1b6d00e860b690cdf1b964e1afa",
       "source": "Abuse.ch SSLBL",
       "context": "WARDENStealer C&C",
-      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/d43053e6c4c7f1b6d00e860b690cdf1b964e1afa/"
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/d43053e6c4c7f1b6d00e860b690cdf1b964e1afa/",
+      "family": "WARDENStealer"
     }
   ],
   "reports": [],
   "overflow": 0,
-  "status": "pending"
+  "status": "approved",
+  "decision": {
+    "by": "RyanPendergast12 (7-day backfill)",
+    "user_id": "local",
+    "at": "2026-11-16T21:13:34+00:00"
+  }
 }

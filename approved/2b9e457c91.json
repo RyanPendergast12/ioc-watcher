@@ -1,17 +1,10 @@
 {
-  "id": "75387482cc",
-  "created": "2026-11-16T21:04:42+00:00",
+  "id": "2b9e457c91",
+  "created": "2026-11-16T21:12:51+00:00",
   "kind": "iocs",
   "target_md": "Threat Intel/Threat Actors → APT + Nation-State/Mustang Panda.md",
   "headline": "New IOC proposal — Mustang Panda",
   "items": [
-    {
-      "type": "domain",
-      "value": "app.box.com",
-      "source": "IBM X-Force",
-      "context": "Trapping a Mustang Panda",
-      "ref": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda"
-    },
     {
       "type": "domain",
       "value": "couldinstallup.com",
@@ -133,6 +126,14 @@
     },
     {
       "type": "report",
+      "value": "https://blog.alphahunt.io/signals-weekly-follow-the-access-path-not-the-ai-label/",
+      "title": "[SIGNALS WEEKLY] Follow the Access Path, Not the AI Label",
+      "source": "AlphaHunt",
+      "published": "2026-11-11",
+      "context": "Mustang Panda"
+    },
+    {
+      "type": "report",
       "value": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda",
       "title": "Trapping a Mustang Panda",
       "source": "IBM X-Force",
@@ -143,6 +144,14 @@
   "reports": [
     {
       "type": "report",
+      "value": "https://blog.alphahunt.io/signals-weekly-follow-the-access-path-not-the-ai-label/",
+      "title": "[SIGNALS WEEKLY] Follow the Access Path, Not the AI Label",
+      "source": "AlphaHunt",
+      "published": "2026-11-11",
+      "context": "Mustang Panda"
+    },
+    {
+      "type": "report",
       "value": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda",
       "title": "Trapping a Mustang Panda",
       "source": "IBM X-Force",
@@ -151,5 +160,10 @@
     }
   ],
   "overflow": 0,
-  "status": "pending"
+  "status": "approved",
+  "decision": {
+    "by": "RyanPendergast12 (7-day backfill)",
+    "user_id": "local",
+    "at": "2026-11-16T21:13:29+00:00"
+  }
 }

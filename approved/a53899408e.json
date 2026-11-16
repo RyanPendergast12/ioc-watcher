@@ -1,0 +1,86 @@
+{
+  "id": "a53899408e",
+  "created": "2026-11-16T21:12:51+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Threat Actors → Ransomware/Settra.md",
+  "headline": "New IOC proposal — Settra",
+  "items": [
+    {
+      "type": "ip",
+      "value": "193.5.65.114",
+      "source": "Recorded Future",
+      "context": "GhostFrame: A new ESXi Implant Linked to Settra Ransomware",
+      "ref": "https://www.recordedfuture.com/blog/ghostframe-esxi-implant-settra-ransomware",
+      "cves": [
+        "CVE-2026-0257"
+      ],
+      "products": [
+        "palo-alto-networks/pan-os"
+      ]
+    },
+    {
+      "type": "ip",
+      "value": "45.158.196.141",
+      "source": "Recorded Future",
+      "context": "GhostFrame: A new ESXi Implant Linked to Settra Ransomware",
+      "ref": "https://www.recordedfuture.com/blog/ghostframe-esxi-implant-settra-ransomware",
+      "cves": [
+        "CVE-2026-0257"
+      ],
+      "products": [
+        "palo-alto-networks/pan-os"
+      ]
+    },
+    {
+      "type": "ip",
+      "value": "45.158.196.81",
+      "source": "Recorded Future",
+      "context": "GhostFrame: A new ESXi Implant Linked to Settra Ransomware",
+      "ref": "https://www.recordedfuture.com/blog/ghostframe-esxi-implant-settra-ransomware",
+      "cves": [
+        "CVE-2026-0257"
+      ],
+      "products": [
+        "palo-alto-networks/pan-os"
+      ]
+    },
+    {
+      "type": "sha256",
+      "value": "a05eae6d07b82e2e5451a72266f21fbaf76486ef4920a820988de93e15353a10",
+      "source": "Recorded Future",
+      "context": "GhostFrame: A new ESXi Implant Linked to Settra Ransomware",
+      "ref": "https://www.recordedfuture.com/blog/ghostframe-esxi-implant-settra-ransomware",
+      "cves": [
+        "CVE-2026-0257"
+      ],
+      "products": [
+        "palo-alto-networks/pan-os"
+      ]
+    },
+    {
+      "type": "report",
+      "value": "https://www.recordedfuture.com/blog/ghostframe-esxi-implant-settra-ransomware",
+      "title": "GhostFrame: A new ESXi Implant Linked to Settra Ransomware",
+      "source": "Recorded Future",
+      "published": "2026-11-10",
+      "context": "Settra"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://www.recordedfuture.com/blog/ghostframe-esxi-implant-settra-ransomware",
+      "title": "GhostFrame: A new ESXi Implant Linked to Settra Ransomware",
+      "source": "Recorded Future",
+      "published": "2026-11-10",
+      "context": "Settra"
+    }
+  ],
+  "overflow": 0,
+  "status": "approved",
+  "decision": {
+    "by": "RyanPendergast12 (7-day backfill)",
+    "user_id": "local",
+    "at": "2026-11-16T21:13:37+00:00"
+  }
+}

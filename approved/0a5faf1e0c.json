@@ -1,0 +1,34 @@
+{
+  "id": "0a5faf1e0c",
+  "created": "2026-11-16T21:12:51+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Threat Actors → Ransomware/Conti.md",
+  "headline": "New IOC proposal — Conti",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://www.ibm.com/think/x-force/interlock-and-rhysida-within-the-ransonware-ecosystem",
+      "title": "Interlock and Rhysida within the ransomware ecosystem",
+      "source": "IBM X-Force",
+      "published": "2026-11-16",
+      "context": "Rhysida, Clickfix, Conti"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://www.ibm.com/think/x-force/interlock-and-rhysida-within-the-ransonware-ecosystem",
+      "title": "Interlock and Rhysida within the ransomware ecosystem",
+      "source": "IBM X-Force",
+      "published": "2026-11-16",
+      "context": "Rhysida, Clickfix, Conti"
+    }
+  ],
+  "overflow": 0,
+  "status": "approved",
+  "decision": {
+    "by": "RyanPendergast12 (7-day backfill)",
+    "user_id": "local",
+    "at": "2026-11-16T21:13:29+00:00"
+  }
+}

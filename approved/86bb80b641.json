@@ -1,0 +1,617 @@
+{
+  "id": "86bb80b641",
+  "created": "2026-11-16T21:12:51+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Loaders + Initial Access/Clickfix.md",
+  "headline": "New IOC proposal — Clickfix",
+  "items": [
+    {
+      "type": "domain",
+      "value": "googlemeet-join.com",
+      "source": "TweetFeed",
+      "context": "@JAMESWT_WT #ClickFix #cryptoscam #malware",
+      "ref": "https://x.com/JAMESWT_WT/status/2122123956865929505",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "webffoo002.cc",
+      "source": "TweetFeed",
+      "context": "@masaomi346 #ClickFix #malware",
+      "ref": "https://x.com/masaomi346/status/2122303119241715870",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "aztechires.site",
+      "source": "TweetFeed",
+      "context": "@skocherhan #ClickFix #malware #phishing",
+      "ref": "https://x.com/skocherhan/status/2122373638758486285",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "api.cerysoi.ink",
+      "source": "TweetFeed",
+      "context": "@skocherhan #ClickFix #malware #phishing",
+      "ref": "https://x.com/skocherhan/status/2122373638758486285",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "api.gamsterb.ink",
+      "source": "TweetFeed",
+      "context": "@skocherhan #ClickFix #malware #phishing",
+      "ref": "https://x.com/skocherhan/status/2122373638758486285",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "api.fallgamsterb.ink",
+      "source": "TweetFeed",
+      "context": "@skocherhan #ClickFix #malware #phishing",
+      "ref": "https://x.com/skocherhan/status/2122373638758486285",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "crypto-blog.cfd",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #cryptoscam #infostealer",
+      "ref": "https://x.com/Malwarehunterr/status/2122396167850058112",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "serv.mevserver.cfd",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #cryptoscam #infostealer",
+      "ref": "https://x.com/Malwarehunterr/status/2122396167850058112",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "crypto-market.cfd",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #cryptoscam #infostealer",
+      "ref": "https://x.com/Malwarehunterr/status/2122416620140482956",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "crypto-markets.cfd",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #cryptoscam #infostealer",
+      "ref": "https://x.com/Malwarehunterr/status/2122416620140482956",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "buildwithsaga.site",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #malware #phishing",
+      "ref": "https://x.com/Malwarehunterr/status/2122418608479609178",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "inv2bullish.xyz",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #malware #phishing",
+      "ref": "https://x.com/Malwarehunterr/status/2122418608479609178",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "aztechires.online",
+      "source": "TweetFeed",
+      "context": "@500mk500 #ClickFix #malware #phishing",
+      "ref": "https://x.com/500mk500/status/2122397098943328575",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "geoveral.online",
+      "source": "TweetFeed",
+      "context": "@500mk500 #ClickFix #malware #phishing",
+      "ref": "https://x.com/500mk500/status/2122397098943328575",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "joinalephzero.ink",
+      "source": "TweetFeed",
+      "context": "@500mk500 #ClickFix #malware #phishing",
+      "ref": "https://x.com/500mk500/status/2122397098943328575",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "joinalephzero.online",
+      "source": "TweetFeed",
+      "context": "@500mk500 #ClickFix #malware #phishing",
+      "ref": "https://x.com/500mk500/status/2122397098943328575",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "veriearth.xyz",
+      "source": "TweetFeed",
+      "context": "@500mk500 #ClickFix #malware #phishing",
+      "ref": "https://x.com/500mk500/status/2122397098943328575",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "apirequestaccess.com",
+      "source": "Huntress",
+      "context": "Beyond the clipboard: The evolving tradecraft of ClickFix",
+      "ref": "https://www.huntress.com/blog/the-evolving-tradecraft-of-clickfix"
+    },
+    {
+      "type": "domain",
+      "value": "moziw.com",
+      "source": "Huntress",
+      "context": "Beyond the clipboard: The evolving tradecraft of ClickFix",
+      "ref": "https://www.huntress.com/blog/the-evolving-tradecraft-of-clickfix"
+    },
+    {
+      "type": "domain",
+      "value": "vvestalw.ghost.io",
+      "source": "Huntress",
+      "context": "Beyond the clipboard: The evolving tradecraft of ClickFix",
+      "ref": "https://www.huntress.com/blog/the-evolving-tradecraft-of-clickfix"
+    },
+    {
+      "type": "domain",
+      "value": "westlaw-signon.com",
+      "source": "Huntress",
+      "context": "Beyond the clipboard: The evolving tradecraft of ClickFix",
+      "ref": "https://www.huntress.com/blog/the-evolving-tradecraft-of-clickfix"
+    },
+    {
+      "type": "domain",
+      "value": "544504d7fe1e.xyz",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "domain",
+      "value": "a8f2aac37385.xyz",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "domain",
+      "value": "bestutyresdomaonupder.com",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "domain",
+      "value": "bestutyresdomaonupder.top",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "domain",
+      "value": "bestutyresdomaonupder2324.com",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "domain",
+      "value": "cdn-analytics-3f4033.rosamariaeadeshtvfud.workers.dev",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "domain",
+      "value": "cdn-analytics-p53.makeneg458.workers.dev",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "domain",
+      "value": "cdn-assets-api.busykifukek2-8psk.workers.dev",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "domain",
+      "value": "cdn-assets-api.cfchk902834.workers.dev",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "domain",
+      "value": "cdn-assets-api.kessler-m88.workers.dev",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "domain",
+      "value": "cdn-assets-api.makeneg458.workers.dev",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "domain",
+      "value": "dns.cdn-syncnode-server.com",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "domain",
+      "value": "dns.timesyncserver-312453.com",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "domain",
+      "value": "kfkwrfdd.xyz",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "domain",
+      "value": "linkrot.fypahedupal2-0maz.workers.dev",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "domain",
+      "value": "securedoc.makeneg458.workers.dev",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "domain",
+      "value": "securedoc.mesuttgulerr573.workers.dev",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "domain",
+      "value": "sync-node-serv.com",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "domain",
+      "value": "update.zip",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "ip",
+      "value": "64.204.80.251",
+      "source": "TweetFeed",
+      "context": "@JAMESWT_WT #ClickFix #cryptoscam #malware",
+      "ref": "https://x.com/JAMESWT_WT/status/2122123956865929505",
+      "family": "ClickFix"
+    },
+    {
+      "type": "ip",
+      "value": "170.205.28.251",
+      "source": "TweetFeed",
+      "context": "@500mk500 #ClickFix #malware #phishing",
+      "ref": "https://x.com/500mk500/status/2122397098943328575",
+      "family": "ClickFix"
+    },
+    {
+      "type": "ip",
+      "value": "151.240.151.76",
+      "source": "Huntress",
+      "context": "Beyond the clipboard: The evolving tradecraft of ClickFix",
+      "ref": "https://www.huntress.com/blog/the-evolving-tradecraft-of-clickfix"
+    },
+    {
+      "type": "ip",
+      "value": "167.148.201.104",
+      "source": "Huntress",
+      "context": "Beyond the clipboard: The evolving tradecraft of ClickFix",
+      "ref": "https://www.huntress.com/blog/the-evolving-tradecraft-of-clickfix"
+    },
+    {
+      "type": "ip",
+      "value": "23.227.199.41",
+      "source": "Huntress",
+      "context": "Beyond the clipboard: The evolving tradecraft of ClickFix",
+      "ref": "https://www.huntress.com/blog/the-evolving-tradecraft-of-clickfix"
+    },
+    {
+      "type": "ip",
+      "value": "145.63.138.67",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "ip",
+      "value": "162.252.198.204",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "ip",
+      "value": "162.252.199.92",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "ip",
+      "value": "176.9.154.69",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "ip",
+      "value": "185.224.132.148",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "ip",
+      "value": "91.132.93.251",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "ip",
+      "value": "94.156.152.7",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "md5",
+      "value": "b393f36b20ad8aeadcb8a80af70ccc09",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "sha1",
+      "value": "7157717581ca4e3dda83e418af25fa448fe98ed2",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "sha1",
+      "value": "da03fd7f1ffacda970a1f3d345bdaeae8c6a7b43",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "sha256",
+      "value": "aeded16494d74590f5fce1fe58b6b0d0195d50dbe94e9c8cf75581c0f7703188",
+      "source": "TweetFeed",
+      "context": "@JAMESWT_WT #ClickFix #cryptoscam #malware",
+      "ref": "https://x.com/JAMESWT_WT/status/2122123956865929505",
+      "family": "ClickFix"
+    },
+    {
+      "type": "sha256",
+      "value": "11c767bd1631c302cfb6a91ddeb67cd0e30a9c1a15ee19d065baa02a032e9679",
+      "source": "TweetFeed",
+      "context": "@skocherhan #ClickFix #malware #phishing",
+      "ref": "https://x.com/skocherhan/status/2122373638758486285",
+      "family": "ClickFix"
+    },
+    {
+      "type": "sha256",
+      "value": "146c1203728cd9e72495330bf63185c567e425dbf3b523d075f6bac380822380",
+      "source": "TweetFeed",
+      "context": "@skocherhan #ClickFix #malware #phishing",
+      "ref": "https://x.com/skocherhan/status/2122373638758486285",
+      "family": "ClickFix"
+    },
+    {
+      "type": "sha256",
+      "value": "45c094b760d91635e58bd5e73baa9ca21ba081f97492dca1e066627fadde2590",
+      "source": "TweetFeed",
+      "context": "@skocherhan #ClickFix #malware #phishing",
+      "ref": "https://x.com/skocherhan/status/2122373638758486285",
+      "family": "ClickFix"
+    },
+    {
+      "type": "sha256",
+      "value": "b962c0fdf6785bc6c84dc872da2b30c2032e698f5813db2a67ddd2148905004c",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #cryptoscam #infostealer",
+      "ref": "https://x.com/Malwarehunterr/status/2122396171239137539",
+      "family": "ClickFix"
+    },
+    {
+      "type": "sha256",
+      "value": "38a26975a38f52d4f6ef7dd9f3985e0a64d146af57a324dee07f39abd1aafb2e",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #cryptoscam #infostealer",
+      "ref": "https://x.com/Malwarehunterr/status/2122396171239137539",
+      "family": "ClickFix"
+    },
+    {
+      "type": "sha256",
+      "value": "4c0d87b9932b5f7fcbe59b070628ad60409c5d18bf6e50b09df1c0f48a077bc3",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #cryptoscam #infostealer",
+      "ref": "https://x.com/Malwarehunterr/status/2122396174288314555",
+      "family": "ClickFix"
+    },
+    {
+      "type": "sha256",
+      "value": "4155a4c7e857d9b613e14cf00e148037859cf627cf4004f5a4257f2cd29de2cb",
+      "source": "Huntress",
+      "context": "Beyond the clipboard: The evolving tradecraft of ClickFix",
+      "ref": "https://www.huntress.com/blog/the-evolving-tradecraft-of-clickfix"
+    },
+    {
+      "type": "sha256",
+      "value": "de9d325af3156232c34916840210efb5706d6e6a5eba1827c8240e4f71c09fa2",
+      "source": "Huntress",
+      "context": "Beyond the clipboard: The evolving tradecraft of ClickFix",
+      "ref": "https://www.huntress.com/blog/the-evolving-tradecraft-of-clickfix"
+    },
+    {
+      "type": "sha256",
+      "value": "e921fe5307e29bf6fd00000dd594356affd3a7b044e52720c7f10decbdc305b9",
+      "source": "Huntress",
+      "context": "Beyond the clipboard: The evolving tradecraft of ClickFix",
+      "ref": "https://www.huntress.com/blog/the-evolving-tradecraft-of-clickfix"
+    },
+    {
+      "type": "sha256",
+      "value": "ed37c12fc4beea98722f6f308cec45e6440c3089e1a002c837bed147fbeb0c52",
+      "source": "Huntress",
+      "context": "Beyond the clipboard: The evolving tradecraft of ClickFix",
+      "ref": "https://www.huntress.com/blog/the-evolving-tradecraft-of-clickfix"
+    },
+    {
+      "type": "sha256",
+      "value": "009099ba10365b44bdb3ecc28dfcbed6a594ec0a0df86931620cdaac9843e611",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "sha256",
+      "value": "0aff424f9a02eb9f429119c4caa05e85fc952603549d69849e745293d20235d6",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "sha256",
+      "value": "0dcfe51d2521e52a469f5cec6b42bc8e7e37b41df993cce7d739ff3fd248d8b1",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "sha256",
+      "value": "0e1c94a8f94158f64558325ddbfd1e1277884fba6fb1f8c381dbd5c742e59fbb",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "sha256",
+      "value": "47e853092511d9663196e9b36d563a0c3e92ee734f88675c4f375ffcfa5f3db8",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "sha256",
+      "value": "4efe003a54db8ffbaef6065270eacb0a59479ccc86941517ac7a33344e97bc1d",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "sha256",
+      "value": "4f656834e545c0b44922ce6d8952989c8c0859d8ae8b1f117c06ab07b047e2b4",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "sha256",
+      "value": "56582934901cce0b618d6a50e54c9db29bf2d444636bcd40b5975a765ecde538",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "sha256",
+      "value": "7055483a77f679ad569c3a9bfe76cdb8e5b96efc44d2bf2a6f08e930add598b0",
+      "source": "SOCRadar",
+      "context": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin Amer",
+      "ref": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/"
+    },
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/the-evolving-tradecraft-of-clickfix",
+      "title": "Beyond the clipboard: The evolving tradecraft of ClickFix",
+      "source": "Huntress",
+      "published": "2026-11-10",
+      "context": "Clickfix"
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/",
+      "title": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe",
+      "source": "SOCRadar",
+      "published": "2026-11-13",
+      "context": "Clickfix"
+    },
+    {
+      "type": "report",
+      "value": "https://www.ibm.com/think/x-force/interlock-and-rhysida-within-the-ransonware-ecosystem",
+      "title": "Interlock and Rhysida within the ransomware ecosystem",
+      "source": "IBM X-Force",
+      "published": "2026-11-16",
+      "context": "Rhysida, Clickfix, Conti"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/the-evolving-tradecraft-of-clickfix",
+      "title": "Beyond the clipboard: The evolving tradecraft of ClickFix",
+      "source": "Huntress",
+      "published": "2026-11-10",
+      "context": "Clickfix"
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/",
+      "title": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe",
+      "source": "SOCRadar",
+      "published": "2026-11-13",
+      "context": "Clickfix"
+    },
+    {
+      "type": "report",
+      "value": "https://www.ibm.com/think/x-force/interlock-and-rhysida-within-the-ransonware-ecosystem",
+      "title": "Interlock and Rhysida within the ransomware ecosystem",
+      "source": "IBM X-Force",
+      "published": "2026-11-16",
+      "context": "Rhysida, Clickfix, Conti"
+    }
+  ],
+  "overflow": 13,
+  "status": "approved",
+  "decision": {
+    "by": "RyanPendergast12 (7-day backfill)",
+    "user_id": "local",
+    "at": "2026-11-16T21:13:35+00:00"
+  }
+}

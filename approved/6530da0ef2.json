@@ -1,6 +1,6 @@
 {
-  "id": "87fdd1c9ed",
-  "created": "2026-11-16T21:04:42+00:00",
+  "id": "6530da0ef2",
+  "created": "2026-11-16T21:12:51+00:00",
   "kind": "iocs",
   "target_md": "Threat Intel/Threat Actors → Cybercrime + Other/Shai-Hulud 2.0.md",
   "headline": "New IOC proposal — Shai-Hulud 2.0",
@@ -25,5 +25,10 @@
     }
   ],
   "overflow": 0,
-  "status": "pending"
+  "status": "approved",
+  "decision": {
+    "by": "RyanPendergast12 (7-day backfill)",
+    "user_id": "local",
+    "at": "2026-11-16T21:13:34+00:00"
+  }
 }

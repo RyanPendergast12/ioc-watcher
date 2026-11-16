@@ -1,6 +1,6 @@
 {
-  "id": "ebbfce6016",
-  "created": "2026-11-16T21:04:42+00:00",
+  "id": "da5dd44b8d",
+  "created": "2026-11-16T21:12:51+00:00",
   "kind": "iocs",
   "target_md": "Threat Intel/Malware Families/Threat Actors → Ransomware/Cl0p.md",
   "headline": "New IOC proposal — Cl0p",
@@ -25,5 +25,10 @@
     }
   ],
   "overflow": 0,
-  "status": "pending"
+  "status": "approved",
+  "decision": {
+    "by": "RyanPendergast12 (7-day backfill)",
+    "user_id": "local",
+    "at": "2026-11-16T21:13:40+00:00"
+  }
 }

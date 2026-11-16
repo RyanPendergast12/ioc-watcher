@@ -1,0 +1,50 @@
+{
+  "id": "c4e1de7179",
+  "created": "2026-11-16T21:12:51+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Threat Actors → Ransomware/Qilin.md",
+  "headline": "New IOC proposal — Qilin",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://securelist.com/malware-report-q3-2026-pc-iot-statistics/121843/",
+      "title": "IT threat evolution in Q3 2026. Non-mobile statistics",
+      "source": "Securelist",
+      "published": "2026-11-10",
+      "context": "Qilin"
+    },
+    {
+      "type": "report",
+      "value": "https://www.dragos.com/blog/dragos-industrial-ransomware-analysis-q3-2026",
+      "title": "Industrial Ransomware Analysis for Q3 2026",
+      "source": "Dragos",
+      "published": "2026-11-16",
+      "context": "Qilin, Cl0p, INC, Akira"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://securelist.com/malware-report-q3-2026-pc-iot-statistics/121843/",
+      "title": "IT threat evolution in Q3 2026. Non-mobile statistics",
+      "source": "Securelist",
+      "published": "2026-11-10",
+      "context": "Qilin"
+    },
+    {
+      "type": "report",
+      "value": "https://www.dragos.com/blog/dragos-industrial-ransomware-analysis-q3-2026",
+      "title": "Industrial Ransomware Analysis for Q3 2026",
+      "source": "Dragos",
+      "published": "2026-11-16",
+      "context": "Qilin, Cl0p, INC, Akira"
+    }
+  ],
+  "overflow": 0,
+  "status": "approved",
+  "decision": {
+    "by": "RyanPendergast12 (7-day backfill)",
+    "user_id": "local",
+    "at": "2026-11-16T21:13:38+00:00"
+  }
+}

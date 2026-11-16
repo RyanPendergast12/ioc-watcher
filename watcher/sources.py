@@ -342,7 +342,7 @@ def cisa_kev(cfg, ctx) -> SourceResult:
     d = get("https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json").json()
     res = SourceResult()
     known = set(ctx.state.get("kev", []))
-    cutoff = (ctx.now - dt.timedelta(days=cfg.get("bootstrap_days", 7))).strftime("%Y-%m-%d")
+    cutoff = (ctx.now - dt.timedelta(days=ctx.settings.get("_kev_days") or cfg.get("bootstrap_days", 7))).strftime("%Y-%m-%d")
     all_ids = []
     kev_products = ctx.settings.setdefault("_kev", {})
     for v in d.get("vulnerabilities", []):
@@ -421,7 +421,7 @@ def html_index(cfg, ctx) -> SourceResult:
         if link in seen:
             continue
         seen.append(link)
-        if first_run and len(res.reports) >= cfg.get("bootstrap_items", 3):
+        if first_run and len(res.reports) >= cfg.get("bootstrap_items", ctx.settings.get("html_bootstrap_items", 3)):
             continue
         title, body = _fetch_article(link)
         title = title or _title_from(link)

@@ -99,3 +99,17 @@ etherscan.io
 infura.io
 alchemy.com
 binance.org
+# legitimate services abused for hosting / victim recon (too broad to block)
+box.com
+dropbox.com
+2ip.io
+ipinfo.io
+ip-api.com
+ipify.org
+icanhazip.com
+ifconfig.me
+myexternalip.com
+api.telegram.org
+telegram.org
+discord.com
+discordapp.com

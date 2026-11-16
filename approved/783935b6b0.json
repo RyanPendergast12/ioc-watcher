@@ -1,0 +1,34 @@
+{
+  "id": "783935b6b0",
+  "created": "2026-11-16T21:12:51+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Threat Actors → Cybercrime + Other/HandalaMuddyWater.md",
+  "headline": "New IOC proposal — HandalaMuddyWater",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/",
+      "title": "How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders",
+      "source": "CrowdStrike",
+      "published": "2026-11-16",
+      "context": "HandalaMuddyWater"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/",
+      "title": "How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders",
+      "source": "CrowdStrike",
+      "published": "2026-11-16",
+      "context": "HandalaMuddyWater"
+    }
+  ],
+  "overflow": 0,
+  "status": "approved",
+  "decision": {
+    "by": "RyanPendergast12 (7-day backfill)",
+    "user_id": "local",
+    "at": "2026-11-16T21:13:35+00:00"
+  }
+}

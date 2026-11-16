@@ -1,0 +1,1041 @@
+{
+  "id": "3abe2d3c96",
+  "created": "2026-11-16T21:12:51+00:00",
+  "kind": "digest",
+  "target_md": "Threat Intel/Intel Feed/2026-11-16.md",
+  "headline": "Intel digest — 2026-11-16 (128 new reports)",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://www.reliaquest.com/blog/threat-spotlight-luna-moth-returns-re-targeting-law-firms-through-access-tokens/",
+      "title": "Luna Moth Returns, Re-Targeting Law Firms Through Access Tokens",
+      "source": "ReliaQuest",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.reliaquest.com/blog/public-administration-faces-a-65-percent-ransomware-surge-how-to-defend-against-it/",
+      "title": "Public Administration Faces a 65% Ransomware Surge. Here’s How to Defend Against It.",
+      "source": "ReliaQuest",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.reliaquest.com/blog/information-sector-attacks-rose-48-percent-how-to-respond/",
+      "title": "Information-Sector Attacks Rose 48%. Here’s How to Respond.",
+      "source": "ReliaQuest",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.reliaquest.com/blog/retail-trade-sees-a-30-percent-ransomware-increase-how-intrusions-start/",
+      "title": "Retail Trade Sees a 30% Ransomware Increase. Here’s How Intrusions Start.",
+      "source": "ReliaQuest",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.reliaquest.com/blog/for-utilities-one-stolen-identity-can-trigger-an-outage-how-to-defend-against-it/",
+      "title": "For Utilities, One Stolen Identity Can Trigger an Outage. Here’s How to Defend Against It.",
+      "source": "ReliaQuest",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.reliaquest.com/blog/accommodation-and-food-services-sees-attacks-rise-32-percent-where-intrusions-start/",
+      "title": "Accommodation and Food Services Sees Attacks Rise 32%. Here’s Where Intrusions Start.",
+      "source": "ReliaQuest",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.reliaquest.com/blog/credential-attacks-are-expanding-across-hospitality-why-speed-is-critical-to-protect-access/",
+      "title": "Credential Attacks Are Expanding Across Hospitality. Here’s Why Speed Is Critical to Protect Access.",
+      "source": "ReliaQuest",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/",
+      "title": "Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors",
+      "source": "Unit 42",
+      "published": "2026-11-12",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/",
+      "title": "ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know",
+      "source": "Unit 42",
+      "published": "2026-11-11",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/",
+      "title": "The XG Files: Falcon C2 Flying Under The (Browser) Radar",
+      "source": "Unit 42",
+      "published": "2026-11-11",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/security-insights-report",
+      "title": "New Huntress Security Insights Report & Reporting Center",
+      "source": "Huntress",
+      "published": "2026-11-16",
+      "context": "ClawBot + OpenClaw"
+    },
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/ai-arena-huntress-ctf-2026-retro",
+      "title": "The AI Arena: Huntress CTF 2026 Retro",
+      "source": "Huntress",
+      "published": "2026-11-16",
+      "context": "ClawBot + OpenClaw, Shai-Hulud 2.0"
+    },
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/fake-crypto-exchange-sessions-screenconnect",
+      "title": "Attackers use Crypto Exchange Names to Disguise Unauthorized Sessions on 100+ ScreenConnect Servers",
+      "source": "Huntress",
+      "published": "2026-11-14",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/geovision-camera-software-xmrig-cryptominer",
+      "title": "GeoVision Camera Software Abused to Deploy XMRig Cryptominer",
+      "source": "Huntress",
+      "published": "2026-11-13",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/crafty-microsoft-teams-booking-flow-disguises-device-code-phishing",
+      "title": "Crafty Microsoft Teams Booking Flow Disguises Device Code Phishing",
+      "source": "Huntress",
+      "published": "2026-11-12",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/sckit-worm-rogue-screenconnect",
+      "title": "SCKit Worm Installs Rogue ScreenConnect Clients and Session Cookie Relays Across Hundreds of Endpoints",
+      "source": "Huntress",
+      "published": "2026-11-12",
+      "context": "ClawBot + OpenClaw"
+    },
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/the-evolving-tradecraft-of-clickfix",
+      "title": "Beyond the clipboard: The evolving tradecraft of ClickFix",
+      "source": "Huntress",
+      "published": "2026-11-10",
+      "context": "Clickfix"
+    },
+    {
+      "type": "report",
+      "value": "https://cyble.com/blog/cert-in-security-auditing-guideline/",
+      "title": "CERT-In’s AI Security Auditing Guidelines: Will Your AI System Need an Independent Audit?",
+      "source": "Cyble",
+      "published": "2026-11-13",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://cyble.com/blog/can-agentic-ai-investigate-phishing-campaign/",
+      "title": "Can Agentic AI Investigate a Phishing Campaign? Evidence Walkthrough",
+      "source": "Cyble",
+      "published": "2026-11-12",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://cyble.com/blog/crafty-falcon-ai-assisted-financial-threat-actor/",
+      "title": "CERT-In’s CRAFTY FALCON Advisory: AI Is the Accelerant, Your Payment APIs Are the Target",
+      "source": "Cyble",
+      "published": "2026-11-11",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://blog.alphahunt.io/deep-research-the-upload-attempt-was-real-the-backdoor-was-still-a-hypothesis/",
+      "title": "[DEEP RESEARCH] The Upload Attempt Was Real. The Backdoor Was Still a Hypothesis.",
+      "source": "AlphaHunt",
+      "published": "2026-11-12",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://blog.alphahunt.io/signals-weekly-follow-the-access-path-not-the-ai-label/",
+      "title": "[SIGNALS WEEKLY] Follow the Access Path, Not the AI Label",
+      "source": "AlphaHunt",
+      "published": "2026-11-11",
+      "context": "Mustang Panda"
+    },
+    {
+      "type": "report",
+      "value": "https://blog.alphahunt.io/deep-research-the-keyboard-s-promotion-feed-became-an-execution-path/",
+      "title": "[DEEP RESEARCH] The Keyboard's Promotion Feed Became an Execution Path",
+      "source": "AlphaHunt",
+      "published": "2026-11-10",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.trendmicro.com/en_us/research/26/g/kratos-takedown.html",
+      "title": "Law Enforcement Takes Down Kratos/Sneaky2FA Phishing Service, With an Assist From TrendAI™",
+      "source": "Trend Micro Research",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.trendmicro.com/en_us/research/26/g/making-sense-of-the-vulnpocalypse.html",
+      "title": "Volume Is Not Risk: Making Sense of the 'Vulnpocalypse'",
+      "source": "Trend Micro Research",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.trendmicro.com/en_us/research/26/g/device-code-phishing.html",
+      "title": "Device Code Phishing: Turning a Convenience Feature Into an MFA Bypass",
+      "source": "Trend Micro Research",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.trendmicro.com/en_us/research/26/g/actor-behind-patriot-bait-used-ai-to-deploy-c2-botnet.html",
+      "title": "Six Minutes to Compromise: How ‘Patriot Bait’ Actor Used AI to Build and Deploy a C&C Botnet",
+      "source": "Trend Micro Research",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.trendmicro.com/en_us/research/26/i/safely-securing-ai-agents.html",
+      "title": "Safely Securing AI Agents",
+      "source": "Trend Micro Research",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.trendmicro.com/en_us/research/26/g/open-secure-ai-alliance.html",
+      "title": "Why the Open Secure AI Alliance Matters: Open Frontier Models, Open Deployment Flexibility",
+      "source": "Trend Micro Research",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.trendmicro.com/en_us/research/26/g/tracking-fake-sites-in-the-2026-world-cup-scam-wave.html",
+      "title": "Tracking Over 35,000 Fake Sites in the 2026 World Cup Scam Wave",
+      "source": "Trend Micro Research",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/news/2026/11/hijacked-bitly-links-turn-old-brand-posts-into-offensive-redirects",
+      "title": "Hijacked Bitly links turn old brand posts into offensive redirects",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/threat-intel/2026/11/fake-prime-gaming-x-fc-27-reward-site-harvests-ea-passwords-and-2fa-codes",
+      "title": "Fake Prime Gaming x FC 27 reward site harvests EA passwords and 2FA codes",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/ai/2026/11/criminals-are-using-artex-ai-agents-to-speed-up-cyberattacks-fbi-warns",
+      "title": "Criminals are using ARTEX AI agents to speed up cyberattacks, FBI warns",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/how-to/2026/11/how-to-prepare-your-digital-accounts-for-after-your-death",
+      "title": "How to prepare your digital accounts for after your death",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/podcast/2026/11/how-to-prepare-your-data-for-your-death-lock-and-code-s07e23",
+      "title": "How to prepare your data for your death (Lock and Code S07E23)",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/uncategorized/2026/11/a-week-in-security-november-9-november-15-2",
+      "title": "A week in security (November 9 – November 15)",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/news/2026/11/new-york-city-council-votes-to-ban-surveillance-pricing",
+      "title": "New York City votes to ban surveillance pricing",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-13",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/bugs/2026/11/google-pushes-second-chrome-update-this-week",
+      "title": "Google pushes second Chrome update this week",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-13",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/news/2026/11/worldwide-microsoft-365-outage-disrupts-outlook-sharepoint-teams-and-more",
+      "title": "Worldwide Microsoft 365 outage disrupts Outlook, SharePoint, Teams, and more [updated]",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-13",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/news/2026/11/legos-bricklink-taken-offline-after-unusual-activity-what-users-should-know",
+      "title": "LEGO’s BrickLink taken offline: What users should know",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-12",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/mobile/2026/11/why-scammers-want-you-to-allow-notifications",
+      "title": "Why scammers want you to allow push notifications",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-12",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/news/2026/11/fbi-agent-stole-2-47m-in-crypto-from-criminal-wallets",
+      "title": "FBI agent stole $2.47m in crypto from criminal wallets",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-12",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/news/2026/11/vanderbilt-restores-systems-after-cyberattack-as-hackers-claim-data-theft",
+      "title": "Vanderbilt restores systems after cyberattack as hackers claim data theft",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-11",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/news/2026/11/remus-malware-claims-gmail-access-even-after-you-change-your-password",
+      "title": "Remus malware claims Gmail access even after you change your password",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-11",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/ai/2026/11/muse-sleep-band-users-werent-told-their-brain-data-was-training-ai",
+      "title": "Muse sleep band users weren’t told their brain data was training AI",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-11",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/bugs/2026/11/microsoft-patch-tuesday-fixes-outlook-flaw-already-under-attack",
+      "title": "Microsoft Patch Tuesday fixes Outlook flaw already under attack",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-11",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/news/2026/11/researcher-bypassed-meta-smart-glasses-safeguards-to-run-her-own-code",
+      "title": "Researcher bypassed Meta smart glasses’ safeguards to run her own code",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-10",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/bugs/2026/11/update-chrome-now-to-fix-a-flaw-attackers-are-exploiting",
+      "title": "Update Chrome now to fix a flaw attackers are exploiting",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-10",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/how-to/2026/11/before-you-buy-an-advent-calendar-check-these-warning-signs",
+      "title": "Before you buy an advent calendar, check these warning signs",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-10",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://research.checkpoint.com/2026/16th-november-threat-intelligence-report/",
+      "title": "16th November – Threat Intelligence Report",
+      "source": "Check Point Research",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://research.checkpoint.com/2026/php2shell-exploitation-on-check-point-gateway/",
+      "title": "PHP2Shell Exploitation on Check Point Gateway",
+      "source": "Check Point Research",
+      "published": "2026-11-12",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://research.checkpoint.com/2026/not-all-that-glitters-is-gold-tracking-copperdragons-sparrow-framework-around-the-globe/",
+      "title": "Not All That Glitters Is Gold: Tracking CopperDragon’s Sparrow Framework Around the Globe",
+      "source": "Check Point Research",
+      "published": "2026-11-10",
+      "context": "Salt Typhoon"
+    },
+    {
+      "type": "report",
+      "value": "https://www.cybertriage.com/blog/dfir-collections-before-patching-forensic-triage-under-cisa-bod-26-04/",
+      "title": "DFIR Collections Before Patching: Forensic Triage Under CISA BOD 26-04",
+      "source": "Cyber Triage",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.cybertriage.com/blog/how-to-investigate-with-automated-dfir-tools/",
+      "title": "How To Investigate with Automated DFIR Tools",
+      "source": "Cyber Triage",
+      "published": "2026-11-10",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://blog.talosintelligence.com/artex-and-beyond/",
+      "title": "ARTEX and beyond: AI-enabled penetration testing platforms",
+      "source": "Cisco Talos",
+      "published": "2026-11-13",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/",
+      "title": "Never be afraid to ask questions",
+      "source": "Cisco Talos",
+      "published": "2026-11-12",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-november-2026/",
+      "title": "Microsoft Patch Tuesday for November 2026 — Snort rules and prominent vulnerabilities",
+      "source": "Cisco Talos",
+      "published": "2026-11-11",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.welivesecurity.com/en/cybersecurity/gta-vi-isnt-out-yet-scams-full-swing/",
+      "title": "GTA VI isn’t out yet – and the scams are already in full swing",
+      "source": "ESET WeLiveSecurity",
+      "published": "2026-11-13",
+      "context": "Vidar, AsyncRAT"
+    },
+    {
+      "type": "report",
+      "value": "https://www.welivesecurity.com/en/eset-research/exchange-for-breakfast-turlas-cereal-tricks-are-not-for-kids/",
+      "title": "Exchange for breakfast: Turla’s Cereal tricks are not for kids",
+      "source": "ESET WeLiveSecurity",
+      "published": "2026-11-10",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/",
+      "title": "SCKit abuses ScreenConnect to deploy remote access and target technician sessions",
+      "source": "Microsoft Threat Intelligence",
+      "published": "2026-11-13",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/",
+      "title": "Trained to betray: How post-training supply chain attacks hijack coding agents",
+      "source": "Microsoft Threat Intelligence",
+      "published": "2026-11-12",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/",
+      "title": "The global socket: how threat actors are weaponizing GSocket for stealthy C2",
+      "source": "Microsoft Threat Intelligence",
+      "published": "2026-11-11",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.microsoft.com/en-us/security/blog/2026/11/11/lessons-from-59-linux-kernel-bug-reports/",
+      "title": "Lessons from 59 Linux Kernel Bug Reports",
+      "source": "Microsoft Threat Intelligence",
+      "published": "2026-11-11",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/",
+      "title": "Detecting sleeper agents hiding in AI model neurons",
+      "source": "Microsoft Threat Intelligence",
+      "published": "2026-11-10",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.sentinelone.com/labs/labscon26-replay-let-s-get-physical-why-cybersecurity-needs-hardware-based-security-to-survive-ai/",
+      "title": "LABScon26 Replay | Let’s Get Physical: Why Cybersecurity Needs Hardware-Based Security to Survive AI",
+      "source": "SentinelLABS",
+      "published": "2026-11-12",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.elastic.co/security-labs/threat-command/agentic-offensive-frameworks-detection-artex",
+      "title": "Inside the loop: Five AI attack frameworks that never ask permission",
+      "source": "Elastic Security Labs",
+      "published": "2026-11-13",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.elastic.co/security-labs/threat-command/cyberstrikeai-aws-cloudtrail-intrusion",
+      "title": "56 AWS API calls in 141 milliseconds: Inside an AI-run intrusion",
+      "source": "Elastic Security Labs",
+      "published": "2026-11-13",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.elastic.co/security-labs/threat-command/sansar-linux-cryptomining-malware",
+      "title": "0% GPU utilization: How SANSAR hides Linux cryptomining",
+      "source": "Elastic Security Labs",
+      "published": "2026-11-12",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://securelist.com/retadup-delivers-coffeeloader/121908/",
+      "title": "A USB worm’s second life: Retadup spreading CoffeeLoader",
+      "source": "Securelist",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://securelist.com/esxi-ransomware/121959/",
+      "title": "Ransomware at the hypervisor layer: how attackers use ESXi and vCenter features for malicious purposes",
+      "source": "Securelist",
+      "published": "2026-11-13",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://securelist.com/how-a-cloud-pentest-works/121921/",
+      "title": "Transcending the trust boundaries: how a cloud pentest works",
+      "source": "Securelist",
+      "published": "2026-11-12",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://securelist.com/citrus-ransomware/121879/",
+      "title": "Citrus Ransomware: VLESS for traffic, Sn00py for encryption, and LLMs lending a hand",
+      "source": "Securelist",
+      "published": "2026-11-11",
+      "context": "Mimikatz"
+    },
+    {
+      "type": "report",
+      "value": "https://securelist.com/malware-report-q3-2026-pc-iot-statistics/121843/",
+      "title": "IT threat evolution in Q3 2026. Non-mobile statistics",
+      "source": "Securelist",
+      "published": "2026-11-10",
+      "context": "Qilin"
+    },
+    {
+      "type": "report",
+      "value": "https://securelist.com/malware-report-q3-2026-mobile-statistics/121844/",
+      "title": "IT threat evolution in Q3 2026. Mobile statistics",
+      "source": "Securelist",
+      "published": "2026-11-10",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.recordedfuture.com/blog/state-of-threat-intelligence-2027",
+      "title": "Five Findings From the 2027 State of Threat Intelligence",
+      "source": "Recorded Future",
+      "published": "2026-11-12",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.recordedfuture.com/research/ai-cyber-threat-trends-2026",
+      "title": "AI Is Both Target and Tool for Threat Actors",
+      "source": "Recorded Future",
+      "published": "2026-11-11",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.recordedfuture.com/blog/doppelcart-fraud-network-grows-domains",
+      "title": "DoppelCart Fraud Network Grows to More Than 250,000 Domains",
+      "source": "Recorded Future",
+      "published": "2026-11-10",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.recordedfuture.com/blog/ghostframe-esxi-implant-settra-ransomware",
+      "title": "GhostFrame: A new ESXi Implant Linked to Settra Ransomware",
+      "source": "Recorded Future",
+      "published": "2026-11-10",
+      "context": "Settra"
+    },
+    {
+      "type": "report",
+      "value": "https://www.rapid7.com/blog/post/etr-rapid7-detected-exploitation-of-cve-2026-90436-against-atlassian-confluence-data-center-n-able-n-central-also-exploited",
+      "title": "Rapid7 Detected Exploitation of CVE-2026-90436 against Atlassian Confluence Data Center, N-able N-central also Exploited",
+      "source": "Rapid7",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.rapid7.com/blog/post/ve-from-view-only-access-to-container-root-five-vulnerabilities-in-onlyoffice-docs-fixed",
+      "title": "From view-only access to container root: five vulnerabilities in ONLYOFFICE Docs (FIXED)",
+      "source": "Rapid7",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.rapid7.com/blog/post/dr-mdr-pricing-comparing-asset-ingestion-based-ingestion-costs",
+      "title": "MDR Pricing: Comparing Asset-Based and Ingestion-Based Costs",
+      "source": "Rapid7",
+      "published": "2026-11-13",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.rapid7.com/blog/post/em-patch-tuesday-november-2026",
+      "title": "Patch Tuesday - November 2026",
+      "source": "Rapid7",
+      "published": "2026-11-10",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.rapid7.com/blog/post/etr-critical-vulnerabilities-in-n-able-n-central-prompt-hosted-shutdown",
+      "title": "Critical vulnerabilities in N-able N-central prompt hosted shutdown",
+      "source": "Rapid7",
+      "published": "2026-11-10",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.rapid7.com/blog/post/five-signs-your-mdr-is-all-alert-no-action",
+      "title": "Five Signs Your MDR is All Alert, No Action",
+      "source": "Rapid7",
+      "published": "2026-11-10",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/severvault-infostealer-logs-ai-profiles/",
+      "title": "SeverVault: Infostealer Logs Sold as AI Victim Profiles",
+      "source": "SOCRadar",
+      "published": "2026-11-16",
+      "context": "Vidar"
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/danfoss-ak-sm800a-flaw-takeover/",
+      "title": "Unpatched Danfoss AK-SM800A Flaws Allow Takeover",
+      "source": "SOCRadar",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/best-dns-servers-for-security-and-privacy-2026/",
+      "title": "Best DNS Servers for Security and Privacy (2026)",
+      "source": "SOCRadar",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/tsmc-kazakhstan-court-daxus-telegram-data-leaks/",
+      "title": "TSMC Leak Claim, Daxus Logs, Kazakhstan Court, Greek Ticketing, and Telegram Data",
+      "source": "SOCRadar",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/microsoft-outlook-outage/",
+      "title": "Microsoft Outlook Outage: What You Need to Know",
+      "source": "SOCRadar",
+      "published": "2026-11-13",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/cve-2026-119618-apache-http2-rce/",
+      "title": "CVE-2026-119618: Apache HTTP/2 Race Condition RCE",
+      "source": "SOCRadar",
+      "published": "2026-11-13",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/4everable2shell-at-a-glance/",
+      "title": "4EverAble2Shell: N-central Zero-Day Exploited",
+      "source": "SOCRadar",
+      "published": "2026-11-13",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/facestealer-fbi-fake-video-call-crypto-scam/",
+      "title": "FaceStealer: FBI Disrupts Fake Video Call Crypto Scam",
+      "source": "SOCRadar",
+      "published": "2026-11-13",
+      "context": "APT38 -DPRK financial ops"
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/xaocmail-clickfix-phantom53-havox-america-asia-europe/",
+      "title": "XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe",
+      "source": "SOCRadar",
+      "published": "2026-11-13",
+      "context": "Clickfix"
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/artex-ai-pentest-consoles-us/",
+      "title": "ARTEX: 916 Exposed AI Pentest Consoles Mapped in the U.S.",
+      "source": "SOCRadar",
+      "published": "2026-11-12",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.proofpoint.com/us/newsroom/news/18-outdated-identity-and-access-management-assumptions-retire",
+      "title": "18 Outdated Identity And Access Management Assumptions To Retire",
+      "source": "Proofpoint",
+      "published": "2026-11-10",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.crowdstrike.com/en-us/blog/supply-chain-risk-from-backdoored-lora-models/",
+      "title": "Hidden in the Weights: Supply Chain Risk from Backdoored LoRA Models",
+      "source": "CrowdStrike",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/",
+      "title": "Inside Falcon AI Gateway: One Control Point for AI Traffic",
+      "source": "CrowdStrike",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-augmented-identity-security-solutions/",
+      "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Augmented Identity Security Solutions",
+      "source": "CrowdStrike",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-november-2026/",
+      "title": "November 2026 Patch Tuesday: 1,252 CVEs Include One Zero-Day and 68 Critical Vulnerabilities",
+      "source": "CrowdStrike",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/",
+      "title": "How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders",
+      "source": "CrowdStrike",
+      "published": "2026-11-16",
+      "context": "HandalaMuddyWater"
+    },
+    {
+      "type": "report",
+      "value": "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/",
+      "title": "CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats",
+      "source": "CrowdStrike",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/",
+      "title": "CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries",
+      "source": "CrowdStrike",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-innovations-secure-cloud-ai-runs-on/",
+      "title": "New Falcon Cloud Security Innovations Secure the Cloud AI Runs On",
+      "source": "CrowdStrike",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/",
+      "title": "CrowdStrike Brings Enterprise Browser Security to the Falcon Platform",
+      "source": "CrowdStrike",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.crowdstrike.com/en-us/blog/crowdstrike-advances-ai-security-and-safety-falcon-guardian/",
+      "title": "CrowdStrike Advances AI Security and Safety from Endpoint to Cloud",
+      "source": "CrowdStrike",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.intel471.com/blog/what-to-ask-before-you-buy-an-ai-agent-for-threat-intelligence",
+      "title": "What to ask before you buy an AI agent for threat intelligence",
+      "source": "Intel 471",
+      "published": "2026-11-12",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/",
+      "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold",
+      "source": "Google Threat Intelligence (Mandiant)",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.levelblue.com/blogs/spiderlabs-blog/tracing-the-unrestricted-ai-ecosystem-from-public-repositories-to-hosted-services",
+      "title": "Tracing the Unrestricted AI Ecosystem: From Public Repositories to Hosted Services",
+      "source": "LevelBlue SpiderLabs (ex-Cybereason)",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.levelblue.com/blogs/spiderlabs-blog/hiding-in-plain-sight-abusing-model-assumptions-to-deceive-attack-offensive-ai-agents",
+      "title": "Hiding In Plain Sight: Abusing Model Assumptions To Deceive & Attack Offensive AI Agents",
+      "source": "LevelBlue SpiderLabs (ex-Cybereason)",
+      "published": "2026-11-11",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://expel.com/blog/context-is-king-in-the-new-secops-era/",
+      "title": "Context is king in the new SecOps era",
+      "source": "Expel",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://expel.com/blog/consent-phishing-skips-the-password-and-walks-in-the-front-door/",
+      "title": "Consent phishing skips the password and walks in the front door",
+      "source": "Expel",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://expel.com/blog/why-context-is-the-new-heart-of-the-oscar-methodology/",
+      "title": "Why context is the new heart of the OSCAR methodology",
+      "source": "Expel",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://expel.com/blog/expel-mdr-now-covers-claude-chat-code-and-cowork/",
+      "title": "Expel MDR now covers Claude Chat, Code, and Cowork",
+      "source": "Expel",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://expel.com/blog/unprompted-ii-six-months-is-a-long-time/",
+      "title": "[un]prompted II: Six months is a long time",
+      "source": "Expel",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://expel.com/blog/pen-test-vs-bas-vs-red-team-vs-tabletop/",
+      "title": "Pen test vs. BAS vs. red team vs. tabletop: Which does your team need?",
+      "source": "Expel",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://expel.com/blog/the-ai-poverty-line-what-it-means-for-security-teams/",
+      "title": "The AI poverty line: What it means for security teams",
+      "source": "Expel",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.dragos.com/blog/dragos-acquires-netrise-runzero-xot-platform",
+      "title": "Dragos Acquires NetRise and runZero: What's Next for xOT Security",
+      "source": "Dragos",
+      "published": "2026-11-16",
+      "context": "APT35 - Charming Kitten"
+    },
+    {
+      "type": "report",
+      "value": "https://www.dragos.com/blog/introducing-dragos-emberai",
+      "title": "What If Every Cybersecurity Analyst Had Ten Years of xOT Experience?",
+      "source": "Dragos",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.dragos.com/blog/dragos-industrial-ransomware-analysis-q3-2026",
+      "title": "Industrial Ransomware Analysis for Q3 2026",
+      "source": "Dragos",
+      "published": "2026-11-16",
+      "context": "Qilin, Cl0p, INC, Akira"
+    },
+    {
+      "type": "report",
+      "value": "https://www.dragos.com/blog/disc-2026-recap",
+      "title": "DISC 2026: Ten Years of the Dragos Industrial Security Conference",
+      "source": "Dragos",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.dragos.com/blog/2026-dragos-capture-the-flag-ctf-competition-summary-results",
+      "title": "Dragos CTF 2026 Results: Inside the 6th Annual OT Capture the Flag",
+      "source": "Dragos",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.dragos.com/blog/ai-reverse-engineering-rea-ot-security",
+      "title": "Reverse Engineer Anything: What AI-Driven REA Means for Critical Infrastructure",
+      "source": "Dragos",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.dragos.com/blog/mtsa-cybersecurity-training-requirement",
+      "title": "Know the Ropes: MTSA's Cybersecurity Training Requirement",
+      "source": "Dragos",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.ibm.com/think/x-force/ai-vulnerability-discovery",
+      "title": "AI can find serious vulnerabilities at unprecedented speed. Can defenders keep up?",
+      "source": "IBM X-Force",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.ibm.com/think/x-force/shodan-ot-risks-local-government",
+      "title": "Do you show up on Shodan? The risks of internet-exposed OT to local governments",
+      "source": "IBM X-Force",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.ibm.com/think/x-force/trapping-a-mustang-panda",
+      "title": "Trapping a Mustang Panda",
+      "source": "IBM X-Force",
+      "published": "2026-11-16",
+      "context": "Mustang Panda"
+    },
+    {
+      "type": "report",
+      "value": "https://www.ibm.com/think/x-force/interlock-and-rhysida-within-the-ransonware-ecosystem",
+      "title": "Interlock and Rhysida within the ransomware ecosystem",
+      "source": "IBM X-Force",
+      "published": "2026-11-16",
+      "context": "Rhysida, Clickfix, Conti"
+    },
+    {
+      "type": "report",
+      "value": "https://www.ibm.com/think/x-force/when-offensive-security-knowledge-becomes-ai-training-data",
+      "title": "When offensive security knowledge becomes AI training data",
+      "source": "IBM X-Force",
+      "published": "2026-11-16",
+      "context": ""
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "approved",
+  "decision": {
+    "by": "RyanPendergast12 (7-day backfill)",
+    "user_id": "local",
+    "at": "2026-11-16T21:13:31+00:00"
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "id": "72fa49cb43",
-  "created": "2026-11-16T21:04:42+00:00",
+  "id": "febed5e1d5",
+  "created": "2026-11-16T21:12:51+00:00",
   "kind": "iocs",
   "target_md": "Threat Intel/Malware Families/Loaders + Initial Access/QakBot.md",
   "headline": "New IOC proposal — QakBot",
@@ -10,31 +10,40 @@
       "value": "50.16.16.211",
       "source": "Feodo Tracker",
       "context": "QakBot C2 :443",
-      "ref": "https://feodotracker.abuse.ch/browse/host/50.16.16.211/"
+      "ref": "https://feodotracker.abuse.ch/browse/host/50.16.16.211/",
+      "family": "QakBot"
     },
     {
       "type": "ip",
       "value": "34.204.119.63",
       "source": "Feodo Tracker",
       "context": "QakBot C2 :443",
-      "ref": "https://feodotracker.abuse.ch/browse/host/34.204.119.63/"
+      "ref": "https://feodotracker.abuse.ch/browse/host/34.204.119.63/",
+      "family": "QakBot"
     },
     {
       "type": "ip",
       "value": "178.62.3.223",
       "source": "Feodo Tracker",
       "context": "QakBot C2 :443",
-      "ref": "https://feodotracker.abuse.ch/browse/host/178.62.3.223/"
+      "ref": "https://feodotracker.abuse.ch/browse/host/178.62.3.223/",
+      "family": "QakBot"
     },
     {
       "type": "ip",
       "value": "27.133.154.218",
       "source": "Feodo Tracker",
       "context": "QakBot C2 :443",
-      "ref": "https://feodotracker.abuse.ch/browse/host/27.133.154.218/"
+      "ref": "https://feodotracker.abuse.ch/browse/host/27.133.154.218/",
+      "family": "QakBot"
     }
   ],
   "reports": [],
   "overflow": 0,
-  "status": "pending"
+  "status": "approved",
+  "decision": {
+    "by": "RyanPendergast12 (7-day backfill)",
+    "user_id": "local",
+    "at": "2026-11-16T21:13:42+00:00"
+  }
 }

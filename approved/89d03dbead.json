@@ -1,6 +1,6 @@
 {
-  "id": "4e44034839",
-  "created": "2026-11-16T21:04:42+00:00",
+  "id": "89d03dbead",
+  "created": "2026-11-16T21:12:51+00:00",
   "kind": "iocs",
   "target_md": "Threat Intel/Malware Families/Threat Actors → Ransomware/INC.md",
   "headline": "New IOC proposal — INC",
@@ -25,5 +25,10 @@
     }
   ],
   "overflow": 0,
-  "status": "pending"
+  "status": "approved",
+  "decision": {
+    "by": "RyanPendergast12 (7-day backfill)",
+    "user_id": "local",
+    "at": "2026-11-16T21:13:36+00:00"
+  }
 }

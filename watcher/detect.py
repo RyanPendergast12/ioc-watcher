@@ -80,7 +80,11 @@ def build(results, clf: Classifier, mapping: dict, settings: dict, state: dict):
         for rep in r.reports:
             hits = clf.from_text(f"{rep.title} {rep.path_hint}", rep.body,
                                  min_score=settings.get("article_min_score", 3))
-            primary = hits[0][0] if hits else None
+            # IOCs are only attributed when the page is the article's *subject* (named in its title / file path),
+            # and never to tool or technique pages (a report "using Mimikatz" is not Mimikatz infrastructure).
+            title_hits = clf.from_text(f"{rep.title} {rep.path_hint}", "", min_score=5)
+            primary = next((t for t, _ in title_hits
+                            if "Capabilities" not in t.path and "Techniques" not in t.path), None)
             entry = {"type": "report", "value": rep.url, "title": rep.title or rep.url, "source": rep.source,
                      "published": rep.published, "context": ", ".join(h[0].title for h in hits[:4])}
             if r.kind == "research":
@@ -233,6 +237,7 @@ def main(argv=None):
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--only", default="")
     ap.add_argument("--bootstrap", action="store_true", help="force bootstrap look-back window")
+    ap.add_argument("--days", type=int, help="one-off look-back of N days (implies --bootstrap)")
     a = ap.parse_args(argv)
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -242,7 +247,11 @@ def main(argv=None):
     srcs = load_yaml("sources.yml")["sources"]
     state = load_state()
     work_state = copy.deepcopy(state)
-    bootstrap = a.bootstrap or not state["initialized"]
+    bootstrap = a.bootstrap or bool(a.days) or not state["initialized"]
+    if a.days:
+        settings["bootstrap_days"] = a.days
+        settings["html_bootstrap_items"] = max(3, a.days)
+        settings["_kev_days"] = a.days
     settings["_mb_signatures"] = mapping.get("mb_signatures", [])
     clf = Classifier(mapping)
     load_tlds()

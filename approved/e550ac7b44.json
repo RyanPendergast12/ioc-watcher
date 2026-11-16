@@ -1,6 +1,6 @@
 {
-  "id": "9b272f0990",
-  "created": "2026-11-16T21:04:42+00:00",
+  "id": "e550ac7b44",
+  "created": "2026-11-16T21:12:51+00:00",
   "kind": "iocs",
   "target_md": "Threat Intel/Malware Families/Botnets/ClawBot + OpenClaw.md",
   "headline": "New IOC proposal — ClawBot + OpenClaw",
@@ -20,6 +20,14 @@
       "source": "Huntress",
       "published": "2026-11-16",
       "context": "ClawBot + OpenClaw, Shai-Hulud 2.0"
+    },
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/sckit-worm-rogue-screenconnect",
+      "title": "SCKit Worm Installs Rogue ScreenConnect Clients and Session Cookie Relays Across Hundreds of Endpoints",
+      "source": "Huntress",
+      "published": "2026-11-12",
+      "context": "ClawBot + OpenClaw"
     }
   ],
   "reports": [
@@ -38,8 +46,21 @@
       "source": "Huntress",
       "published": "2026-11-16",
       "context": "ClawBot + OpenClaw, Shai-Hulud 2.0"
+    },
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/sckit-worm-rogue-screenconnect",
+      "title": "SCKit Worm Installs Rogue ScreenConnect Clients and Session Cookie Relays Across Hundreds of Endpoints",
+      "source": "Huntress",
+      "published": "2026-11-12",
+      "context": "ClawBot + OpenClaw"
     }
   ],
   "overflow": 0,
-  "status": "pending"
+  "status": "approved",
+  "decision": {
+    "by": "RyanPendergast12 (7-day backfill)",
+    "user_id": "local",
+    "at": "2026-11-16T21:13:40+00:00"
+  }
 }

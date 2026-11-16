@@ -1,6 +1,6 @@
 {
-  "id": "41eabbf3f8",
-  "created": "2026-11-16T21:04:42+00:00",
+  "id": "1f1c2de5ab",
+  "created": "2026-11-16T21:12:51+00:00",
   "kind": "bucket",
   "target_md": "Threat Intel/Raw Threat Intel/BAD DOMAINS.md",
   "headline": "Raw intel — BAD DOMAINS",
@@ -428,5 +428,10 @@
   ],
   "reports": [],
   "overflow": 0,
-  "status": "pending"
+  "status": "approved",
+  "decision": {
+    "by": "RyanPendergast12 (7-day backfill)",
+    "user_id": "local",
+    "at": "2026-11-16T21:13:29+00:00"
+  }
 }

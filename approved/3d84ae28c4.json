@@ -1,0 +1,34 @@
+{
+  "id": "3d84ae28c4",
+  "created": "2026-11-16T21:12:51+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Threat Actors → APT + Nation-State/APT38 -DPRK financial ops.md",
+  "headline": "New IOC proposal — APT38 -DPRK financial ops",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/facestealer-fbi-fake-video-call-crypto-scam/",
+      "title": "FaceStealer: FBI Disrupts Fake Video Call Crypto Scam",
+      "source": "SOCRadar",
+      "published": "2026-11-13",
+      "context": "APT38 -DPRK financial ops"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/facestealer-fbi-fake-video-call-crypto-scam/",
+      "title": "FaceStealer: FBI Disrupts Fake Video Call Crypto Scam",
+      "source": "SOCRadar",
+      "published": "2026-11-13",
+      "context": "APT38 -DPRK financial ops"
+    }
+  ],
+  "overflow": 0,
+  "status": "approved",
+  "decision": {
+    "by": "RyanPendergast12 (7-day backfill)",
+    "user_id": "local",
+    "at": "2026-11-16T21:13:32+00:00"
+  }
+}
