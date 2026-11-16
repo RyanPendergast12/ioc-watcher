@@ -172,7 +172,23 @@ def main(argv=None) -> int:
         LEDGER.write_text(json.dumps(ledger, indent=1), encoding="utf-8")
     if total:
         log(f"done: {total} new lines")
+    if not a.dry_run:
+        _curator_decisions()
     return 0
+
+
+def _curator_decisions() -> None:
+    """Apply Approve/Deny clicks on curator (writeup / coverage / hygiene) cards."""
+    try:
+        sys.path.insert(0, str(REPO))
+        from curator.common import load_env
+        from curator.store import process_decisions
+        load_env()
+        n = process_decisions()
+        if n:
+            log(f"curator: applied {n} decision(s)")
+    except Exception as e:  # noqa: BLE001
+        log(f"curator decisions failed: {e}")
 
 
 if __name__ == "__main__":

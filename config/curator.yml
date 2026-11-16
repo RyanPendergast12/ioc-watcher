@@ -1,0 +1,23 @@
+# Vault curator (runs nightly on the laptop via Task Scheduler — see curator/README section in README.md)
+
+vault: C:\Users\Ryanp\Documents\Obsidian Vault
+rules_dir: Detection/All Da Rules
+inbox_dir: Curator Inbox                       # proposals land here for review in Obsidian
+coverage_dir: Detection/Threat Coverage        # per-actor coverage notes (approved)
+coverage_index: Detection/00 - Threat Coverage Gaps.md
+writeup_skill: C:\Users\Ryanp\.claude\skills\threat-intel-writeup\SKILL.md
+
+model: ""                  # blank = your Claude Code default
+job_timeout_min: 25
+
+nightly:
+  writeup_refresh: 2       # pages per night: new approved intel first, then stubs, then stalest
+  coverage_gaps: 1         # actors per night (APT, cybercrime, ransomware pages)
+  missing_pages: 1         # new-page proposals per night (families seen in feeds with no page)
+  hygiene_weekday: 6       # 0=Mon … 6=Sun: deterministic link/stub/ATT&CK audit
+
+refresh_cooldown_days: 30  # don't re-propose the same page within this window
+stale_after_days: 90       # pages untouched this long are refresh candidates
+stub_words: 150            # pages under this many words count as stubs
+missing_min_days: 2        # family must appear in feeds on ≥ this many days …
+missing_min_count: 10      # … or this many IOCs in total

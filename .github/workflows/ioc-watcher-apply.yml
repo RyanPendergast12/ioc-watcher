@@ -43,6 +43,14 @@ jobs:
             git pull --rebase --quiet && git push
           fi
 
+      - name: Publish to ioc-hashes / ioc-domains / ioc-ips
+        if: ${{ github.event.client_payload.decision == 'approve' }}
+        env:
+          IOC_REPOS_TOKEN: ${{ secrets.IOC_REPOS_TOKEN }}
+        run: |
+          ID=$(python -c "import json,os,re; print(re.sub(r'[^a-z0-9]','',str(json.loads(os.environ['PAYLOAD']).get('proposal_id',''))))")
+          python -m watcher.publish "$ID"
+
       - name: Report failure to Discord
         if: failure()
         run: python -m watcher.apply --report-failure

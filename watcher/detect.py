@@ -21,6 +21,13 @@ from .common import (PENDING, ROOT, get, load_state, load_yaml, log, new_id, now
                      prune_state, save_json, save_state, today)
 from .sources import REGISTRY, Candidate, Ctx, SkipSource
 
+CVE_RE = re.compile(r"CVE-\d{4}-\d{4,7}", re.I)
+# feeds whose tags are malware-family names (used to spot families with no vault page)
+FAMILY_SOURCES = {"ThreatFox", "MalwareBazaar", "Feodo Tracker", "Abuse.ch SSLBL", "URLhaus", "AlienVault OTX"}
+GENERIC_TAGS = {"unknown", "elf", "exe", "dll", "zip", "rar", "mirai", "32-bit", "64-bit", "arm", "mips", "x86",
+                "malware", "trojan", "phishing", "c2", "botnet_cc", "payload_delivery", "none", "n/a", "signed",
+                "doc", "xls", "js", "ps1", "vbs", "hta", "lnk", "msi", "iso", "apk", "sh", "bat"}
+
 BUCKET_TYPES = {"ip": "ip", "cidr": "ip", "domain": "domain", "onion": "domain", "sha256": "hash", "sha1": "hash",
                 "md5": "hash", "ssl_sha1": "hash"}
 
@@ -61,6 +68,7 @@ def run_sources(cfgs, ctx, only=None):
 
 def build(results, clf: Classifier, mapping: dict, settings: dict, state: dict):
     buckets = mapping["buckets"]
+    kev = settings.get("_kev", {})
     hash_types = tuple(settings.get("hash_types", ["sha256", "sha1", "md5"]))
     max_article_iocs = settings.get("max_iocs_per_article", 150)
     candidates: list[Candidate] = []
@@ -83,6 +91,10 @@ def build(results, clf: Classifier, mapping: dict, settings: dict, state: dict):
             if r.kind == "reports":
                 continue
             ex = iocs.extract(rep.body, require_defang=rep.require_defang, hash_types=hash_types)
+            cves = sorted({c.upper() for c in CVE_RE.findall(f"{rep.title} {rep.body}")})
+            if len(cves) > settings.get("max_cves_per_report", 6):   # vuln round-ups: too ambiguous
+                cves = [c for c in cves if c in rep.title.upper()]
+            products = sorted({kev[c] for c in cves if c in kev})
             n = 0
             for t, v in ex.items():
                 if n >= max_article_iocs:
@@ -91,6 +103,10 @@ def build(results, clf: Classifier, mapping: dict, settings: dict, state: dict):
                               route_unmapped=settings.get("route_unmapped_report_iocs", False))
                 if primary:
                     c.extra["target"] = primary.path
+                if cves:
+                    c.extra["cves"] = cves
+                if products:
+                    c.extra["products"] = products
                 candidates.append(c)
                 n += 1
         candidates.extend(r.candidates)
@@ -113,6 +129,7 @@ def build(results, clf: Classifier, mapping: dict, settings: dict, state: dict):
 
     # ---- resolve targets, validate, de-dupe
     seen = state["seen"]
+    unmatched: Counter = Counter()
     grouped: dict[str, dict[str, dict]] = defaultdict(dict)
     for c in candidates:
         v = iocs.normalize(c.value, c.type)
@@ -127,6 +144,13 @@ def build(results, clf: Classifier, mapping: dict, settings: dict, state: dict):
         if not target:
             t = clf.from_tags(*c.tags) if c.tags else None
             target = t.path if t else None
+            fam = next((str(x).strip() for x in c.tags if x and str(x).strip()), "")
+            if not t and fam and c.source in FAMILY_SOURCES and fam.lower() not in GENERIC_TAGS:
+                unmatched[fam] += 1
+        tag_cves = [str(x).upper() for x in c.tags if x and CVE_RE.fullmatch(str(x))]
+        if tag_cves and "cves" not in c.extra:
+            c.extra["cves"] = tag_cves
+            c.extra["products"] = sorted({kev[x] for x in tag_cves if x in kev})
         if not target and c.route_unmapped:
             target = buckets.get(BUCKET_TYPES.get(c.type, ""))
         if not target:
@@ -137,6 +161,10 @@ def build(results, clf: Classifier, mapping: dict, settings: dict, state: dict):
                 g[key]["source"] += f", {c.source}"
             continue
         item = {"type": c.type, "value": v, "source": c.source, "context": c.context, "ref": c.ref}
+        fam = next((str(x).strip() for x in c.tags if x and str(x).strip().lower() not in GENERIC_TAGS
+                    and not CVE_RE.fullmatch(str(x).strip())), "")
+        if fam:
+            item["family"] = fam[:60]
         item.update({k: val for k, val in c.extra.items() if k != "target"})
         g[key] = item
 
@@ -171,7 +199,7 @@ def build(results, clf: Classifier, mapping: dict, settings: dict, state: dict):
                           "target_md": f"{buckets['digest_dir']}/{today()}.md",
                           "headline": f"Intel digest — {today()} ({len(d)} new reports)",
                           "items": d, "reports": [], "overflow": 0, "status": "pending"})
-    return proposals
+    return proposals, unmatched
 
 
 def _priority(i):
@@ -222,7 +250,14 @@ def main(argv=None):
 
     ctx = Ctx(work_state, bootstrap, settings)
     results, health = run_sources(srcs, ctx, only=set(filter(None, a.only.split(","))))
-    proposals = build(results, clf, mapping, settings, work_state)
+    proposals, unmatched = build(results, clf, mapping, settings, work_state)
+    um = work_state.setdefault("unmatched", {})
+    for fam, n in unmatched.items():
+        e = um.setdefault(fam, {"count": 0, "days": 0, "last_seen": ""})
+        e["count"] += n
+        if e["last_seen"] != today():
+            e["days"] += 1
+            e["last_seen"] = today()
 
     summary = [f"# Detect run {now_iso()}", "", f"bootstrap: {bootstrap}", "", "## Proposals"]
     for p in proposals:

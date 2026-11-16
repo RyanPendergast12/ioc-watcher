@@ -5,8 +5,15 @@ compatibility_date = "2025-06-01"
 [vars]
 GITHUB_REPO = "RyanPendergast12/ioc-watcher"
 
+# Curator decisions (vault proposals) wait here until the laptop collects them.
+# Create once:  npx wrangler kv namespace create CURATOR   → paste the id below
+[[kv_namespaces]]
+binding = "CURATOR"
+id = "REPLACE_WITH_KV_NAMESPACE_ID"
+
 # Secrets (set with `npx wrangler secret put NAME`, never committed):
 #   DISCORD_PUBLIC_KEY       Discord app → General Information → Public Key
 #   DISCORD_APPLICATION_ID   Discord app → General Information → Application ID
 #   ALLOWED_USER_IDS         your Discord user id (comma-separated if more approvers)
+#   CURATOR_SECRET           long random string; same value goes in %LOCALAPPDATA%\ioc-watcher\curator.env
 #   GITHUB_TOKEN             fine-grained PAT, repo ioc-watcher only, Contents: Read and write

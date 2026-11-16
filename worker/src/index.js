@@ -7,7 +7,10 @@
  *  3. answer Discord immediately (it needs a reply within 3 s)
  *  4. fire GitHub repository_dispatch "ioc-decision" in the background
  *
- * Secrets / vars: DISCORD_PUBLIC_KEY, DISCORD_APPLICATION_ID, ALLOWED_USER_IDS (comma list),
+ * Curator buttons (capprove/cdeny) are stored in KV (binding CURATOR) and collected by the laptop via
+ * GET /curator/decisions + POST /curator/ack (Bearer CURATOR_SECRET).
+ *
+ * Secrets / vars: CURATOR_SECRET, DISCORD_PUBLIC_KEY, DISCORD_APPLICATION_ID, ALLOWED_USER_IDS (comma list),
  *                 GITHUB_TOKEN (fine-grained PAT: ioc-watcher → Contents read/write), GITHUB_REPO (owner/name)
  */
 
@@ -17,6 +20,8 @@ const EPHEMERAL = 64;
 
 export default {
   async fetch(request, env, ctx) {
+    const url = new URL(request.url);
+    if (url.pathname.startsWith("/curator/")) return curatorApi(request, env, url);
     if (request.method !== "POST") return new Response("ioc-watcher interactions endpoint", { status: 200 });
 
     const sig = request.headers.get("X-Signature-Ed25519");
@@ -53,6 +58,20 @@ export default {
           ],
         },
       });
+    }
+
+    // Curator proposals (vault writeups / coverage notes): content stays on the laptop, so the decision is
+    // parked in KV for the laptop to collect. Nothing about them goes to GitHub.
+    if (i.type === COMPONENT && (action === "capprove" || action === "cdeny")) {
+      const decision = action === "capprove" ? "approve" : "deny";
+      const who = user.global_name || user.username || "unknown";
+      await env.CURATOR.put(`d:${pid}`, JSON.stringify({ id: pid, decision, user: who, at: new Date().toISOString() }),
+        { expirationTtl: 60 * 60 * 24 * 30 });
+      const embeds = (i.message?.embeds || []).map((e) => ({
+        ...e, color: 0x7f8c8d,
+        footer: { text: `⏳ ${decision === "approve" ? "✅ Approved" : "❌ Denied"} by ${who} — applies at next laptop sync · ${e.footer?.text || ""}`.slice(0, 2048) },
+      }));
+      return json({ type: R_UPDATE, data: { embeds, components: [] } });
     }
 
     let decision, remove = "", add = "";
@@ -93,6 +112,33 @@ export default {
     return json({ type: R_UPDATE, data: { embeds, components: [] } });
   },
 };
+
+async function curatorApi(request, env, url) {
+  const auth = request.headers.get("Authorization") || "";
+  if (!env.CURATOR_SECRET || !safeEqual(auth, `Bearer ${env.CURATOR_SECRET}`)) return new Response("unauthorized", { status: 401 });
+  if (request.method === "GET" && url.pathname === "/curator/decisions") {
+    const { keys } = await env.CURATOR.list({ prefix: "d:" });
+    const decisions = [];
+    for (const k of keys) {
+      const v = await env.CURATOR.get(k.name);
+      if (v) decisions.push(JSON.parse(v));
+    }
+    return json({ decisions });
+  }
+  if (request.method === "POST" && url.pathname === "/curator/ack") {
+    const { ids = [] } = await request.json();
+    for (const id of ids) if (/^[a-f0-9]{6,32}$/.test(id)) await env.CURATOR.delete(`d:${id}`);
+    return json({ ok: true });
+  }
+  return new Response("not found", { status: 404 });
+}
+
+function safeEqual(a, b) {
+  if (a.length !== b.length) return false;
+  let r = 0;
+  for (let i = 0; i < a.length; i++) r |= a.charCodeAt(i) ^ b.charCodeAt(i);
+  return r === 0;
+}
 
 async function dispatch(env, payload, interaction) {
   const res = await fetch(`https://api.github.com/repos/${env.GITHUB_REPO}/dispatches`, {

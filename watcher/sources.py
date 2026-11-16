@@ -63,6 +63,10 @@ class Ctx:
         return self.now - dt.timedelta(days=days)
 
 
+def _slug(s: str) -> str:
+    return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", (s or "unknown").lower())).strip("-") or "unknown"
+
+
 def _lines(text: str):
     for line in text.splitlines():
         line = line.strip()
@@ -340,9 +344,11 @@ def cisa_kev(cfg, ctx) -> SourceResult:
     known = set(ctx.state.get("kev", []))
     cutoff = (ctx.now - dt.timedelta(days=cfg.get("bootstrap_days", 7))).strftime("%Y-%m-%d")
     all_ids = []
+    kev_products = ctx.settings.setdefault("_kev", {})
     for v in d.get("vulnerabilities", []):
         cid = v["cveID"]
         all_ids.append(cid)
+        kev_products[cid] = f"{_slug(v.get('vendorProject', ''))}/{_slug(v.get('product', ''))}"
         if cid in known:
             continue
         if not known and v.get("dateAdded", "") < cutoff:

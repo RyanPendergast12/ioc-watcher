@@ -66,3 +66,8 @@ jobs:
             git commit -m "post: record Discord message ids"
             git pull --rebase --quiet && git push
           fi
+
+      - name: Catch-up publish to IOC repos (idempotent)
+        env:
+          IOC_REPOS_TOKEN: ${{ secrets.IOC_REPOS_TOKEN }}
+        run: python -m watcher.publish --all

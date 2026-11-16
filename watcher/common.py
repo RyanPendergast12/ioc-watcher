@@ -64,6 +64,7 @@ def load_state() -> dict:
 def prune_state(s: dict, keep_days: int = 180) -> None:
     cutoff = (dt.date.today() - dt.timedelta(days=keep_days)).isoformat()
     s["seen"] = {k: v for k, v in s["seen"].items() if v >= cutoff}
+    s["unmatched"] = {k: v for k, v in s.get("unmatched", {}).items() if v.get("last_seen", "") >= cutoff[:10]}
     for bucket in ("rss", "html"):
         for k, v in s[bucket].items():
             s[bucket][k] = v[-500:]

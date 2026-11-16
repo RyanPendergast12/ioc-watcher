@@ -29,6 +29,57 @@ Everything is appended under a single `## IOC Watcher` section at the bottom of 
 
 Volume is capped so a card stays reviewable on a phone (`config/settings.yml`): 75 items per page per day, 60 per raw bucket (max 20 from any one feed), 150 per article. IOCs are never re-proposed within 180 days.
 
+## IOC repos (private)
+
+Every approved IOC is also published to one of three private repos, organized by group:
+
+| Repo | Holds |
+|---|---|
+| [`ioc-hashes`](https://github.com/RyanPendergast12/ioc-hashes) | `sha256.txt` · `sha1.txt` · `md5.txt` · `ssl-sha1.txt` |
+| [`ioc-domains`](https://github.com/RyanPendergast12/ioc-domains) | `domains.txt` · `onion.txt` |
+| [`ioc-ips`](https://github.com/RyanPendergast12/ioc-ips) | `ips.txt` · `cidrs.txt` |
+
+```
+threat-actors/apt/<actor>/        threat-actors/cybercrime/<actor>/      ransomware/<group>/
+malware/<category>/<family>/      malware/unclassified/<family>/         tools/<category>/<tool>/
+techniques/<technique>/           cves/<CVE-ID>/                         products/<vendor>/<product>/
+unattributed/<phishing|c2-panels|botnet-c2|reputation-consensus|hijacked-ranges|…>/
+all/<type>.txt   (everything — point a blocklist / SIEM reference list here)      index.csv   (metadata)
+```
+An IOC from a report that mentions CVEs is also filed under `cves/<CVE>/` and, using CISA KEV, under `products/<vendor>/<product>/`.
+Publishing runs in the apply workflow (needs the `IOC_REPOS_TOKEN` secret), and every detect run does an idempotent catch-up.
+
+## Vault curator (laptop, nightly)
+
+`curator/` runs headless Claude Code on the laptop at 02:30. It never writes to the vault itself: each job produces a **proposal**.
+
+| Job | What it does | Output on approve |
+|---|---|---|
+| Writeup refresh | Pages with newly approved intel first, then stubs (< 150 words), then pages untouched for 90 days. Researches what's new and rewrites the page in your house style (threat-intel-writeup skill). | page updated |
+| Coverage gaps | Takes an actor's ATT&CK techniques from its writeup and checks them against `mitre_techniques` in `Detection/All Da Rules`. Lists covered, partial and gap techniques, with detection ideas and quick wins. | `Detection/Threat Coverage/<Actor>.md` + index `Detection/00 - Threat Coverage Gaps.md` |
+| Missing pages | Families that keep appearing in feeds with no vault page | new profile page |
+| Hygiene (weekly, no LLM) | Broken wikilinks (auto-fix one-off typos, suggest file renames), stubs, profiles with no ATT&CK IDs | link fixes applied |
+
+**Review flow:** each proposal gets a note in `Curator Inbox/` (summary + diff) plus an editable `Curator Inbox/proposed/<id>.md`, and a Discord card with **only the summary**.
+Edit the proposed note if you like, then hit Approve. The laptop picks up the click within 15 minutes and writes *your edited version* to the vault.
+If the page changed after the proposal was made, nothing is overwritten; the page is re-queued.
+Curator decisions travel Discord → Worker (KV) → laptop, never through GitHub, so vault and detection content stays off GitHub.
+
+```powershell
+python -m curator.run --plan                          # what tonight's run would pick
+python -m curator.run --job writeup --target "Threat Intel/Threat Actors → APT + Nation-State/APT29.md"
+python -m curator.run --decide <id> approve           # approve locally without Discord
+powershell -ExecutionPolicy Bypass -File curator\install_task.ps1
+```
+Local config `%LOCALAPPDATA%\ioc-watcher\curator.env`:
+```
+DISCORD_BOT_TOKEN=...
+DISCORD_CHANNEL_ID=...
+CURATOR_WORKER_URL=https://ioc-watcher-discord.<you>.workers.dev
+CURATOR_SECRET=<same random string as the Worker secret>
+```
+Knobs: `config/curator.yml`.
+
 ## Repo layout
 
 ```
@@ -55,6 +106,7 @@ state/state.json        seen-IOC tracker + per-source cursors;  state/last_run.m
 | `DISCORD_BOT_TOKEN` | posting cards | step 2 |
 | `DISCORD_CHANNEL_ID` | which channel | step 2 |
 | `DISCORD_ALLOWED_USER_IDS` | defence-in-depth check in apply | your Discord user id |
+| `IOC_REPOS_TOKEN` | publishing to ioc-hashes / ioc-domains / ioc-ips | fine-grained PAT: those 3 repos, Contents read/write |
 
 Sources without their key are skipped (shown in the run summary), everything else still runs.
 
@@ -68,6 +120,8 @@ Sources without their key are skipped (shown in the run summary), everything els
 ```powershell
 cd worker
 npx wrangler login
+npx wrangler kv namespace create CURATOR          # paste the printed id into wrangler.toml
+npx wrangler secret put CURATOR_SECRET            # any long random string (also goes in curator.env)
 npx wrangler secret put DISCORD_PUBLIC_KEY        # app → General Information → Public Key
 npx wrangler secret put DISCORD_APPLICATION_ID    # app → General Information → Application ID
 npx wrangler secret put ALLOWED_USER_IDS          # your Discord user id
