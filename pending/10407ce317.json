@@ -1,0 +1,29 @@
+{
+  "id": "10407ce317",
+  "created": "2026-11-17T19:51:43+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Threat Intel → Capabilities/Credential Access/Mimikatz.md",
+  "headline": "New IOC proposal — Mimikatz",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://securelist.com/operation-shadowcloud-gitdoor/122004/",
+      "title": "Operation ShadowCloud: cloud service–based backdoors targeting government networks in Asia and Africa. Part 1",
+      "source": "Securelist",
+      "published": "2026-11-17",
+      "context": "Mimikatz"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://securelist.com/operation-shadowcloud-gitdoor/122004/",
+      "title": "Operation ShadowCloud: cloud service–based backdoors targeting government networks in Asia and Africa. Part 1",
+      "source": "Securelist",
+      "published": "2026-11-17",
+      "context": "Mimikatz"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2a6ef01679",
+  "created": "2026-11-17T19:51:43+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Botnets/ClawBot + OpenClaw.md",
+  "headline": "New IOC proposal — ClawBot + OpenClaw",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/cve-2026-84869-screenconnect-technician-exploitation",
+      "title": "CVE-2026-84869 in ScreenConnect Exploited to Run Malicious Files on MSP Technician Accounts",
+      "source": "Huntress",
+      "published": "2026-11-16",
+      "context": "ClawBot + OpenClaw"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/cve-2026-84869-screenconnect-technician-exploitation",
+      "title": "CVE-2026-84869 in ScreenConnect Exploited to Run Malicious Files on MSP Technician Accounts",
+      "source": "Huntress",
+      "published": "2026-11-16",
+      "context": "ClawBot + OpenClaw"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

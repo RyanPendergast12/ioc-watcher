@@ -1,0 +1,52 @@
+{
+  "id": "2179365657",
+  "created": "2026-11-17T19:51:43+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Loaders + Initial Access/Clickfix.md",
+  "headline": "New IOC proposal — Clickfix",
+  "items": [
+    {
+      "type": "domain",
+      "value": "verify-cloud-domain.click",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #malware",
+      "ref": "https://x.com/Malwarehunterr/status/2122695001071366162",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "cf-captcha-id.xyz",
+      "source": "TweetFeed",
+      "context": "@skocherhan #ClickFix #malware",
+      "ref": "https://x.com/skocherhan/status/2122695843673432377",
+      "family": "ClickFix"
+    },
+    {
+      "type": "ip",
+      "value": "5.104.73.229",
+      "source": "TweetFeed",
+      "context": "@skocherhan #ClickFix #malware",
+      "ref": "https://x.com/skocherhan/status/2122695843673432377",
+      "family": "ClickFix"
+    },
+    {
+      "type": "sha256",
+      "value": "01de5da755630361e626308c370340ca48eb502cad7af6273723808602709f6c",
+      "source": "TweetFeed",
+      "context": "@skocherhan #ClickFix #malware",
+      "ref": "https://x.com/skocherhan/status/2122695843673432377",
+      "family": "ClickFix"
+    },
+    {
+      "type": "sha256",
+      "value": "062fe3f6d6a52d8b35f64ea5d9f75d987eb65b4ea8467372e506a03a1064315d",
+      "source": "TweetFeed",
+      "context": "@skocherhan #ClickFix #malware",
+      "ref": "https://x.com/skocherhan/status/2122695843673432377",
+      "family": "ClickFix"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

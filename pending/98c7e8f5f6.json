@@ -1,0 +1,29 @@
+{
+  "id": "98c7e8f5f6",
+  "created": "2026-11-17T19:51:43+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Loaders + Initial Access/SynkLoader.md",
+  "headline": "New IOC proposal — SynkLoader",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://expel.com/blog/blog-synkloader-name-how-malware-gets-named/",
+      "title": "SynkLoader name origin: How Expel names malware and threats",
+      "source": "Expel",
+      "published": "2026-11-17",
+      "context": "SynkLoader"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://expel.com/blog/blog-synkloader-name-how-malware-gets-named/",
+      "title": "SynkLoader name origin: How Expel names malware and threats",
+      "source": "Expel",
+      "published": "2026-11-17",
+      "context": "SynkLoader"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

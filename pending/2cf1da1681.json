@@ -1,0 +1,36 @@
+{
+  "id": "2cf1da1681",
+  "created": "2026-11-17T19:51:43+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Infostealers/Vidar.md",
+  "headline": "New IOC proposal — Vidar",
+  "items": [
+    {
+      "type": "ssl_sha1",
+      "value": "dd35950dcdc0d2afeb557ff622375cdafe938fc5",
+      "source": "Abuse.ch SSLBL",
+      "context": "Vidar C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/dd35950dcdc0d2afeb557ff622375cdafe938fc5/",
+      "family": "Vidar"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "29a612773b379e945229a831f7d69280a2b0fd49",
+      "source": "Abuse.ch SSLBL",
+      "context": "Vidar C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/29a612773b379e945229a831f7d69280a2b0fd49/",
+      "family": "Vidar"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "5ce11a4cab0a83a5675d71c4af0804e1c0843c94",
+      "source": "Abuse.ch SSLBL",
+      "context": "Vidar C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/5ce11a4cab0a83a5675d71c4af0804e1c0843c94/",
+      "family": "Vidar"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

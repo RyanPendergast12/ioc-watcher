@@ -1,0 +1,156 @@
+{
+  "id": "4560125098",
+  "created": "2026-11-17T19:51:43+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Threat Actors → APT + Nation-State/KIMSUKY-APT43.md",
+  "headline": "New IOC proposal — KIMSUKY-APT43",
+  "items": [
+    {
+      "type": "domain",
+      "value": "nid.weffm.p-e.kr",
+      "source": "TweetFeed",
+      "context": "@pol_md5sum #Kimsuky",
+      "ref": "https://x.com/pol_md5sum/status/2122518322654949541",
+      "family": "Kimsuky"
+    },
+    {
+      "type": "domain",
+      "value": "inmain.22web.org",
+      "source": "TweetFeed",
+      "context": "@pol_md5sum #Kimsuky",
+      "ref": "https://x.com/pol_md5sum/status/2122518322654949541",
+      "family": "Kimsuky"
+    },
+    {
+      "type": "domain",
+      "value": "owna.loveslife.biz",
+      "source": "TweetFeed",
+      "context": "@pol_md5sum #Kimsuky",
+      "ref": "https://x.com/pol_md5sum/status/2122518322654949541",
+      "family": "Kimsuky"
+    },
+    {
+      "type": "domain",
+      "value": "nbox48.dothome.co.kr",
+      "source": "TweetFeed",
+      "context": "@copy_and_paster #Kimsuky",
+      "ref": "https://x.com/copy_and_paster/status/2122574644641423418",
+      "family": "Kimsuky"
+    },
+    {
+      "type": "domain",
+      "value": "ajifj50h.mypressonline.com",
+      "source": "TweetFeed",
+      "context": "@copy_and_paster #Kimsuky",
+      "ref": "https://x.com/copy_and_paster/status/2122574644641423418",
+      "family": "Kimsuky"
+    },
+    {
+      "type": "domain",
+      "value": "gamsterb.ink",
+      "source": "TweetFeed",
+      "context": "@pol_md5sum #Kimsuky",
+      "ref": "https://x.com/pol_md5sum/status/2122586740569628820",
+      "family": "Kimsuky"
+    },
+    {
+      "type": "domain",
+      "value": "nfiles42.dothome.co.kr",
+      "source": "TweetFeed",
+      "context": "@copy_and_paster #Kimsuky",
+      "ref": "https://x.com/copy_and_paster/status/2122722130823622720",
+      "family": "Kimsuky"
+    },
+    {
+      "type": "ip",
+      "value": "103.81.116.10",
+      "source": "TweetFeed",
+      "context": "@pol_md5sum #Kimsuky",
+      "ref": "https://x.com/pol_md5sum/status/2122518322654949541",
+      "family": "Kimsuky"
+    },
+    {
+      "type": "ip",
+      "value": "211.223.14.75",
+      "source": "TweetFeed",
+      "context": "@pol_md5sum #Kimsuky",
+      "ref": "https://x.com/pol_md5sum/status/2122518322654949541",
+      "family": "Kimsuky"
+    },
+    {
+      "type": "ip",
+      "value": "207.148.112.166",
+      "source": "TweetFeed",
+      "context": "@pol_md5sum #Kimsuky",
+      "ref": "https://x.com/pol_md5sum/status/2122518322654949541",
+      "family": "Kimsuky"
+    },
+    {
+      "type": "ip",
+      "value": "185.27.134.207",
+      "source": "TweetFeed",
+      "context": "@pol_md5sum #Kimsuky",
+      "ref": "https://x.com/pol_md5sum/status/2122518322654949541",
+      "family": "Kimsuky"
+    },
+    {
+      "type": "ip",
+      "value": "170.205.30.27",
+      "source": "TweetFeed",
+      "context": "@pol_md5sum #Kimsuky",
+      "ref": "https://x.com/pol_md5sum/status/2122586740569628820",
+      "family": "Kimsuky"
+    },
+    {
+      "type": "ip",
+      "value": "193.160.32.10",
+      "source": "TweetFeed",
+      "context": "@pol_md5sum #Kimsuky",
+      "ref": "https://x.com/pol_md5sum/status/2122586740569628820",
+      "family": "Kimsuky"
+    },
+    {
+      "type": "ip",
+      "value": "170.205.29.83",
+      "source": "TweetFeed",
+      "context": "@pol_md5sum #Kimsuky",
+      "ref": "https://x.com/pol_md5sum/status/2122586740569628820",
+      "family": "Kimsuky"
+    },
+    {
+      "type": "md5",
+      "value": "6985f297c03520a5852734a385322d8d",
+      "source": "TweetFeed",
+      "context": "@pol_md5sum #Kimsuky",
+      "ref": "https://x.com/pol_md5sum/status/2122518322654949541",
+      "family": "Kimsuky"
+    },
+    {
+      "type": "md5",
+      "value": "ef317291bf88651666133abe84f115f0",
+      "source": "TweetFeed",
+      "context": "@pol_md5sum #Kimsuky",
+      "ref": "https://x.com/pol_md5sum/status/2122518322654949541",
+      "family": "Kimsuky"
+    },
+    {
+      "type": "sha256",
+      "value": "cd20f43f985f7df7ba3ad9b08e5bdbecc20aaa4d8f60dc09e8468bdd1b249fe6",
+      "source": "TweetFeed",
+      "context": "@pol_md5sum #Kimsuky",
+      "ref": "https://x.com/pol_md5sum/status/2122586740569628820",
+      "family": "Kimsuky"
+    },
+    {
+      "type": "sha256",
+      "value": "249626244f23928c75e6c382da62278ed1d4e012a0c0f62beafefc1e4d7c5baa",
+      "source": "TweetFeed",
+      "context": "@pol_md5sum #Kimsuky",
+      "ref": "https://x.com/pol_md5sum/status/2122586740569628820",
+      "family": "Kimsuky"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

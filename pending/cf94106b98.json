@@ -1,0 +1,29 @@
+{
+  "id": "cf94106b98",
+  "created": "2026-11-17T19:51:43+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Threat Actors → APT + Nation-State/Salt Typhoon.md",
+  "headline": "New IOC proposal — Salt Typhoon",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://securelist.com/operation-shadowcloud-graphdoor/122005/",
+      "title": "Operation ShadowCloud: cloud service–based backdoors targeting government networks in Asia and Africa. Part 2",
+      "source": "Securelist",
+      "published": "2026-11-17",
+      "context": "Salt Typhoon"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://securelist.com/operation-shadowcloud-graphdoor/122005/",
+      "title": "Operation ShadowCloud: cloud service–based backdoors targeting government networks in Asia and Africa. Part 2",
+      "source": "Securelist",
+      "published": "2026-11-17",
+      "context": "Salt Typhoon"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

@@ -1,0 +1,188 @@
+{
+  "id": "7cec4abc2c",
+  "created": "2026-11-17T19:51:43+00:00",
+  "kind": "digest",
+  "target_md": "Threat Intel/Intel Feed/2026-11-17.md",
+  "headline": "Intel digest — 2026-11-17 (22 new reports)",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-governments/",
+      "title": "QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments",
+      "source": "Unit 42",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/cve-2026-84869-screenconnect-technician-exploitation",
+      "title": "CVE-2026-84869 in ScreenConnect Exploited to Run Malicious Files on MSP Technician Accounts",
+      "source": "Huntress",
+      "published": "2026-11-16",
+      "context": "ClawBot + OpenClaw"
+    },
+    {
+      "type": "report",
+      "value": "https://cyble.com/blog/eu-sanctions-social-design-agency-noname05716/",
+      "title": "EU Sanctions 30 People and Two Entities Over Russian Disinformation and Cyberattacks",
+      "source": "Cyble",
+      "published": "2026-11-17",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://blog.alphahunt.io/deep-research-the-trusted-carrier-was-also-the-attack-source/",
+      "title": "[DEEP RESEARCH] The Trusted Carrier Was Also the Attack Source",
+      "source": "AlphaHunt",
+      "published": "2026-11-17",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/ai/2026/11/openai-lost-control-of-ai-agents-over-80-times-california-alleges",
+      "title": "OpenAI lost control of AI agents over 80 times, California alleges",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-17",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/threat-intel/2026/11/amazon-job-offer-promises-5000-a-month-but-its-got-all-the-signs-of-a-scam",
+      "title": "“Amazon” job offer promises $5,000 a month, but it’s got all the signs of a scam",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-17",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/news/2026/11/cnn-bbc-zoom-and-other-sites-served-malicious-code-in-supply-chain-attack",
+      "title": "CNN, BBC, Zoom, and other sites served malicious code in supply-chain attack",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-17",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/mobile/2026/11/facebook-may-have-access-to-your-entire-photo-gallery",
+      "title": "Facebook may have access to your entire photo gallery",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-17",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/threat-intel/2026/11/holiday-shopping-in-a-world-of-fakes-how-ai-is-changing-the-game",
+      "title": "Holiday shopping in a world of fakes: How AI is changing the game",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-17",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.welivesecurity.com/en/privacy/is-it-safe-upload-passport-id-online/",
+      "title": "Is it safe to upload my passport or ID online?",
+      "source": "ESET WeLiveSecurity",
+      "published": "2026-11-16",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/",
+      "title": "Security for the agentic era, powered by Microsoft Perception",
+      "source": "Microsoft Threat Intelligence",
+      "published": "2026-11-17",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/",
+      "title": "The risks of device code authentication for AI coding agents",
+      "source": "Microsoft Threat Intelligence",
+      "published": "2026-11-17",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/",
+      "title": "High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors",
+      "source": "Microsoft Threat Intelligence",
+      "published": "2026-11-17",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://securelist.com/operation-shadowcloud-graphdoor/122005/",
+      "title": "Operation ShadowCloud: cloud service–based backdoors targeting government networks in Asia and Africa. Part 2",
+      "source": "Securelist",
+      "published": "2026-11-17",
+      "context": "Salt Typhoon"
+    },
+    {
+      "type": "report",
+      "value": "https://securelist.com/operation-shadowcloud-gitdoor/122004/",
+      "title": "Operation ShadowCloud: cloud service–based backdoors targeting government networks in Asia and Africa. Part 1",
+      "source": "Securelist",
+      "published": "2026-11-17",
+      "context": "Mimikatz"
+    },
+    {
+      "type": "report",
+      "value": "https://www.recordedfuture.com/blog/threat-intelligence-roi",
+      "title": "What Is Threat Intelligence Worth? 142 Security Teams Did the Math.",
+      "source": "Recorded Future",
+      "published": "2026-11-17",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.rapid7.com/blog/post/etr-cve-2026-114938-reported-critical-pre-authentication-remote-code-execution-java-17",
+      "title": "CVE-2026-114938: Reported Critical Pre-authentication Remote Code Execution in Java 17",
+      "source": "Rapid7",
+      "published": "2026-11-17",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.rapid7.com/blog/post/em-claude-access-brings-ai-context-into-surface-command-asm-easm",
+      "title": "Who Has Access to Claude? Bring AI Identity and Access Context Into Surface Command",
+      "source": "Rapid7",
+      "published": "2026-11-17",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/argonhunt-crypto-breach-stolen-ai-api-keys/",
+      "title": "Operation ArgonHunt: Open Directory Exposes a Crypto Exchange Breach and 44,000 Stolen AI API Keys",
+      "source": "SOCRadar",
+      "published": "2026-11-17",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/optimizely-attack-hits-zoom-bbc-cnn-with-skimmer-ios-kits/",
+      "title": "Optimizely Attack Hits Zoom, BBC, CNN With Skimmer, iOS Kits",
+      "source": "SOCRadar",
+      "published": "2026-11-17",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://cloud.google.com/blog/topics/threat-intelligence/cold-relic-a-case-study-in-impersonation-and-compromise/",
+      "title": "COLD RELIC: A Case Study in Impersonation and Compromise",
+      "source": "Google Threat Intelligence (Mandiant)",
+      "published": "2026-11-17",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://expel.com/blog/blog-synkloader-name-how-malware-gets-named/",
+      "title": "SynkLoader name origin: How Expel names malware and threats",
+      "source": "Expel",
+      "published": "2026-11-17",
+      "context": "SynkLoader"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

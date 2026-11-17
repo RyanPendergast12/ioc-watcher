@@ -1,0 +1,172 @@
+{
+  "id": "99a4b144db",
+  "created": "2026-11-17T19:51:43+00:00",
+  "kind": "bucket",
+  "target_md": "Threat Intel/Raw Threat Intel/BAD HASHES.md",
+  "headline": "Raw intel — BAD HASHES",
+  "items": [
+    {
+      "type": "ssl_sha1",
+      "value": "d36e7ea8c3bd11f3d64e2a454ca1850566a63df7",
+      "source": "Abuse.ch SSLBL",
+      "context": "PureRAT C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/d36e7ea8c3bd11f3d64e2a454ca1850566a63df7/",
+      "family": "PureRAT"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "36210d41f78bcf7c4e3dcd32a9c6ea0392c435c2",
+      "source": "Abuse.ch SSLBL",
+      "context": "xeffStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/36210d41f78bcf7c4e3dcd32a9c6ea0392c435c2/",
+      "family": "xeffStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "4ab5b2103cc4653d78269daad5fdb8f598705843",
+      "source": "Abuse.ch SSLBL",
+      "context": "OffLoader C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/4ab5b2103cc4653d78269daad5fdb8f598705843/",
+      "family": "OffLoader"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "beb63a581c0b40874ca784c11aaabf1de9dd6a79",
+      "source": "Abuse.ch SSLBL",
+      "context": "OffLoader C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/beb63a581c0b40874ca784c11aaabf1de9dd6a79/",
+      "family": "OffLoader"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "6af7a067b7cb261c98b699435c964976685bfa32",
+      "source": "Abuse.ch SSLBL",
+      "context": "PureLogsStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/6af7a067b7cb261c98b699435c964976685bfa32/",
+      "family": "PureLogsStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "c18c0c3de038ac37fee18f385a8396789ffe7867",
+      "source": "Abuse.ch SSLBL",
+      "context": "FunStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/c18c0c3de038ac37fee18f385a8396789ffe7867/",
+      "family": "FunStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "6627379996ae380572b3d2893ff2f2f377def6ec",
+      "source": "Abuse.ch SSLBL",
+      "context": "FunStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/6627379996ae380572b3d2893ff2f2f377def6ec/",
+      "family": "FunStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "262c1f81aee686adb3f6fc3a17951096265bf1b0",
+      "source": "Abuse.ch SSLBL",
+      "context": "FunStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/262c1f81aee686adb3f6fc3a17951096265bf1b0/",
+      "family": "FunStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "9c24fe0ff6b7d2e3cd6fba2446f7ba0e4d18b737",
+      "source": "Abuse.ch SSLBL",
+      "context": "FunStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/9c24fe0ff6b7d2e3cd6fba2446f7ba0e4d18b737/",
+      "family": "FunStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "0799f487e606540102c11948be32f12439eee1ec",
+      "source": "Abuse.ch SSLBL",
+      "context": "FunStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/0799f487e606540102c11948be32f12439eee1ec/",
+      "family": "FunStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "9d0751a9eab469ff9a399a086ea2531b3c22dc30",
+      "source": "Abuse.ch SSLBL",
+      "context": "OffLoader C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/9d0751a9eab469ff9a399a086ea2531b3c22dc30/",
+      "family": "OffLoader"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "955d88cd421ad19859f6015a6ba3ea81e07b510c",
+      "source": "Abuse.ch SSLBL",
+      "context": "PureLogsStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/955d88cd421ad19859f6015a6ba3ea81e07b510c/",
+      "family": "PureLogsStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "45972ca5b00612d1f51e51325f7662d60cdd7860",
+      "source": "Abuse.ch SSLBL",
+      "context": "WARDENStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/45972ca5b00612d1f51e51325f7662d60cdd7860/",
+      "family": "WARDENStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "adc24b6b9445798ed026d417fe423b72aa290ebc",
+      "source": "Abuse.ch SSLBL",
+      "context": "WARDENStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/adc24b6b9445798ed026d417fe423b72aa290ebc/",
+      "family": "WARDENStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "041028a7248ce181b5c083d17d31ef9443364b70",
+      "source": "Abuse.ch SSLBL",
+      "context": "WARDENStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/041028a7248ce181b5c083d17d31ef9443364b70/",
+      "family": "WARDENStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "0335d3d009c55ea6f49e57aeb54fbdb84e5def8e",
+      "source": "Abuse.ch SSLBL",
+      "context": "FunStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/0335d3d009c55ea6f49e57aeb54fbdb84e5def8e/",
+      "family": "FunStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "d313c92a2c0c535a7b60359f758b0032db60b99b",
+      "source": "Abuse.ch SSLBL",
+      "context": "FunStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/d313c92a2c0c535a7b60359f758b0032db60b99b/",
+      "family": "FunStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "c197cc60215219ca6d3781953e16ed060be8ed9a",
+      "source": "Abuse.ch SSLBL",
+      "context": "ACRStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/c197cc60215219ca6d3781953e16ed060be8ed9a/",
+      "family": "ACRStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "5961621983c7a3175a43032505457983fd0422f5",
+      "source": "Abuse.ch SSLBL",
+      "context": "ACRStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/5961621983c7a3175a43032505457983fd0422f5/",
+      "family": "ACRStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "206699fd6ec97741dcdfe7d8ff2a066f1788a3f7",
+      "source": "Abuse.ch SSLBL",
+      "context": "ConnectWise C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/206699fd6ec97741dcdfe7d8ff2a066f1788a3f7/",
+      "family": "ConnectWise"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}
