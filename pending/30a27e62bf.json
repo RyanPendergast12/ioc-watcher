@@ -1,0 +1,188 @@
+{
+  "id": "30a27e62bf",
+  "created": "2026-11-18T19:27:08+00:00",
+  "kind": "digest",
+  "target_md": "Threat Intel/Intel Feed/2026-11-18.md",
+  "headline": "Intel digest — 2026-11-18 (22 new reports)",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://www.reliaquest.com/blog/intrusion-volume-has-surged-in-the-last-90-days-signaling-a-new-normal-for-defense/",
+      "title": "Intrusion Volume Has Surged 138% in the Last 90 Days, Signaling a New Normal for Defense.",
+      "source": "ReliaQuest",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/",
+      "title": "Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us",
+      "source": "Unit 42",
+      "published": "2026-11-17",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/huntress-response-for-microsoft-defender-incidents-across-endpoints-and-microsoft-365",
+      "title": "Huntress Delivers 24/7 Response for Microsoft Defender Incidents Across Endpoints and Microsoft 365",
+      "source": "Huntress",
+      "published": "2026-11-17",
+      "context": "ClawBot + OpenClaw"
+    },
+    {
+      "type": "report",
+      "value": "https://cyble.com/blog/java4shell-cve-2026-114938-bug/",
+      "title": "Java4Shell (CVE-2026-114938): Who’s Exposed and How to Fix It",
+      "source": "Cyble",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://blog.alphahunt.io/signals-weekly-accelerating-threats-in-trusted-digital-supply-chains/",
+      "title": "[SIGNALS WEEKLY] Accelerating Threats in Trusted Digital Supply Chains",
+      "source": "AlphaHunt",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/inside-malwarebytes/2026/11/who-protects-the-antivirus-how-we-secure-malwarebytes-itself",
+      "title": "Who protects the antivirus? How we secure Malwarebytes itself",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/bugs/2026/11/java4shell-a-critical-flaw-with-a-narrow-reach",
+      "title": "Java4Shell: A critical flaw with a narrow reach",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://research.checkpoint.com/2026/the-state-of-ransomware-q3-2026/",
+      "title": "The State of Ransomware Q3 2026",
+      "source": "Check Point Research",
+      "published": "2026-11-17",
+      "context": "Qilin"
+    },
+    {
+      "type": "report",
+      "value": "https://blog.talosintelligence.com/the-challenge-of-defending-against-bulletproof-dead-drops-on-public-blockchains/",
+      "title": "The challenge of defending against bulletproof dead drops on public blockchains",
+      "source": "Cisco Talos",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://blog.talosintelligence.com/uat-12643-suspected-north-korea-aligned-actor-blends-blockchain-resilience-with-targeted-infostealing/",
+      "title": "UAT-12643: Suspected North Korea-aligned actor blends blockchain resilience with targeted infostealing",
+      "source": "Cisco Talos",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://blog.talosintelligence.com/java4shell/",
+      "title": "CVE-2026-114938: Critical vulnerability in OpenJDK Java",
+      "source": "Cisco Talos",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.sentinelone.com/labs/labscon26-replay-governing-just-in-time-intelligence-ai-dual-use-capabilities-and-the-limits-of-guardrails/",
+      "title": "LABScon26 Replay | Governing Just-in-Time Intelligence: AI, Dual-Use Capabilities, and the Limits of Guardrails",
+      "source": "SentinelLABS",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://securelist.com/auditteam-opsagent-forced-audit/122031/",
+      "title": "The forced audit: how AuditTeam’s OpsAgent framework masks ransomware as consulting",
+      "source": "Securelist",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.recordedfuture.com/blog/tech-stack-automation",
+      "title": "Recorded Future Launches New Automation Capabilities for Tech Stack Watch List",
+      "source": "Recorded Future",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.rapid7.com/blog/post/tr-self-hosted-ai-renting-compute-exposed-servers",
+      "title": "Open by Default, Already Occupied: Threat Actors are Renting your Compute",
+      "source": "Rapid7",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.rapid7.com/blog/post/ve-cve-2026-123007-critical-nginx-http-2-integer-underflow-leads-to-rce-fixed",
+      "title": "CVE-2026-123007: Critical NGINX HTTP/2 Integer Underflow Leads to RCE (FIXED)",
+      "source": "Rapid7",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/php2shell-ai-agents-credential-harvesting/",
+      "title": "PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign",
+      "source": "SOCRadar",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/java4shell-cve-2026-114938-openjdk-rce/",
+      "title": "Java4Shell (CVE-2026-114938): What You Need to Know",
+      "source": "SOCRadar",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/",
+      "title": "CrowdStrike Brings the Human Advantage to AI Detection and Response",
+      "source": "CrowdStrike",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.intel471.com/blog/meet-agent471-ai-that-gives-your-security-team-time-back",
+      "title": "Meet Agent471: AI That Gives Your Security Team Time Back",
+      "source": "Intel 471",
+      "published": "2026-11-17",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://expel.com/blog/context-era-workbench-updates/",
+      "title": "Updates to Expel Workbench for the context era",
+      "source": "Expel",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.dragos.com/blog/frontier-ai-industrial-control-systems",
+      "title": "What Frontier AI Can Do in xOT, and What It Means for Defenders",
+      "source": "Dragos",
+      "published": "2026-11-18",
+      "context": ""
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

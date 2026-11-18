@@ -1,0 +1,36 @@
+{
+  "id": "c0a74ddc9d",
+  "created": "2026-11-18T19:27:08+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Threat Actors → Ransomware/Rhysida.md",
+  "headline": "New IOC proposal — Rhysida",
+  "items": [
+    {
+      "type": "onion",
+      "value": "rhysidavdzxlt4czlpsfotgsgplq5vddhnbuai7bisdtrstwhvyprrqd.onion",
+      "source": "RavenFile Daily-Hunt",
+      "context": "Rhysida Ransomware",
+      "ref": "https://github.com/TheRavenFile/Daily-Hunt/blob/33cdb54d429d047a600b2cb405b81353f6584647/Rhysida Ransomware"
+    },
+    {
+      "type": "report",
+      "value": "https://github.com/TheRavenFile/Daily-Hunt/blob/33cdb54d429d047a600b2cb405b81353f6584647/Rhysida Ransomware",
+      "title": "Rhysida Ransomware",
+      "source": "RavenFile Daily-Hunt",
+      "published": "2026-11-18",
+      "context": "Rhysida"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://github.com/TheRavenFile/Daily-Hunt/blob/33cdb54d429d047a600b2cb405b81353f6584647/Rhysida Ransomware",
+      "title": "Rhysida Ransomware",
+      "source": "RavenFile Daily-Hunt",
+      "published": "2026-11-18",
+      "context": "Rhysida"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

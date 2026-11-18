@@ -1,0 +1,29 @@
+{
+  "id": "15a6d8676a",
+  "created": "2026-11-18T19:27:08+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Threat Actors → Ransomware/Qilin.md",
+  "headline": "New IOC proposal — Qilin",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://research.checkpoint.com/2026/the-state-of-ransomware-q3-2026/",
+      "title": "The State of Ransomware Q3 2026",
+      "source": "Check Point Research",
+      "published": "2026-11-17",
+      "context": "Qilin"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://research.checkpoint.com/2026/the-state-of-ransomware-q3-2026/",
+      "title": "The State of Ransomware Q3 2026",
+      "source": "Check Point Research",
+      "published": "2026-11-17",
+      "context": "Qilin"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

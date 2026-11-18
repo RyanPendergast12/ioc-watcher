@@ -1,0 +1,432 @@
+{
+  "id": "7aa2218c09",
+  "created": "2026-11-18T19:27:08+00:00",
+  "kind": "bucket",
+  "target_md": "Threat Intel/Raw Threat Intel/BAD DOMAINS.md",
+  "headline": "Raw intel — BAD DOMAINS",
+  "items": [
+    {
+      "type": "domain",
+      "value": "732890coinbase.com",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "webtalktalkservice.weebly.com",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "weebmailleastlinkcaa.weebly.com",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "autourduchanvre.com",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "booking-ledger-phi.vercel.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "phantomchain.github.io",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "92394365756.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "info-pemenang-shopee17.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "infohadiah-shopee66.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "zcs-adm-auth.vercel.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "shopee-indonesia25.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "ayomide202005.github.io",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "shopee-456.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "undianshopeebigsale2022.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "undianresmishopee77.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "pemenangshopee11-11.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "galery-shopee21.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "infopemenanghadiahshopee.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "infohadiah-shopee33.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "infoundian-shopee81.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "determining-outlet-liabilities-pest.trycloudflare.com",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9561670"
+    },
+    {
+      "type": "domain",
+      "value": "merry-holly-pressure-gore.trycloudflare.com",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9561669"
+    },
+    {
+      "type": "domain",
+      "value": "telsurechile.cecoban.com",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9561664"
+    },
+    {
+      "type": "domain",
+      "value": "scans-qr.com",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9561662"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.eofer245.cfd",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9561656"
+    },
+    {
+      "type": "domain",
+      "value": "adona24.lat",
+      "source": "PhishTank",
+      "context": "phish WeTransfer",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9561645"
+    },
+    {
+      "type": "domain",
+      "value": "app.quelby.autos",
+      "source": "PhishTank",
+      "context": "phish WeTransfer",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9561644"
+    },
+    {
+      "type": "domain",
+      "value": "roteccionalcliente.click",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9561642"
+    },
+    {
+      "type": "domain",
+      "value": "recompensasvip.click",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9561639"
+    },
+    {
+      "type": "domain",
+      "value": "canjearecompensas.click",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9561640"
+    },
+    {
+      "type": "domain",
+      "value": "canjepuntosfacil.click",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9561641"
+    },
+    {
+      "type": "domain",
+      "value": "todocanje.click",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9561637"
+    },
+    {
+      "type": "domain",
+      "value": "clubcanje.click",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9561638"
+    },
+    {
+      "type": "domain",
+      "value": "opcionesdecanje.help",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9561634"
+    },
+    {
+      "type": "domain",
+      "value": "zonacanje.click",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9561635"
+    },
+    {
+      "type": "domain",
+      "value": "mipremio.click",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9561636"
+    },
+    {
+      "type": "domain",
+      "value": "miscanjes.click",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9561632"
+    },
+    {
+      "type": "domain",
+      "value": "canjedigital.click",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9561633"
+    },
+    {
+      "type": "domain",
+      "value": "tiendadecanjes.click",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9561631"
+    },
+    {
+      "type": "domain",
+      "value": "canjeplus.click",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9561630"
+    },
+    {
+      "type": "domain",
+      "value": "nadser.ru",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "sportnyhet.sumway.dev",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "mohantoursandtravels.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "hitech-india.in",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "fintellectualadvisors.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "alchemistcrm.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "engineeringsolutions.com.au",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "rdsforum.ro",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "autoskolazmolik.cz",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "onandoffagain.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "hudosantakakuuritai.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "tiqnea.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "westcoastguardservices.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "afreebieempire.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "safehardwareuae.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "arcor.runtrade.com.br",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "admission.primeuniversity.edu.bd",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "ver.sx",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "alpha.nuts.kiev.ua",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "serverddfd.7m.pl",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}
