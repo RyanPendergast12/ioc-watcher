@@ -1,0 +1,122 @@
+{
+  "id": "2cef64f08c",
+  "created": "2026-11-19T19:30:05+00:00",
+  "kind": "bucket",
+  "target_md": "Threat Intel/Raw Threat Intel/BAD HASHES.md",
+  "headline": "Raw intel — BAD HASHES",
+  "items": [
+    {
+      "type": "ssl_sha1",
+      "value": "47f4d9c4606c19ddd4c053e84b27e76965058fe8",
+      "source": "Abuse.ch SSLBL",
+      "context": "FunStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/47f4d9c4606c19ddd4c053e84b27e76965058fe8/",
+      "family": "FunStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "58af3cc8f1ab7b9b4d02c23b5ac169d498cbddbc",
+      "source": "Abuse.ch SSLBL",
+      "context": "SheetRAT C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/58af3cc8f1ab7b9b4d02c23b5ac169d498cbddbc/",
+      "family": "SheetRAT"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "ede2b62ea65aa4d5b6751f6fdb3702f7f55f730a",
+      "source": "Abuse.ch SSLBL",
+      "context": "Malware C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/ede2b62ea65aa4d5b6751f6fdb3702f7f55f730a/"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "70e1fb9b59e223a1d2e45d12b8dbb7f4dd28d1ac",
+      "source": "Abuse.ch SSLBL",
+      "context": "RevStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/70e1fb9b59e223a1d2e45d12b8dbb7f4dd28d1ac/",
+      "family": "RevStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "ffd76c5a5ab1a81486a34ea5532ba2d5acef9995",
+      "source": "Abuse.ch SSLBL",
+      "context": "RevStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/ffd76c5a5ab1a81486a34ea5532ba2d5acef9995/",
+      "family": "RevStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "4815c51736189179ad892b69abe7f44560919e45",
+      "source": "Abuse.ch SSLBL",
+      "context": "RevStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/4815c51736189179ad892b69abe7f44560919e45/",
+      "family": "RevStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "4fd67b1aa3023f5b6af9caa4437d22d61100a3a3",
+      "source": "Abuse.ch SSLBL",
+      "context": "OffLoader C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/4fd67b1aa3023f5b6af9caa4437d22d61100a3a3/",
+      "family": "OffLoader"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "6c2bc0ebdd7952188d93e5a37784fd1463518ed4",
+      "source": "Abuse.ch SSLBL",
+      "context": "OffLoader C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/6c2bc0ebdd7952188d93e5a37784fd1463518ed4/",
+      "family": "OffLoader"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "38d87ea5d7bfa642d74712be1d9be179ad76fead",
+      "source": "Abuse.ch SSLBL",
+      "context": "PureLogsStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/38d87ea5d7bfa642d74712be1d9be179ad76fead/",
+      "family": "PureLogsStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "bcf99cb2b7ea392a9942e31d37f86140eb712e1a",
+      "source": "Abuse.ch SSLBL",
+      "context": "Malware C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/bcf99cb2b7ea392a9942e31d37f86140eb712e1a/"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "dacd0b341a6ba567988cec40c37f01ef29c68d07",
+      "source": "Abuse.ch SSLBL",
+      "context": "WARDENStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/dacd0b341a6ba567988cec40c37f01ef29c68d07/",
+      "family": "WARDENStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "bbc92da2f65ac8416cfa1cf1796a8c77b7d6702f",
+      "source": "Abuse.ch SSLBL",
+      "context": "WeedStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/bbc92da2f65ac8416cfa1cf1796a8c77b7d6702f/",
+      "family": "WeedStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "099d0aa13d2c75b25f09bb1315ea83bef301a26c",
+      "source": "Abuse.ch SSLBL",
+      "context": "WeedStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/099d0aa13d2c75b25f09bb1315ea83bef301a26c/",
+      "family": "WeedStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "81d9dfcd66de9aa45077d1ab1ecd683e2963a277",
+      "source": "Abuse.ch SSLBL",
+      "context": "WARDENStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/81d9dfcd66de9aa45077d1ab1ecd683e2963a277/",
+      "family": "WARDENStealer"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

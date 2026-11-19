@@ -1,0 +1,28 @@
+{
+  "id": "ad8462c478",
+  "created": "2026-11-19T19:30:05+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Loaders + Initial Access/Clickfix.md",
+  "headline": "New IOC proposal — Clickfix",
+  "items": [
+    {
+      "type": "domain",
+      "value": "reoddium-thistle.pro",
+      "source": "TweetFeed",
+      "context": "@masaomi346 #ClickFix #malware",
+      "ref": "https://x.com/masaomi346/status/2123390325112889565",
+      "family": "ClickFix"
+    },
+    {
+      "type": "ip",
+      "value": "83.141.90.19",
+      "source": "TweetFeed",
+      "context": "@IamJaipee #ClickFix #malware",
+      "ref": "https://x.com/IamJaipee/status/2123271193021366396",
+      "family": "ClickFix"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

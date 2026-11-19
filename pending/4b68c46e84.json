@@ -1,0 +1,432 @@
+{
+  "id": "4b68c46e84",
+  "created": "2026-11-19T19:30:05+00:00",
+  "kind": "bucket",
+  "target_md": "Threat Intel/Raw Threat Intel/BAD DOMAINS.md",
+  "headline": "Raw intel — BAD DOMAINS",
+  "items": [
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.pl-oferta789618732.cfd",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "fresh-network-276970.framer.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "opontocoleta.shop",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "roblox.ly",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "facebookaccount1234.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "instagram-zeta.vercel.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "garenafreefireofficialwebsite111.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "1avpc1-cma00uzf0-intelligence-agentic-models.vercel.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "savicafile-masscom.wasmer.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "1avpc1.vercel.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "knf9704-crypto.github.io",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "vngiuu.top",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "facebookhints.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "agenciaricco.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "imtcken.cn",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "uspsofficialdelivery.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "connect-live-wallet.typedream.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "sp18ct10-lavrok-biz-zunari.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "customer-sp-logandaviau1.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "social-lift-five.vercel.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "sinarmas-rent.com",
+      "source": "PhishTank",
+      "context": "phish Amazon.com",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562302"
+    },
+    {
+      "type": "domain",
+      "value": "spectronelectronics.com",
+      "source": "PhishTank",
+      "context": "phish Amazon.com",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562300"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.pl324sda1.cyou",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562298"
+    },
+    {
+      "type": "domain",
+      "value": "olx.ofert894401.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562294"
+    },
+    {
+      "type": "domain",
+      "value": "yuewenlinyu.com",
+      "source": "PhishTank",
+      "context": "phish Amazon.com",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562292"
+    },
+    {
+      "type": "domain",
+      "value": "allegro.o30303040.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562287"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.o30303040.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562283"
+    },
+    {
+      "type": "domain",
+      "value": "allegroverify.86235812123.com",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562269"
+    },
+    {
+      "type": "domain",
+      "value": "chervildock.live",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562262"
+    },
+    {
+      "type": "domain",
+      "value": "2gtrrw2w.pics",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562202"
+    },
+    {
+      "type": "domain",
+      "value": "kontabontang1794263724204.0480074.misitiohostgator.com",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562201"
+    },
+    {
+      "type": "domain",
+      "value": "74-152-65-232.cprapid.com",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562197"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.ofert894401.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562196"
+    },
+    {
+      "type": "domain",
+      "value": "u67ey5.pics",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562192"
+    },
+    {
+      "type": "domain",
+      "value": "startaproverify.86235812123.com",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562185"
+    },
+    {
+      "type": "domain",
+      "value": "pub-4ff964f675f24c728b59bd5faea8c120.r2.dev",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562179"
+    },
+    {
+      "type": "domain",
+      "value": "allegro.smart-zakupy24h.shop",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562171"
+    },
+    {
+      "type": "domain",
+      "value": "sbi-sesh.cfd",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562169"
+    },
+    {
+      "type": "domain",
+      "value": "omgvd.com",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562167"
+    },
+    {
+      "type": "domain",
+      "value": "sbi-sesb.cfd",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562165"
+    },
+    {
+      "type": "domain",
+      "value": "web.xmlpost.xyz",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "nicoleling.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "legismente.pt",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "nomadicdamon.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "telento.xyz",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "k2car.ro",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "evakark.xyz",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "lushbb.xyz",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "irkark.xyz",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "x-vpn.ug",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "tepevizyon.com.tr",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "vihaiha.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "manvim.co",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "mxrz.xyz",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "sspmoct.xyz",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "es02.xyz",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "gepardmain.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "gjusvoqmkddfahvoccsx.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "asilcosmetics.ru",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "security-apple-manage.com",
+      "source": "cybercrime_tracker",
+      "context": "C2 panel",
+      "ref": ""
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

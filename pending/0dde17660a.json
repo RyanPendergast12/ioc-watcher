@@ -1,0 +1,432 @@
+{
+  "id": "0dde17660a",
+  "created": "2026-11-19T19:30:05+00:00",
+  "kind": "bucket",
+  "target_md": "Threat Intel/Raw Threat Intel/BAD IPS.md",
+  "headline": "Raw intel — BAD IPS",
+  "items": [
+    {
+      "type": "ip",
+      "value": "66.132.195.126",
+      "source": "Consensus (3 feeds)",
+      "context": "blocklist_de_bots+ci_army+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "195.178.110.102",
+      "source": "Consensus (3 feeds)",
+      "context": "blocklist_de_bruteforce+firehol_webclient+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "203.252.10.4",
+      "source": "Consensus (3 feeds)",
+      "context": "blocklist_de_strong+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.210.83.117",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "85.217.140.10",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+greensnow+isc_sans",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.210.9.177",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.210.193.11",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.210.160.81",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.210.65.254",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.210.7.114",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.210.136.244",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.206.164.189",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.210.97.115",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.206.172.81",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.210.173.86",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.210.22.77",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.210.1.5",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.210.200.154",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.214.199.138",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "152.32.236.102",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "193.47.62.167",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "5.2.69.85",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "192.178.4.105",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+firehol_webserver",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "66.132.172.205",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.233.4.23",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.195.11.198",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "129.221.224.34",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "137.184.226.250",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "148.113.128.107",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+firehol_webserver",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "172.235.181.226",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "177.10.160.46",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "51.81.169.205",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+firehol_webserver",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "178.128.95.222",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "217.160.134.4",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "51.81.164.204",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+firehol_webserver",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "139.162.198.11",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "159.223.40.208",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "159.203.165.206",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "138.68.42.56",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "45.156.128.111",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "176.46.152.62",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "144.172.107.244",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "162.0.225.149",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "108.181.161.143",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "185.238.191.89",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "94.154.34.240",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "213.209.150.48",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "185.39.207.117",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "103.175.16.117",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "31.170.22.205",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "196.251.115.212",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "62.60.226.112",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "176.65.134.5",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "176.65.134.62",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "37.44.238.88",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "185.232.205.104",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "194.37.81.64",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "185.81.68.147",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "80.82.65.70",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "176.113.115.37",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

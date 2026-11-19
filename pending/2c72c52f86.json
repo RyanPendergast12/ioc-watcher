@@ -1,0 +1,244 @@
+{
+  "id": "2c72c52f86",
+  "created": "2026-11-19T19:30:05+00:00",
+  "kind": "digest",
+  "target_md": "Threat Intel/Intel Feed/2026-11-19.md",
+  "headline": "Intel digest — 2026-11-19 (29 new reports)",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://www.reliaquest.com/blog/reliaquest-named-a-visionary-leader-in-the-frost-radar-ai-soc-2026/",
+      "title": "ReliaQuest Named a Visionary Leader in the Frost Radar™: AI Security Operations Centers, 2026",
+      "source": "ReliaQuest",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/detecting-timeroasting",
+      "title": "Detecting Timeroasting the Hard Way",
+      "source": "Huntress",
+      "published": "2026-11-19",
+      "context": "ClawBot + OpenClaw"
+    },
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/what-bec-looks-like",
+      "title": "What Business Email Compromise (BEC) Looks Like & How to Catch It",
+      "source": "Huntress",
+      "published": "2026-11-18",
+      "context": "ClawBot + OpenClaw"
+    },
+    {
+      "type": "report",
+      "value": "https://blog.alphahunt.io/deep-research-what-did-the-legacy-system-still-authorize/",
+      "title": "[DEEP RESEARCH] What Did the Legacy System Still Authorize?",
+      "source": "AlphaHunt",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/ai/2026/11/deepfake-elon-musk-nearly-costs-viewers-4-7-million-in-crypto",
+      "title": "Deepfake Elon Musk  nearly costs viewers $4.7 million in crypto",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/bugs/2026/11/chrome-patches-six-critical-flaws-two-found-with-ais-help",
+      "title": "Chrome patches six critical flaws, two found with AI’s help",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/news/2026/11/scattered-spiders-phishing-and-sim-swap-tactics-led-to-six-year-sentence",
+      "title": "Scattered Spider’s phishing and SIM-swap tactics led to six-year sentence",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/ai/2026/11/outage-or-attack-dont-let-social-media-fill-in-the-gaps",
+      "title": "Outage or attack? Don’t let social media fill in the gaps",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/scams/2026/11/gta-6-scams-could-cost-you-your-account-money-or-crypto",
+      "title": "GTA 6 scams could cost you your account, money, or crypto",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://research.checkpoint.com/2026/30-years-of-gatekeeper-asymmetry-doom-the-paradox-that-makes-powerful-llms-more-vulnerable/",
+      "title": "30 Years of Gatekeeper Asymmetry Doom: The Paradox that Makes Powerful LLMs More Vulnerable",
+      "source": "Check Point Research",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://blog.talosintelligence.com/the-internet-needs-a-nap-and-you-do-too/",
+      "title": "The internet needs a nap (and you do, too)",
+      "source": "Cisco Talos",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.welivesecurity.com/en/scams/who-was-trying-phone-how-one-ring-phone-scams-work/",
+      "title": "Who was that trying to phone me just now? How one-ring phone scams work",
+      "source": "ESET WeLiveSecurity",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.elastic.co/security-labs/blog/openshift-compliance-elastic-agent-builder",
+      "title": "From posture to root cause: Investigate OpenShift compliance with Elastic Agent Builder",
+      "source": "Elastic Security Labs",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.elastic.co/security-labs/threat-command/we-caught-the-agent-framework-pypi-compromise-six-minutes-after-it-published",
+      "title": "We caught the agent-framework PyPI compromise six minutes after it published",
+      "source": "Elastic Security Labs",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.zscaler.com/blogs/security-research/cve-2026-114938-openjdk-base64-decoder-vulnerable-pre-authentication-rce",
+      "title": "CVE-2026-114938: OpenJDK Base64 Decoder Vulnerable To Pre-Authentication RCE (Java4Shell)",
+      "source": "Zscaler ThreatLabz",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.zscaler.com/blogs/security-research/attackers-exploit-optimizely-flaw-inject-malicious-javascript",
+      "title": "Attackers Exploit Optimizely Flaw To Inject Malicious JavaScript",
+      "source": "Zscaler ThreatLabz",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.recordedfuture.com/blog/2027-soti-regional-summaries",
+      "title": "Regional Insights: 2027 State of Threat Intelligence",
+      "source": "Recorded Future",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.rapid7.com/blog/post/dr-what-is-preemptive-mdr-security-leaders-guide",
+      "title": "What Is Preemptive MDR? A Guide For Security Leaders",
+      "source": "Rapid7",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.rapid7.com/blog/post/tr-spying-on-governments-no-malware-custom-webworms-toolkit-softether-bridge",
+      "title": "Spying on Governments with Zero Lines of Malware: A Custom SoftEther Bridge in Webworm’s Toolkit",
+      "source": "Rapid7",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/nginx2root-nginx-cve-2026-123007/",
+      "title": "NGINX2Root: What NGINX Admins Should Know",
+      "source": "SOCRadar",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/socradar-north-america-fastest-growing-deloitte-fast-500-2026/",
+      "title": "SOCRadar Named One of North America’s Fastest-Growing Technology Companies on the 2026 Deloitte Technology Fast 500™",
+      "source": "SOCRadar",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/",
+      "title": "Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity",
+      "source": "CrowdStrike",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/",
+      "title": "CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM",
+      "source": "CrowdStrike",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.intel471.com/blog/aerospace-to-chemicals-why-manufacturers-are-easy-targets-for-access-brokers",
+      "title": "Aerospace To Chemicals: Why Manufacturers Are Easy Targets for Access Brokers",
+      "source": "Intel 471",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-vsphere/",
+      "title": "ARMORY CASTLE Exploits vSphere",
+      "source": "Google Threat Intelligence (Mandiant)",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.levelblue.com/blogs/spiderlabs-blog/how-cyberwarfare-is-reshaping-the-connected-world",
+      "title": "How Cyberwarfare Is Reshaping the Connected World",
+      "source": "LevelBlue SpiderLabs (ex-Cybereason)",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.levelblue.com/blogs/spiderlabs-blog/critical-vulnerability-in-java-java4shell-cve-2026-114938",
+      "title": "Critical Vulnerability in Java: Java4Shell (CVE-2026-114938)",
+      "source": "LevelBlue SpiderLabs (ex-Cybereason)",
+      "published": "2026-11-18",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://expel.com/blog/were-building-tomorrows-legacy-software-today/",
+      "title": "We're building tomorrow's legacy software today",
+      "source": "Expel",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "title": "Three breaches, endless leaks: Your AI supply chain needs canaries",
+      "source": "Dragos",
+      "published": "2026-11-19",
+      "context": ""
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

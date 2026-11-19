@@ -1,0 +1,44 @@
+{
+  "id": "edfcc288f4",
+  "created": "2026-11-19T19:30:05+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Threat Actors → APT + Nation-State/KIMSUKY-APT43.md",
+  "headline": "New IOC proposal — KIMSUKY-APT43",
+  "items": [
+    {
+      "type": "domain",
+      "value": "aumcvy8y.onlinewebshop.net",
+      "source": "TweetFeed",
+      "context": "@copy_and_paster #Kimsuky",
+      "ref": "https://x.com/copy_and_paster/status/2123376780291805569",
+      "family": "Kimsuky"
+    },
+    {
+      "type": "domain",
+      "value": "biglobe.myartsonline.com",
+      "source": "TweetFeed",
+      "context": "@copy_and_paster #Kimsuky",
+      "ref": "https://x.com/copy_and_paster/status/2123376780291805569",
+      "family": "Kimsuky"
+    },
+    {
+      "type": "domain",
+      "value": "babarahoney.wuaze.com",
+      "source": "TweetFeed",
+      "context": "@copy_and_paster #Kimsuky",
+      "ref": "https://x.com/copy_and_paster/status/2123376780291805569",
+      "family": "Kimsuky"
+    },
+    {
+      "type": "domain",
+      "value": "privacy5.dynu.org",
+      "source": "TweetFeed",
+      "context": "@phatomcandle #APT #C2 #Kimsuky #malware",
+      "ref": "https://x.com/phatomcandle/status/2123432106647007467",
+      "family": "APT"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

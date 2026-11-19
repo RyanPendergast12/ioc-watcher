@@ -1,0 +1,45 @@
+{
+  "id": "290d83ced5",
+  "created": "2026-11-19T19:30:05+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Botnets/ClawBot + OpenClaw.md",
+  "headline": "New IOC proposal — ClawBot + OpenClaw",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/detecting-timeroasting",
+      "title": "Detecting Timeroasting the Hard Way",
+      "source": "Huntress",
+      "published": "2026-11-19",
+      "context": "ClawBot + OpenClaw"
+    },
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/what-bec-looks-like",
+      "title": "What Business Email Compromise (BEC) Looks Like & How to Catch It",
+      "source": "Huntress",
+      "published": "2026-11-18",
+      "context": "ClawBot + OpenClaw"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/detecting-timeroasting",
+      "title": "Detecting Timeroasting the Hard Way",
+      "source": "Huntress",
+      "published": "2026-11-19",
+      "context": "ClawBot + OpenClaw"
+    },
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/what-bec-looks-like",
+      "title": "What Business Email Compromise (BEC) Looks Like & How to Catch It",
+      "source": "Huntress",
+      "published": "2026-11-18",
+      "context": "ClawBot + OpenClaw"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}
