@@ -1,0 +1,29 @@
+{
+  "id": "8d234d061d",
+  "created": "2026-11-20T19:07:02+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Botnets/ClawBot + OpenClaw.md",
+  "headline": "New IOC proposal — ClawBot + OpenClaw",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/handling-the-nist-800-171-rev-3-transition",
+      "title": "Handling the NIST 800-171 Rev 3 Transition",
+      "source": "Huntress",
+      "published": "2026-11-20",
+      "context": "ClawBot + OpenClaw"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/handling-the-nist-800-171-rev-3-transition",
+      "title": "Handling the NIST 800-171 Rev 3 Transition",
+      "source": "Huntress",
+      "published": "2026-11-20",
+      "context": "ClawBot + OpenClaw"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

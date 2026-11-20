@@ -1,0 +1,28 @@
+{
+  "id": "c5f7992d82",
+  "created": "2026-11-20T19:07:02+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Threat Actors → APT + Nation-State/KIMSUKY-APT43.md",
+  "headline": "New IOC proposal — KIMSUKY-APT43",
+  "items": [
+    {
+      "type": "domain",
+      "value": "fullwork3e4.gamer.free",
+      "source": "TweetFeed",
+      "context": "@curious_drac0 #Kimsuky",
+      "ref": "https://x.com/curious_drac0/status/2123680468394492298",
+      "family": "Kimsuky"
+    },
+    {
+      "type": "domain",
+      "value": "makes4.dynu.org",
+      "source": "TweetFeed",
+      "context": "@phatomcandle #APT #C2 #Kimsuky #malware",
+      "ref": "https://x.com/phatomcandle/status/2123794746737107117",
+      "family": "APT"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

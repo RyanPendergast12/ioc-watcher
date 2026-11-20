@@ -1,0 +1,20 @@
+{
+  "id": "c267fdb977",
+  "created": "2026-11-20T19:07:02+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Loaders + Initial Access/WinosStager.md",
+  "headline": "New IOC proposal — WinosStager",
+  "items": [
+    {
+      "type": "ip",
+      "value": "43.129.221.97",
+      "source": "TweetFeed",
+      "context": "@bomccss #ValleyRAT",
+      "ref": "https://x.com/bomccss/status/2123685733982753115",
+      "family": "ValleyRAT"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

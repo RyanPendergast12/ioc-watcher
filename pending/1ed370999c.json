@@ -1,0 +1,383 @@
+{
+  "id": "1ed370999c",
+  "created": "2026-11-20T19:07:02+00:00",
+  "kind": "bucket",
+  "target_md": "Threat Intel/Raw Threat Intel/BAD IPS.md",
+  "headline": "Raw intel — BAD IPS",
+  "items": [
+    {
+      "type": "ip",
+      "value": "193.187.110.182",
+      "source": "Consensus (3 feeds)",
+      "context": "blocklist_de_bots+ci_army+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "216.36.112.159",
+      "source": "Consensus (3 feeds)",
+      "context": "blocklist_de_bots+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "34.14.75.75",
+      "source": "Consensus (3 feeds)",
+      "context": "blocklist_de_bots+ci_army+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "51.159.4.12",
+      "source": "Consensus (3 feeds)",
+      "context": "blocklist_de_bots+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.210.73.217",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.210.188.215",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.206.183.188",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.210.75.155",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.214.204.44",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.210.205.101",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "103.42.57.15",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.210.116.204",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.206.163.251",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "102.220.161.119",
+      "source": "Consensus (3 feeds)",
+      "context": "danger_rulez+emerging_threats+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "45.156.87.189",
+      "source": "Consensus (3 feeds)",
+      "context": "danger_rulez+emerging_threats+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "45.156.87.78",
+      "source": "Consensus (3 feeds)",
+      "context": "danger_rulez+emerging_threats+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "85.11.167.38",
+      "source": "Consensus (3 feeds)",
+      "context": "danger_rulez+emerging_threats+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "130.12.182.107",
+      "source": "Consensus (3 feeds)",
+      "context": "danger_rulez+emerging_threats+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "193.32.162.15",
+      "source": "Consensus (3 feeds)",
+      "context": "danger_rulez+emerging_threats+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "118.36.222.243",
+      "source": "Consensus (3 feeds)",
+      "context": "danger_rulez+emerging_threats+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "165.154.163.57",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "134.122.30.157",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "180.191.230.147",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "45.138.12.22",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "45.156.129.174",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "206.189.232.254",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "45.156.129.115",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "34.38.223.215",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "81.171.74.60",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "129.221.184.75",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "165.22.47.52",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "202.166.198.189",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "179.43.171.130",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "185.180.141.52",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "51.81.164.203",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+firehol_webserver",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "9.234.43.189",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "172.235.181.217",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "185.194.178.24",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+firehol_webserver",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "94.26.106.162",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+firehol_webclient",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "45.156.129.178",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "cidr",
+      "value": "45.115.26.0/24",
+      "source": "Spamhaus DROP",
+      "context": "SBL701266",
+      "ref": "https://check.spamhaus.org/sbl/query/SBL701266"
+    },
+    {
+      "type": "cidr",
+      "value": "85.155.14.0/23",
+      "source": "Spamhaus DROP",
+      "context": "SBL701265",
+      "ref": "https://check.spamhaus.org/sbl/query/SBL701265"
+    },
+    {
+      "type": "cidr",
+      "value": "103.47.145.0/24",
+      "source": "Spamhaus DROP",
+      "context": "SBL701268",
+      "ref": "https://check.spamhaus.org/sbl/query/SBL701268"
+    },
+    {
+      "type": "cidr",
+      "value": "103.155.92.0/23",
+      "source": "Spamhaus DROP",
+      "context": "SBL693556",
+      "ref": "https://check.spamhaus.org/sbl/query/SBL693556"
+    },
+    {
+      "type": "ip",
+      "value": "8.209.246.69",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562306"
+    },
+    {
+      "type": "ip",
+      "value": "185.215.113.16",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "74.50.95.117",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "45.131.135.227",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "185.7.78.88",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "83.217.208.37",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "66.63.187.231",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "66.63.187.150",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "59.99.215.146",
+      "source": "vxvault",
+      "context": "malware download",
+      "ref": ""
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

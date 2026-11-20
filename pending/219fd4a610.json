@@ -1,0 +1,140 @@
+{
+  "id": "219fd4a610",
+  "created": "2026-11-20T19:07:02+00:00",
+  "kind": "digest",
+  "target_md": "Threat Intel/Intel Feed/2026-11-20.md",
+  "headline": "Intel digest — 2026-11-20 (16 new reports)",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://www.reliaquest.com/blog/inside-artex-what-defenders-need-to-know-about-agentic-offensive-frameworks/",
+      "title": "Inside ARTEX: What Defenders Need to Know About Agentic Offensive Frameworks",
+      "source": "ReliaQuest",
+      "published": "2026-11-20",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/handling-the-nist-800-171-rev-3-transition",
+      "title": "Handling the NIST 800-171 Rev 3 Transition",
+      "source": "Huntress",
+      "published": "2026-11-20",
+      "context": "ClawBot + OpenClaw"
+    },
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/rmm-alerts-msp-soc-incident-response",
+      "title": "RMM Alerts at 2 AM: An MSP and SOC Incident Response Story",
+      "source": "Huntress",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://cyble.com/blog/europe-2027-cyber-compliance/",
+      "title": "Europe’s 2027 Cyber Compliance Year: What’s Fixed, What’s Moving, and What One Incident Looks Like Under Four Laws",
+      "source": "Cyble",
+      "published": "2026-11-20",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/news/2026/11/us-launches-center-to-disrupt-scams-and-warn-victims-sooner",
+      "title": "US launches center to disrupt scams and warn victims sooner",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-20",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/data-breaches/2026/11/hackers-leak-data-linked-to-visa-mastercard-and-jpmorgan-customers",
+      "title": "Hackers leak data linked to Visa, Mastercard, and JPMorgan customers",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-20",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.welivesecurity.com/en/internet-of-things/iot-devices-no-longer-supported-smart-home-safe/",
+      "title": "My IoT devices are no longer supported – is my smart home safe?",
+      "source": "ESET WeLiveSecurity",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM",
+      "source": "Microsoft Threat Intelligence",
+      "published": "2026-11-20",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.elastic.co/security-labs/blog/mitre-atlas-elastic-security-detection-coverage",
+      "title": "Mapping the AI threat landscape: MITRE ATLAS comes to Elastic Security",
+      "source": "Elastic Security Labs",
+      "published": "2026-11-20",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-breaking-zimbra-s-identity-boundaries",
+      "title": "Metasploit Wrap Up: Breaking Zimbra's Identity Boundaries",
+      "source": "Rapid7",
+      "published": "2026-11-20",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.rapid7.com/blog/post/etr-cve-2026-123890-critical-authentication-bypass-vmware-vcenter",
+      "title": "CVE-2026-123890: Critical Authentication Bypass in VMware vCenter",
+      "source": "Rapid7",
+      "published": "2026-11-19",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/cve-2026-123890-vcenter-0day-armory-castle/",
+      "title": "CVE-2026-123890: vCenter Zero-Day Exploited by Armory Castle",
+      "source": "SOCRadar",
+      "published": "2026-11-20",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/phpaftershell-cve-2026-126714-php2shell/",
+      "title": "phpAfterShell (CVE-2026-126714) Slips Past PHP2Shell Patch",
+      "source": "SOCRadar",
+      "published": "2026-11-20",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/babidighost-ai-augmented-cybercrime/",
+      "title": "BabidiGhost: An AI-Augmented Cybercrime Operation",
+      "source": "SOCRadar",
+      "published": "2026-11-20",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/",
+      "title": "NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform",
+      "source": "CrowdStrike",
+      "published": "2026-11-20",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://expel.com/blog/how-expel-is-protecting-you-from-artex-and-ai-driven-attack-frameworks/",
+      "title": "How Expel is protecting you from ARTEX and AI-driven attack frameworks",
+      "source": "Expel",
+      "published": "2026-11-20",
+      "context": ""
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

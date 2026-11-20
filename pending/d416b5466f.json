@@ -1,0 +1,56 @@
+{
+  "id": "d416b5466f",
+  "created": "2026-11-20T19:07:02+00:00",
+  "kind": "kev",
+  "target_md": "Vulnerability Management/CISA KEV.md",
+  "headline": "CISA KEV — 4 new",
+  "items": [
+    {
+      "type": "cve",
+      "value": "CVE-2026-129448",
+      "source": "CISA KEV",
+      "context": "Apache Roller — Apache Roller Deserialization of Untrusted Data Vulnerability",
+      "ref": "https://nvd.nist.gov/vuln/detail/CVE-2026-129448",
+      "dateAdded": "2026-11-20",
+      "dueDate": "2026-11-23",
+      "ransomware": false,
+      "notes": "Apache Roller contains a deserialization of untrusted data vulnerability that allows an unauthenticated remote attacker to execute arbitrary code via the XML-RPC endpoint, which accepts and deserializes vendor extension types before authentication. This CVE covers the same underlying vulnerability a"
+    },
+    {
+      "type": "cve",
+      "value": "CVE-2026-123890",
+      "source": "CISA KEV",
+      "context": "Broadcom VMware vCenter — VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+      "ref": "https://nvd.nist.gov/vuln/detail/CVE-2026-123890",
+      "dateAdded": "2026-11-20",
+      "dueDate": "2026-11-23",
+      "ransomware": false,
+      "notes": "Broadcom VMware vCenter contains an authentication bypass using an alternate path or channel vulnerability in the VMware Directory Service that allows an unauthenticated attacker with network access to vCenter to bypass authentication and gain unauthorized access to the system."
+    },
+    {
+      "type": "cve",
+      "value": "CVE-2025-42884",
+      "source": "CISA KEV",
+      "context": "SAP NetWeaver — SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability",
+      "ref": "https://nvd.nist.gov/vuln/detail/CVE-2025-42884",
+      "dateAdded": "2026-11-20",
+      "dueDate": "2026-11-23",
+      "ransomware": false,
+      "notes": "SAP NetWeaver Enterprise Portal contains an improper neutralization of special elements in data query logic vulnerability that allows an unauthenticated attacker to disclose or modify server information via injected JNDI environment properties or a URL used during JNDI lookup operations."
+    },
+    {
+      "type": "cve",
+      "value": "CVE-2026-76466",
+      "source": "CISA KEV",
+      "context": "Cisco Expressway Series — Cisco Expressway Series Use of Hard-coded Credentials Vulnerability",
+      "ref": "https://nvd.nist.gov/vuln/detail/CVE-2026-76466",
+      "dateAdded": "2026-11-20",
+      "dueDate": "2026-11-23",
+      "ransomware": false,
+      "notes": "Cisco Expressway Series contains a use of hard-coded credentials vulnerability that allows an unauthenticated, remote attacker with persistent cookies and network access to execute commands as root on a clustered device via the database service."
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}
