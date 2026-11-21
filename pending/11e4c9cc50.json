@@ -1,0 +1,84 @@
+{
+  "id": "11e4c9cc50",
+  "created": "2026-11-21T18:00:46+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Loaders + Initial Access/Clickfix.md",
+  "headline": "New IOC proposal — Clickfix",
+  "items": [
+    {
+      "type": "domain",
+      "value": "img-codes-cloude.info",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #malware",
+      "ref": "https://x.com/Malwarehunterr/status/2124181048838046163",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "illtryanythingforayear.com",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #malware",
+      "ref": "https://x.com/Malwarehunterr/status/2124181048838046163",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "688pg.me",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #malware",
+      "ref": "https://x.com/Malwarehunterr/status/2124181048838046163",
+      "family": "ClickFix"
+    },
+    {
+      "type": "sha256",
+      "value": "a000481f3303b7a48cb671e68a63bce1ccb5a84273803b13cc0206afd70142d3",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #malware",
+      "ref": "https://x.com/Malwarehunterr/status/2124181048838046163",
+      "family": "ClickFix"
+    },
+    {
+      "type": "sha256",
+      "value": "09486ae7f39f3866d8637e3f93af2c83de10574102a4fa1d502d42ca21d0524f",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #malware",
+      "ref": "https://x.com/Malwarehunterr/status/2124181048838046163",
+      "family": "ClickFix"
+    },
+    {
+      "type": "sha256",
+      "value": "3d801439ab5957e41fd393d61f3ffc4bddebc66e847b4e1a436af91e23819ec9",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #malware",
+      "ref": "https://x.com/Malwarehunterr/status/2124181048838046163",
+      "family": "ClickFix"
+    },
+    {
+      "type": "sha256",
+      "value": "52335263fe5c0448c4b663c34ece8746fc14f2f84b4e5ae8699917d9f2044a49",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #malware",
+      "ref": "https://x.com/Malwarehunterr/status/2124181048838046163",
+      "family": "ClickFix"
+    },
+    {
+      "type": "sha256",
+      "value": "b9cca87a4d71b06533bc37a71c273e3808f375ff5284045909022574a42ff84b",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #malware",
+      "ref": "https://x.com/Malwarehunterr/status/2124181048838046163",
+      "family": "ClickFix"
+    },
+    {
+      "type": "sha256",
+      "value": "083ea6c5e1592f9b24e7c65854dca4b82955f599f6f325b5d2d2813a92ee2e09",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #malware",
+      "ref": "https://x.com/Malwarehunterr/status/2124181048838046163",
+      "family": "ClickFix"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

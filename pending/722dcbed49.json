@@ -1,0 +1,278 @@
+{
+  "id": "722dcbed49",
+  "created": "2026-11-21T18:00:46+00:00",
+  "kind": "bucket",
+  "target_md": "Threat Intel/Raw Threat Intel/BAD IPS.md",
+  "headline": "Raw intel — BAD IPS",
+  "items": [
+    {
+      "type": "ip",
+      "value": "216.180.246.64",
+      "source": "Consensus (3 feeds)",
+      "context": "blocklist_de_bots+ci_army+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "187.87.144.234",
+      "source": "Consensus (3 feeds)",
+      "context": "blocklist_de_bots+ci_army+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.206.158.12",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.210.133.203",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.210.160.35",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "103.144.106.72",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.206.178.11",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "35.210.39.113",
+      "source": "Consensus (3 feeds)",
+      "context": "ci_army+danger_rulez+emerging_threats",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "45.148.10.61",
+      "source": "Consensus (3 feeds)",
+      "context": "danger_rulez+emerging_threats+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "94.26.106.252",
+      "source": "Consensus (3 feeds)",
+      "context": "danger_rulez+emerging_threats+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "130.12.181.23",
+      "source": "Consensus (3 feeds)",
+      "context": "danger_rulez+emerging_threats+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "93.152.221.51",
+      "source": "Consensus (3 feeds)",
+      "context": "danger_rulez+emerging_threats+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "102.220.161.171",
+      "source": "Consensus (3 feeds)",
+      "context": "danger_rulez+emerging_threats+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "71.6.146.130",
+      "source": "Consensus (3 feeds)",
+      "context": "danger_rulez+emerging_threats+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "93.152.221.43",
+      "source": "Consensus (3 feeds)",
+      "context": "danger_rulez+emerging_threats+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "185.194.178.81",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "40.124.172.57",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "185.226.93.242",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "111.229.155.203",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "216.180.246.179",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "103.158.121.4",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "51.81.170.9",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+firehol_webserver",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "20.217.186.29",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+firehol_webserver",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "185.194.178.55",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "148.153.189.62",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "66.132.159.129",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "143.110.217.244",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "165.154.202.16",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "47.84.204.88",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "138.68.12.234",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+ci_army",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "185.194.178.84",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "185.194.178.17",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+firehol_webserver",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "16.216.88.161",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+firehol_webserver",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "185.194.178.94",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "ip",
+      "value": "185.194.178.105",
+      "source": "Consensus (2 feeds)",
+      "context": "blocklist_de_bots+greensnow",
+      "ref": ""
+    },
+    {
+      "type": "cidr",
+      "value": "45.198.224.0/24",
+      "source": "Spamhaus DROP",
+      "context": "SBL701300",
+      "ref": "https://check.spamhaus.org/sbl/query/SBL701300"
+    },
+    {
+      "type": "cidr",
+      "value": "151.243.11.0/24",
+      "source": "Spamhaus DROP",
+      "context": "SBL701301",
+      "ref": "https://check.spamhaus.org/sbl/query/SBL701301"
+    },
+    {
+      "type": "cidr",
+      "value": "154.81.166.0/24",
+      "source": "Spamhaus DROP",
+      "context": "SBL701277",
+      "ref": "https://check.spamhaus.org/sbl/query/SBL701277"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

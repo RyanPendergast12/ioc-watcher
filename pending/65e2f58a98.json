@@ -1,0 +1,29 @@
+{
+  "id": "65e2f58a98",
+  "created": "2026-11-21T18:00:46+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Threat Actors → Cybercrime + Other/Shinyhunters.md",
+  "headline": "New IOC proposal — Shinyhunters",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/",
+      "title": "Dialing for Data: Inside the Com’s High-Profile Heists",
+      "source": "Unit 42",
+      "published": "2026-11-20",
+      "context": "Shinyhunters"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/",
+      "title": "Dialing for Data: Inside the Com’s High-Profile Heists",
+      "source": "Unit 42",
+      "published": "2026-11-20",
+      "context": "Shinyhunters"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

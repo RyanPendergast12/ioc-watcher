@@ -1,0 +1,20 @@
+{
+  "id": "7d1be44009",
+  "created": "2026-11-21T18:00:46+00:00",
+  "kind": "bucket",
+  "target_md": "Threat Intel/Raw Threat Intel/BAD HASHES.md",
+  "headline": "Raw intel — BAD HASHES",
+  "items": [
+    {
+      "type": "ssl_sha1",
+      "value": "8602c6e50940880e8f3ba1d9f53ad97b481c1617",
+      "source": "Abuse.ch SSLBL",
+      "context": "Malware distribution",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/8602c6e50940880e8f3ba1d9f53ad97b481c1617/",
+      "family": "Malware distribution"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

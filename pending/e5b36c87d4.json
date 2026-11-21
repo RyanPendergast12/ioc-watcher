@@ -1,0 +1,292 @@
+{
+  "id": "e5b36c87d4",
+  "created": "2026-11-21T18:00:46+00:00",
+  "kind": "bucket",
+  "target_md": "Threat Intel/Raw Threat Intel/BAD DOMAINS.md",
+  "headline": "Raw intel — BAD DOMAINS",
+  "items": [
+    {
+      "type": "domain",
+      "value": "tonicopoderosomagal.vercel.app",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "tonicomaga.vercel.app",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "cinfifidsxceeiddd.flazio.com",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "achaofertasdalu.vercel.app",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "onixone.com.co",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "picugwgydugdr5443456.vercel.app",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "comxast.weebly.com",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "newworldmilleniumhotel.com",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "faq-trezr-git.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "globaltop.org",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "robloxapps.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "wvvw--roblox.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "pt-shope299.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "shopee-666.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "pemenangshopee121.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "qnomos.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "pemenangshopee35.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "project-trezo-io-logn.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "io-starttrezo.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "nkvzt95nlo-3p8w2xm-7j4d6g-rq519c-7gu.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "allegro.oferta-4827.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563050"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.oferta-4827.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563049"
+    },
+    {
+      "type": "domain",
+      "value": "ventacase.it",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563048"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.oferta-nr32873292.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563046"
+    },
+    {
+      "type": "domain",
+      "value": "system.butudi.com",
+      "source": "PhishTank",
+      "context": "phish Microsoft",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563036"
+    },
+    {
+      "type": "domain",
+      "value": "allegro.pi-oferta2378967856.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563035"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.pi-oferta2378967856.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563034"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.innpozycja543412.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563027"
+    },
+    {
+      "type": "domain",
+      "value": "allegro.innpozycja543412.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563026"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.pl-qly4f.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563025"
+    },
+    {
+      "type": "domain",
+      "value": "allegro.pl-oferta7832973562.cfd",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563020"
+    },
+    {
+      "type": "domain",
+      "value": "formulario-cita-digital-atrga-2026.cr-web.workers.dev",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563009"
+    },
+    {
+      "type": "domain",
+      "value": "b640448bcb219b29.ylgame88.net",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563007"
+    },
+    {
+      "type": "domain",
+      "value": "34fe2882.0574fh.net",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563006"
+    },
+    {
+      "type": "domain",
+      "value": "46ded9cf4339471d.vvkang.net",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563004"
+    },
+    {
+      "type": "domain",
+      "value": "2db35000e4023ffe.tcdryy.net",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563003"
+    },
+    {
+      "type": "domain",
+      "value": "nodichelaro.sbs",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562996"
+    },
+    {
+      "type": "domain",
+      "value": "augenblick-nierman.com",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562992"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.pl-oferta7832973562.cfd",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562989"
+    },
+    {
+      "type": "domain",
+      "value": "browardcourtpdf-viewer.vercel.app",
+      "source": "PhishTank",
+      "context": "phish Adobe",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9562979"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

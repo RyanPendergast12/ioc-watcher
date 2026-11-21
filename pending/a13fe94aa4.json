@@ -1,0 +1,36 @@
+{
+  "id": "a13fe94aa4",
+  "created": "2026-11-21T18:00:46+00:00",
+  "kind": "digest",
+  "target_md": "Threat Intel/Intel Feed/2026-11-21.md",
+  "headline": "Intel digest — 2026-11-21 (3 new reports)",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/",
+      "title": "Dialing for Data: Inside the Com’s High-Profile Heists",
+      "source": "Unit 42",
+      "published": "2026-11-20",
+      "context": "Shinyhunters"
+    },
+    {
+      "type": "report",
+      "value": "https://www.cybertriage.com/blog/ai-in-cyber-triage-4-0/",
+      "title": "AI in Cyber Triage 4.0",
+      "source": "Cyber Triage",
+      "published": "2026-11-20",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.recordedfuture.com/blog/ai-industrial-attack-workflow",
+      "title": "AI Joins the Industrial Attack Workflow",
+      "source": "Recorded Future",
+      "published": "2026-11-20",
+      "context": ""
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}
