@@ -1,0 +1,292 @@
+{
+  "id": "2714100d90",
+  "created": "2026-11-22T18:32:59+00:00",
+  "kind": "bucket",
+  "target_md": "Threat Intel/Raw Threat Intel/BAD DOMAINS.md",
+  "headline": "Raw intel — BAD DOMAINS",
+  "items": [
+    {
+      "type": "domain",
+      "value": "xfinitymailogs.weebly.com",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "magazineluiza-blackfriday.vercel.app",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "comcsast.weebly.com",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "app-kleinanzeigen.de",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "docaposteinfoar24.abrdns.com",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "vodafone-admin-app.netlify.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "sovereign-cipher-f211.shy-art-d1e0.workers.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "web-vodafone.netlify.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "u.to",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "bluetick-aurorafb-1001.vercel.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "radioespectral.scmedios.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "f005.backblazeb2.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "hadiahresmi-jkt648.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "facebookloginf.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "v-i-d.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "instagramrecovery.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "maryam-cognition-presentation.netlify.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "5y617-2kw-21zt-cuprd-21-10-2026-aa.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "dyowl-llu-7y22-1tz7a-22-10-2026-aa.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "ea1u4-ssa-esbo-pw8yx-23-10-2026-aa.pages.dev",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.pl-oqloszenie918419412159126235125.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563347"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.pl-2541525t26364246oferta52441412525623.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563341"
+    },
+    {
+      "type": "domain",
+      "value": "kadrogainatm.online",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563322"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.lokalna-4812.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563318"
+    },
+    {
+      "type": "domain",
+      "value": "allegro.pl-oferta-593.cfd",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563317"
+    },
+    {
+      "type": "domain",
+      "value": "allegro.lokalna-4812.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563309"
+    },
+    {
+      "type": "domain",
+      "value": "olx.ofe.lol",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563308"
+    },
+    {
+      "type": "domain",
+      "value": "allegro.ofe.lol",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563307"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.ofe.lol",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563306"
+    },
+    {
+      "type": "domain",
+      "value": "microsoft.n26-review.online",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563300"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.sshhtp.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563294"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.ogloszenialokalne.cfd",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563292"
+    },
+    {
+      "type": "domain",
+      "value": "pay.finaliza-agora.com",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563280"
+    },
+    {
+      "type": "domain",
+      "value": "walletconnect.wallet-veriffy.com",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563257"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.ogoszenie-8690384.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563256"
+    },
+    {
+      "type": "domain",
+      "value": "accounts-google.wallet-veriffy.com",
+      "source": "PhishTank",
+      "context": "phish Google",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563254"
+    },
+    {
+      "type": "domain",
+      "value": "allegro.ogoszenie-8690384.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563253"
+    },
+    {
+      "type": "domain",
+      "value": "yemo.eu.cc",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563249"
+    },
+    {
+      "type": "domain",
+      "value": "jssgd.com",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563248"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.dk-oferta61519.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9563246"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

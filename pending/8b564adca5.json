@@ -1,0 +1,44 @@
+{
+  "id": "8b564adca5",
+  "created": "2026-11-22T18:32:59+00:00",
+  "kind": "bucket",
+  "target_md": "Threat Intel/Raw Threat Intel/BAD HASHES.md",
+  "headline": "Raw intel — BAD HASHES",
+  "items": [
+    {
+      "type": "ssl_sha1",
+      "value": "fcff16dcbf0ee69046510e2701339fd1bcf80743",
+      "source": "Abuse.ch SSLBL",
+      "context": "ACRStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/fcff16dcbf0ee69046510e2701339fd1bcf80743/",
+      "family": "ACRStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "6104164ecfcc61a632111609af160f303f81f94b",
+      "source": "Abuse.ch SSLBL",
+      "context": "OffLoader C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/6104164ecfcc61a632111609af160f303f81f94b/",
+      "family": "OffLoader"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "fccef6bf642cf2cf648562817b24f7eadc89bd08",
+      "source": "Abuse.ch SSLBL",
+      "context": "ACRStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/fccef6bf642cf2cf648562817b24f7eadc89bd08/",
+      "family": "ACRStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "7b300d4e1d68c65b07fecb53031c40f91f965a0f",
+      "source": "Abuse.ch SSLBL",
+      "context": "WARDENStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/7b300d4e1d68c65b07fecb53031c40f91f965a0f/",
+      "family": "WARDENStealer"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

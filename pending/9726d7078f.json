@@ -1,0 +1,124 @@
+{
+  "id": "9726d7078f",
+  "created": "2026-11-22T18:32:59+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Loaders + Initial Access/Clickfix.md",
+  "headline": "New IOC proposal — Clickfix",
+  "items": [
+    {
+      "type": "domain",
+      "value": "manera.vip",
+      "source": "TweetFeed",
+      "context": "@JAMESWT_WT #ClickFix #infostealer #malware",
+      "ref": "https://x.com/JAMESWT_WT/status/2124304320967410125",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "tlschssl22read.cc",
+      "source": "TweetFeed",
+      "context": "@masaomi346 #ClickFix #malware",
+      "ref": "https://x.com/masaomi346/status/2124327215550939609",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "1lotterys.net",
+      "source": "TweetFeed",
+      "context": "@JAMESWT_WT #ClickFix #malware",
+      "ref": "https://x.com/JAMESWT_WT/status/2124509907508445362",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "3segundos.com.br",
+      "source": "TweetFeed",
+      "context": "@JAMESWT_WT #ClickFix #malware",
+      "ref": "https://x.com/JAMESWT_WT/status/2124509907508445362",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "369group.co",
+      "source": "TweetFeed",
+      "context": "@JAMESWT_WT #ClickFix #malware",
+      "ref": "https://x.com/JAMESWT_WT/status/2124509907508445362",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "360careeradvice.com",
+      "source": "TweetFeed",
+      "context": "@JAMESWT_WT #ClickFix #malware",
+      "ref": "https://x.com/JAMESWT_WT/status/2124509907508445362",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "247productions.nl",
+      "source": "TweetFeed",
+      "context": "@JAMESWT_WT #ClickFix #malware",
+      "ref": "https://x.com/JAMESWT_WT/status/2124509907508445362",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "111rvstorage.com",
+      "source": "TweetFeed",
+      "context": "@JAMESWT_WT #ClickFix #malware",
+      "ref": "https://x.com/JAMESWT_WT/status/2124509907508445362",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "100kinks.com",
+      "source": "TweetFeed",
+      "context": "@JAMESWT_WT #ClickFix #malware",
+      "ref": "https://x.com/JAMESWT_WT/status/2124509907508445362",
+      "family": "ClickFix"
+    },
+    {
+      "type": "sha256",
+      "value": "8f12f3e6ce701b4a1865426cce5c4bceb316faa2ebee7cabc91d4b6769cca08f",
+      "source": "TweetFeed",
+      "context": "@JAMESWT_WT #ClickFix #infostealer #malware",
+      "ref": "https://x.com/JAMESWT_WT/status/2124304320967410125",
+      "family": "ClickFix"
+    },
+    {
+      "type": "sha256",
+      "value": "0e2956241ae7ccedde5cd953c4a85715160643f1c6c1306c2cb297fc57bf6592",
+      "source": "TweetFeed",
+      "context": "@JAMESWT_WT #ClickFix #infostealer #malware",
+      "ref": "https://x.com/JAMESWT_WT/status/2124304320967410125",
+      "family": "ClickFix"
+    },
+    {
+      "type": "sha256",
+      "value": "7d0038a2e934200ab9eb7ad8eed5eb651ac5a9f878c41b1a9ddd11d6f0485fc4",
+      "source": "TweetFeed",
+      "context": "@JAMESWT_WT #ClickFix #infostealer #malware",
+      "ref": "https://x.com/JAMESWT_WT/status/2124304320967410125",
+      "family": "ClickFix"
+    },
+    {
+      "type": "sha256",
+      "value": "292fad9247d8111e5c765825e9b1e142be70f53daf2469062d0532ff44b5f4b8",
+      "source": "TweetFeed",
+      "context": "@JAMESWT_WT #ClickFix #infostealer #malware",
+      "ref": "https://x.com/JAMESWT_WT/status/2124304320967410125",
+      "family": "ClickFix"
+    },
+    {
+      "type": "sha256",
+      "value": "810739de52d83995aa408c670068395c8b51f302bfd556cf564040fd19fb75fd",
+      "source": "TweetFeed",
+      "context": "@JAMESWT_WT #ClickFix #infostealer #malware",
+      "ref": "https://x.com/JAMESWT_WT/status/2124304320967410125",
+      "family": "ClickFix"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}
