@@ -1,0 +1,34 @@
+{
+  "id": "8d0982c817",
+  "created": "2026-11-23T22:40:42+00:00",
+  "kind": "kev",
+  "target_md": "Vulnerability Management/CISA KEV.md",
+  "headline": "CISA KEV — 2 new",
+  "items": [
+    {
+      "type": "cve",
+      "value": "CVE-2026-133968",
+      "source": "CISA KEV",
+      "context": "Project MONAI MONAI Label — Project MONAI MONAI Label Path Traversal Vulnerability",
+      "ref": "https://nvd.nist.gov/vuln/detail/CVE-2026-133968",
+      "dateAdded": "2026-11-23",
+      "dueDate": "2026-11-26",
+      "ransomware": false,
+      "notes": "Project MONAI MONAI Label contains a path traversal vulnerability that allows an unauthenticated remote attacker to write arbitrary files outside the intended datastore directory, potentially resulting in remote code execution."
+    },
+    {
+      "type": "cve",
+      "value": "CVE-2026-134624",
+      "source": "CISA KEV",
+      "context": "N-able MailAssure — N-able MailAssure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability",
+      "ref": "https://nvd.nist.gov/vuln/detail/CVE-2026-134624",
+      "dateAdded": "2026-11-23",
+      "dueDate": "2026-11-26",
+      "ransomware": false,
+      "notes": "N-able MailAssure (SpamExperts) contains a server-side request forgery vulnerability in the LDAP synchronization connection check that allows an authenticated API user to connect to arbitrary internal hosts and ports, determine which are reachable, and send crafted data to internal services."
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

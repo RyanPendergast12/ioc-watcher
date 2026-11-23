@@ -1,0 +1,29 @@
+{
+  "id": "29af1897ca",
+  "created": "2026-11-23T22:40:42+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Botnets/ClawBot + OpenClaw.md",
+  "headline": "New IOC proposal — ClawBot + OpenClaw",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/eu-data-hosting",
+      "title": "Huntress EU Data Hosting: What Phase 1 Means",
+      "source": "Huntress",
+      "published": "2026-11-23",
+      "context": "ClawBot + OpenClaw"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/eu-data-hosting",
+      "title": "Huntress EU Data Hosting: What Phase 1 Means",
+      "source": "Huntress",
+      "published": "2026-11-23",
+      "context": "ClawBot + OpenClaw"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

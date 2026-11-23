@@ -1,0 +1,124 @@
+{
+  "id": "43fedc6d48",
+  "created": "2026-11-23T22:40:42+00:00",
+  "kind": "digest",
+  "target_md": "Threat Intel/Intel Feed/2026-11-23.md",
+  "headline": "Intel digest — 2026-11-23 (14 new reports)",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/eu-data-hosting",
+      "title": "Huntress EU Data Hosting: What Phase 1 Means",
+      "source": "Huntress",
+      "published": "2026-11-23",
+      "context": "ClawBot + OpenClaw"
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/ai/2026/11/muse-ai-got-nosy-and-started-making-things-up-meta-insiders-say",
+      "title": "Muse AI got nosy and started making things up, Meta insiders say",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-23",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/data-breaches/2026/11/fbi-crime-database-reportedly-hacked",
+      "title": "FBI crime database reportedly hacked",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-23",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/threat-intel/2026/11/oxloader-abuses-dll-hijacking-to-distribute-different-malware-families",
+      "title": "OXLoader abuses DLL hijacking to distribute different malware families",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-23",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/news/2026/11/a-week-in-security-november-16-november-22",
+      "title": "A week in security (November 16 – November 22)",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-23",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://research.checkpoint.com/2026/23rd-november-threat-intelligence-report/",
+      "title": "23rd November – Threat Intelligence Report",
+      "source": "Check Point Research",
+      "published": "2026-11-23",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.elastic.co/security-labs/blog/elastic-security-9-6-release-highlights",
+      "title": "Press play on Elastic Security 9.6, banger after banger",
+      "source": "Elastic Security Labs",
+      "published": "2026-11-23",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.elastic.co/security-labs/blog/ai-soc-agents-alertzero-workers",
+      "title": "AlertZero in Elastic Security: Every alert answered. Every decision yours",
+      "source": "Elastic Security Labs",
+      "published": "2026-11-23",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.elastic.co/security-labs/blog/ai-security-detection-rules-coding-agents-mcp",
+      "title": "Elastic ships 143 detection rules for AI agents and LLM platforms",
+      "source": "Elastic Security Labs",
+      "published": "2026-11-23",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.elastic.co/security-labs/blog/prompt-injection-detection-ai-agents",
+      "title": "Thinking fast about prompt injection: New System 1 models in Elastic",
+      "source": "Elastic Security Labs",
+      "published": "2026-11-23",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://securelist.com/black-friday-threat-report-2026/122061/",
+      "title": "Black Friday, red flags: too-good-to-be-true deals hiding real threats",
+      "source": "Securelist",
+      "published": "2026-11-23",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.recordedfuture.com/blog/what-are-threat-intelligence-feeds",
+      "title": "What are threat intelligence feeds?",
+      "source": "Recorded Future",
+      "published": "2026-11-23",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/kepco-aeromexico-defense-leak-rcs-zero-day/",
+      "title": "KEPCO Breach, Aeroméxico Records, Defense Contractor Leak, RCS Zero-Day, Frappe RCE, VPN Access Auction, and Eclipse RaaS",
+      "source": "SOCRadar",
+      "published": "2026-11-23",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.dragos.com/blog/mtsa-risk-management",
+      "title": "The Patch You Didn’t Apply: MTSA’s Risk Management Requirement",
+      "source": "Dragos",
+      "published": "2026-11-23",
+      "context": ""
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}
