@@ -1,0 +1,20 @@
+{
+  "id": "a7c09065df",
+  "created": "2026-11-24T21:13:35+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/RATs/AsyncRAT.md",
+  "headline": "New IOC proposal — AsyncRAT",
+  "items": [
+    {
+      "type": "ssl_sha1",
+      "value": "85fcf32f16ea72d1c6327ab295a9bcbbfd08a644",
+      "source": "Abuse.ch SSLBL",
+      "context": "DCRat C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/85fcf32f16ea72d1c6327ab295a9bcbbfd08a644/",
+      "family": "DCRat"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "b0318b1894",
+  "created": "2026-11-24T21:13:35+00:00",
+  "kind": "kev",
+  "target_md": "Vulnerability Management/CISA KEV.md",
+  "headline": "CISA KEV — 3 new",
+  "items": [
+    {
+      "type": "cve",
+      "value": "CVE-2026-132224",
+      "source": "CISA KEV",
+      "context": "Optimizely Web Experimentation — Optimizely Web Experimentation External Control of Critical State Data Vulnerability",
+      "ref": "https://nvd.nist.gov/vuln/detail/CVE-2026-132224",
+      "dateAdded": "2026-11-24",
+      "dueDate": "2026-11-27",
+      "ransomware": false,
+      "notes": "Optimizely Web Experimentation contains an external control of critical state data vulnerability in its account signup flow that could allow an attacker to impersonate existing customer users and modify Project JavaScript. Successful exploitation can result in attacker-controlled JavaScript being di"
+    },
+    {
+      "type": "cve",
+      "value": "CVE-2026-131914",
+      "source": "CISA KEV",
+      "context": "Idunno AntiCsrf — Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability",
+      "ref": "https://nvd.nist.gov/vuln/detail/CVE-2026-131914",
+      "dateAdded": "2026-11-24",
+      "dueDate": "2026-11-27",
+      "ransomware": false,
+      "notes": "Idunno AntiCsrf contains a deserialization of untrusted data vulnerability that allows an unauthenticated remote attacker to execute arbitrary code via object injection. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transi"
+    },
+    {
+      "type": "cve",
+      "value": "CVE-2026-132165",
+      "source": "CISA KEV",
+      "context": "Drupal Core — Drupal Core Remote Code Execution Vulnerability",
+      "ref": "https://nvd.nist.gov/vuln/detail/CVE-2026-132165",
+      "dateAdded": "2026-11-24",
+      "dueDate": "2026-11-27",
+      "ransomware": false,
+      "notes": "Drupal Core contains a not failing securely vulnerability that could allow an unauthenticated attacker to take over an existing site or execute arbitrary code via the Drupal installer. Under specific conditions, the attacker can use install.php to attempt to reinstall Drupal on the site."
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

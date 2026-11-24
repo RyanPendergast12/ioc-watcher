@@ -1,0 +1,136 @@
+{
+  "id": "9970835c7e",
+  "created": "2026-11-24T21:13:35+00:00",
+  "kind": "bucket",
+  "target_md": "Threat Intel/Raw Threat Intel/BAD HASHES.md",
+  "headline": "Raw intel — BAD HASHES",
+  "items": [
+    {
+      "type": "ssl_sha1",
+      "value": "853c7cbd33c41f2a4651942d34a733403c89910b",
+      "source": "Abuse.ch SSLBL",
+      "context": "FunStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/853c7cbd33c41f2a4651942d34a733403c89910b/",
+      "family": "FunStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "cfaeecab0d464737b0c8132f0302b4a2b5bbd149",
+      "source": "Abuse.ch SSLBL",
+      "context": "FunStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/cfaeecab0d464737b0c8132f0302b4a2b5bbd149/",
+      "family": "FunStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "4da3273d01b7073f7218b69acadf32b0c57f35de",
+      "source": "Abuse.ch SSLBL",
+      "context": "FunStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/4da3273d01b7073f7218b69acadf32b0c57f35de/",
+      "family": "FunStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "5d534c73e1fcbaad51fe510e822619d91e173e52",
+      "source": "Abuse.ch SSLBL",
+      "context": "FunStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/5d534c73e1fcbaad51fe510e822619d91e173e52/",
+      "family": "FunStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "a51757af2edfa00116ada88c46d530474b3eea07",
+      "source": "Abuse.ch SSLBL",
+      "context": "Malware C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/a51757af2edfa00116ada88c46d530474b3eea07/"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "ccc7b03dc0841123fac4c5a518b74953711d8362",
+      "source": "Abuse.ch SSLBL",
+      "context": "PureLogsStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/ccc7b03dc0841123fac4c5a518b74953711d8362/",
+      "family": "PureLogsStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "c350ba2b9f3aeeb536476c111de25f3ccb5bb84e",
+      "source": "Abuse.ch SSLBL",
+      "context": "PureLogsStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/c350ba2b9f3aeeb536476c111de25f3ccb5bb84e/",
+      "family": "PureLogsStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "4d53fbd3a15b5220d7b092c0738564e7e6b8d00a",
+      "source": "Abuse.ch SSLBL",
+      "context": "Malware C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/4d53fbd3a15b5220d7b092c0738564e7e6b8d00a/"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "b26fb89c001f599795543e012bb7c9314f2223ae",
+      "source": "Abuse.ch SSLBL",
+      "context": "PureLogsStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/b26fb89c001f599795543e012bb7c9314f2223ae/",
+      "family": "PureLogsStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "2e6c34df036674422a595d391f1baedb3fb39027",
+      "source": "Abuse.ch SSLBL",
+      "context": "OffLoader C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/2e6c34df036674422a595d391f1baedb3fb39027/",
+      "family": "OffLoader"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "48b0dec6d012b2281e6a23ea563f86e3bfe9f7ac",
+      "source": "Abuse.ch SSLBL",
+      "context": "RatonRAT C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/48b0dec6d012b2281e6a23ea563f86e3bfe9f7ac/",
+      "family": "RatonRAT"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "0facb1061f06b727fa4ae203c7995b491c5b9720",
+      "source": "Abuse.ch SSLBL",
+      "context": "PureLogsStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/0facb1061f06b727fa4ae203c7995b491c5b9720/",
+      "family": "PureLogsStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "42192f0ce811787f0916f65c01d526af6bf5ae76",
+      "source": "Abuse.ch SSLBL",
+      "context": "PureLogsStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/42192f0ce811787f0916f65c01d526af6bf5ae76/",
+      "family": "PureLogsStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "eba4b82e9109fe20877835378d6f4c3613a0d72e",
+      "source": "Abuse.ch SSLBL",
+      "context": "PureRAT C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/eba4b82e9109fe20877835378d6f4c3613a0d72e/",
+      "family": "PureRAT"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "ada4baf8f036019aaa197a7a8caa41f48d263490",
+      "source": "Abuse.ch SSLBL",
+      "context": "Malware C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/ada4baf8f036019aaa197a7a8caa41f48d263490/"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "1f2d77381dd6a71a09ca621790b98506cd065667",
+      "source": "Abuse.ch SSLBL",
+      "context": "Malware C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/1f2d77381dd6a71a09ca621790b98506cd065667/"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

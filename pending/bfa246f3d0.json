@@ -1,0 +1,99 @@
+{
+  "id": "bfa246f3d0",
+  "created": "2026-11-24T21:13:35+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Threat Actors → Ransomware/Brain Cipher.md",
+  "headline": "New IOC proposal — Brain Cipher",
+  "items": [
+    {
+      "type": "onion",
+      "value": "3fyo6xkhdxmcudeq57jc5div4srwnmkq74kyakjehqt22ylgk5v7tlid.onion",
+      "source": "RavenFile Daily-Hunt",
+      "context": "Brain Cipher Ransomware",
+      "ref": "https://github.com/TheRavenFile/Daily-Hunt/blob/7548368d61e20208307a6ccb3d0f0e61a2872a8e/Brain Cipher Ransomware"
+    },
+    {
+      "type": "onion",
+      "value": "6fadokzetvvc645625hoqftpmsp73psewqtszaim5i7li6jxllfakfid.onion",
+      "source": "RavenFile Daily-Hunt",
+      "context": "Brain Cipher Ransomware",
+      "ref": "https://github.com/TheRavenFile/Daily-Hunt/blob/7548368d61e20208307a6ccb3d0f0e61a2872a8e/Brain Cipher Ransomware"
+    },
+    {
+      "type": "onion",
+      "value": "6mj4yngsrfqps4zgwadukf3ruu5ga32k7tqyebaetxjb7zjmqzr3ixyd.onion",
+      "source": "RavenFile Daily-Hunt",
+      "context": "Brain Cipher Ransomware",
+      "ref": "https://github.com/TheRavenFile/Daily-Hunt/blob/7548368d61e20208307a6ccb3d0f0e61a2872a8e/Brain Cipher Ransomware"
+    },
+    {
+      "type": "onion",
+      "value": "bwhppuwnsct2o5fakw5jxxltvn53pb37yghpnkoiukan4et2vr3sm5ad.onion",
+      "source": "RavenFile Daily-Hunt",
+      "context": "Brain Cipher Ransomware",
+      "ref": "https://github.com/TheRavenFile/Daily-Hunt/blob/7548368d61e20208307a6ccb3d0f0e61a2872a8e/Brain Cipher Ransomware"
+    },
+    {
+      "type": "onion",
+      "value": "kmv2ar4m5pkpgii6itk4r6dbel5ht4eqegitv27lapzdvjkcncpqhbad.onion",
+      "source": "RavenFile Daily-Hunt",
+      "context": "Brain Cipher Ransomware",
+      "ref": "https://github.com/TheRavenFile/Daily-Hunt/blob/7548368d61e20208307a6ccb3d0f0e61a2872a8e/Brain Cipher Ransomware"
+    },
+    {
+      "type": "onion",
+      "value": "mvss3t5u4osxamyl4buxthr3cop6ckc3h7m4gakklixmfydtn3klwdyd.onion",
+      "source": "RavenFile Daily-Hunt",
+      "context": "Brain Cipher Ransomware",
+      "ref": "https://github.com/TheRavenFile/Daily-Hunt/blob/7548368d61e20208307a6ccb3d0f0e61a2872a8e/Brain Cipher Ransomware"
+    },
+    {
+      "type": "onion",
+      "value": "qsetwmemu7f533ylmfuksdhdqkiowplbavcfkh5wmmpzy4dsy5q6emqd.onion",
+      "source": "RavenFile Daily-Hunt",
+      "context": "Brain Cipher Ransomware",
+      "ref": "https://github.com/TheRavenFile/Daily-Hunt/blob/7548368d61e20208307a6ccb3d0f0e61a2872a8e/Brain Cipher Ransomware"
+    },
+    {
+      "type": "onion",
+      "value": "vrebntc5k7pftjbtq73sifjkgtu7navlrajyliz4sui3vxe3g47dtfyd.onion",
+      "source": "RavenFile Daily-Hunt",
+      "context": "Brain Cipher Ransomware",
+      "ref": "https://github.com/TheRavenFile/Daily-Hunt/blob/7548368d61e20208307a6ccb3d0f0e61a2872a8e/Brain Cipher Ransomware"
+    },
+    {
+      "type": "onion",
+      "value": "wapz2n5mnmbukixtqtwwwqmzz2fddkpf2wgb6zjagwtv77nb3j377fyd.onion",
+      "source": "RavenFile Daily-Hunt",
+      "context": "Brain Cipher Ransomware",
+      "ref": "https://github.com/TheRavenFile/Daily-Hunt/blob/7548368d61e20208307a6ccb3d0f0e61a2872a8e/Brain Cipher Ransomware"
+    },
+    {
+      "type": "onion",
+      "value": "wj3zzsij5cojh3lg4r7uadchcrspb573xt7c3yops47vldgie7v2lcid.onion",
+      "source": "RavenFile Daily-Hunt",
+      "context": "Brain Cipher Ransomware",
+      "ref": "https://github.com/TheRavenFile/Daily-Hunt/blob/7548368d61e20208307a6ccb3d0f0e61a2872a8e/Brain Cipher Ransomware"
+    },
+    {
+      "type": "report",
+      "value": "https://github.com/TheRavenFile/Daily-Hunt/blob/7548368d61e20208307a6ccb3d0f0e61a2872a8e/Brain Cipher Ransomware",
+      "title": "Brain Cipher Ransomware",
+      "source": "RavenFile Daily-Hunt",
+      "published": "2026-11-24",
+      "context": "Brain Cipher"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://github.com/TheRavenFile/Daily-Hunt/blob/7548368d61e20208307a6ccb3d0f0e61a2872a8e/Brain Cipher Ransomware",
+      "title": "Brain Cipher Ransomware",
+      "source": "RavenFile Daily-Hunt",
+      "published": "2026-11-24",
+      "context": "Brain Cipher"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "259b3c66fe",
+  "created": "2026-11-24T21:13:35+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Botnets/ClawBot + OpenClaw.md",
+  "headline": "New IOC proposal — ClawBot + OpenClaw",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/tradecraft-tuesday-clickfix-lures-and-infrastructure",
+      "title": "A Buffet of ClickFix: Lures, Infrastructure & Payloads",
+      "source": "Huntress",
+      "published": "2026-11-23",
+      "context": "Clickfix, ClawBot + OpenClaw"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/tradecraft-tuesday-clickfix-lures-and-infrastructure",
+      "title": "A Buffet of ClickFix: Lures, Infrastructure & Payloads",
+      "source": "Huntress",
+      "published": "2026-11-23",
+      "context": "Clickfix, ClawBot + OpenClaw"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

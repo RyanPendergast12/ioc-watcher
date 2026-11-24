@@ -1,0 +1,28 @@
+{
+  "id": "b770e79b30",
+  "created": "2026-11-24T21:13:35+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Loaders + Initial Access/WinosStager.md",
+  "headline": "New IOC proposal — WinosStager",
+  "items": [
+    {
+      "type": "domain",
+      "value": "人事異動に伴う給与調整.zip",
+      "source": "TweetFeed",
+      "context": "@bomccss #ValleyRAT",
+      "ref": "https://x.com/bomccss/status/2094968760641970444",
+      "family": "ValleyRAT"
+    },
+    {
+      "type": "ip",
+      "value": "204.194.50.231",
+      "source": "TweetFeed",
+      "context": "@bomccss #ValleyRAT",
+      "ref": "https://x.com/bomccss/status/2125155810372464952",
+      "family": "ValleyRAT"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

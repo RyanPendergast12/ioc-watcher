@@ -1,0 +1,156 @@
+{
+  "id": "241d0e2673",
+  "created": "2026-11-24T21:13:35+00:00",
+  "kind": "digest",
+  "target_md": "Threat Intel/Intel Feed/2026-11-24.md",
+  "headline": "Intel digest — 2026-11-24 (18 new reports)",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://www.reliaquest.com/blog/reliaquest-named-a-challenger-gartner-magic-quadrant-for-integrated-security-operations-center-systems/",
+      "title": "ReliaQuest Named a Challenger in the 2026 Gartner® Magic Quadrant™ for Integrated Security Operations Center Systems",
+      "source": "ReliaQuest",
+      "published": "2026-11-24",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/",
+      "title": "Recent Trends and Tactics of Agentic AI Attacks",
+      "source": "Unit 42",
+      "published": "2026-11-24",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/tradecraft-tuesday-clickfix-lures-and-infrastructure",
+      "title": "A Buffet of ClickFix: Lures, Infrastructure & Payloads",
+      "source": "Huntress",
+      "published": "2026-11-23",
+      "context": "Clickfix, ClawBot + OpenClaw"
+    },
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/why-resilience-has-to-come-first",
+      "title": "Why Resilience Has to Come First",
+      "source": "Huntress",
+      "published": "2026-11-23",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://cyble.com/blog/cve-2026-123890-vcenter-zero-day-patching/",
+      "title": "Patching vCenter Zero-Day Is Only Step One",
+      "source": "Cyble",
+      "published": "2026-11-24",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://blog.alphahunt.io/deep-research-who-generated-the-baseline-your-detector-trusts/",
+      "title": "[DEEP RESEARCH] Who Generated the Baseline Your Detector Trusts?",
+      "source": "AlphaHunt",
+      "published": "2026-11-24",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/ai/2026/11/a-bot-tested-an-aws-key-within-8-seconds-of-exposure",
+      "title": "A bot tested an AWS key within 8 seconds of exposure",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-24",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/news/2026/11/new-windows-security-check-could-let-apps-block-access",
+      "title": "New Windows security check could let apps block access",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-24",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/ai/2026/11/researchers-planted-secrets-in-ai-prompts-attackers-found-them",
+      "title": "Researchers planted secrets in AI prompts. Attackers found them",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-24",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://research.checkpoint.com/2026/volant-manticore-flying-under-the-radar/",
+      "title": "Volant Manticore: Flying Under the Radar",
+      "source": "Check Point Research",
+      "published": "2026-11-24",
+      "context": "HandalaMuddyWater"
+    },
+    {
+      "type": "report",
+      "value": "https://www.recordedfuture.com/blog/cyber-threats-space-race",
+      "title": "The Cyber Threats Behind Space Race 2.0",
+      "source": "Recorded Future",
+      "published": "2026-11-24",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.rapid7.com/blog/post/dr-comparing-mdr-providers-scorecard",
+      "title": "How to compare MDR providers when every proposal looks promising",
+      "source": "Rapid7",
+      "published": "2026-11-24",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.rapid7.com/blog/post/ra-rapid7-analysis-vmware-vcenter-srp-authentication-bypass-to-root-cve-2026-123890",
+      "title": "Rapid7 Analysis: VMware vCenter SRP Authentication Bypass to Root (CVE-2026-123890)",
+      "source": "Rapid7",
+      "published": "2026-11-24",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/cisco-expressway-rce-cve-2026-76466-exploited/",
+      "title": "Cisco Expressway RCE (CVE-2026-76466) Exploited for Root Access",
+      "source": "SOCRadar",
+      "published": "2026-11-24",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/screenconnect-cve-2026-84869-exploitation/",
+      "title": "ScreenConnect Flaw CVE-2026-84869 Exploited",
+      "source": "SOCRadar",
+      "published": "2026-11-24",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.crowdstrike.com/en-us/blog/reprioritizing-automated-leads-crowdstrike-signal/",
+      "title": "Reprioritizing Automated Leads with CrowdStrike Signal",
+      "source": "CrowdStrike",
+      "published": "2026-11-24",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.levelblue.com/blogs/spiderlabs-blog/the-n0n-data-breach-an-analysis-of-the-exposed-jpmorgan-chase-visa-and-mastercard-data",
+      "title": "The n0n Data Breach: An Analysis of the Exposed JPMorgan Chase, Visa, and Mastercard Data",
+      "source": "LevelBlue SpiderLabs (ex-Cybereason)",
+      "published": "2026-11-24",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://expel.com/blog/meet-the-expletive-caroline-swanson/",
+      "title": "Meet the Expletive: Caroline Swanson, Senior Program Manager of Product Enablement",
+      "source": "Expel",
+      "published": "2026-11-24",
+      "context": ""
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "78f5f6ae22",
+  "created": "2026-11-24T21:13:35+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Threat Actors → Cybercrime + Other/HandalaMuddyWater.md",
+  "headline": "New IOC proposal — HandalaMuddyWater",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://research.checkpoint.com/2026/volant-manticore-flying-under-the-radar/",
+      "title": "Volant Manticore: Flying Under the Radar",
+      "source": "Check Point Research",
+      "published": "2026-11-24",
+      "context": "HandalaMuddyWater"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://research.checkpoint.com/2026/volant-manticore-flying-under-the-radar/",
+      "title": "Volant Manticore: Flying Under the Radar",
+      "source": "Check Point Research",
+      "published": "2026-11-24",
+      "context": "HandalaMuddyWater"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

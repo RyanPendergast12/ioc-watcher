@@ -1,0 +1,292 @@
+{
+  "id": "92f971c4f4",
+  "created": "2026-11-24T21:13:35+00:00",
+  "kind": "bucket",
+  "target_md": "Threat Intel/Raw Threat Intel/BAD DOMAINS.md",
+  "headline": "Raw intel — BAD DOMAINS",
+  "items": [
+    {
+      "type": "domain",
+      "value": "ephemeral-squirrel-f84ee4.netlify.app",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "review102-account-activity286.weebly.com",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "ssupport-hcps-stf.weebly.com",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "teamweb45.weebly.com",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "anyfdhdgdhf.weebly.com",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "xfinityloggingin.weebly.com",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "att-103444-106506.square.site",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "tirol-kliniken.weebly.com",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "belepes-telekom-hu.vh22325.vh.net.pl",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "id2140.business-support-partner.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "dan-san2006.github.io",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "instagramloginpassword.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "id2138.business-support-partner.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "hotelbs.websiteseguro.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "madethis.website",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "raeward-mymidasbuy.de5.net",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "ifps62-458rn4tdu-arcadawebapps2.vercel.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "netflix-clonepractice.vercel.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "c1t77f-kehr8a7q8-arcadawebapps2.vercel.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "notflix-azure.vercel.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "zedelivery-desconto.vercel.app",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9564810"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.pl-oqloszenie9318592960125512.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9564808"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.eofer234.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9564807"
+    },
+    {
+      "type": "domain",
+      "value": "allegro.pl-oqloszenie9318592960125512.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9564805"
+    },
+    {
+      "type": "domain",
+      "value": "allegro.ofartaa-944312.top",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9564804"
+    },
+    {
+      "type": "domain",
+      "value": "allegro.oferta-9514.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9564803"
+    },
+    {
+      "type": "domain",
+      "value": "allegro.eofer234.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9564802"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.id-ungfjh4kf9zf.rest",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9564801"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.ofartaa-944312.top",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9564800"
+    },
+    {
+      "type": "domain",
+      "value": "allegro.id-ungfjh4kf9zf.rest",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9564798"
+    },
+    {
+      "type": "domain",
+      "value": "ze-delivery-shop.vercel.app",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9564797"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.aukcja316.shop",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9564793"
+    },
+    {
+      "type": "domain",
+      "value": "prime-assistance.com",
+      "source": "PhishTank",
+      "context": "phish Amazon.com",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9564792"
+    },
+    {
+      "type": "domain",
+      "value": "scdy999.com",
+      "source": "PhishTank",
+      "context": "phish Amazon.com",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9564790"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.oferta-9514.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9564789"
+    },
+    {
+      "type": "domain",
+      "value": "fund-her.com",
+      "source": "PhishTank",
+      "context": "phish Amazon.com",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9564785"
+    },
+    {
+      "type": "domain",
+      "value": "ksyjzb.com",
+      "source": "PhishTank",
+      "context": "phish Amazon.com",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9564784"
+    },
+    {
+      "type": "domain",
+      "value": "xyptscps.com",
+      "source": "PhishTank",
+      "context": "phish Amazon.com",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9564783"
+    },
+    {
+      "type": "domain",
+      "value": "wmyblog.com",
+      "source": "PhishTank",
+      "context": "phish Amazon.com",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9564782"
+    },
+    {
+      "type": "domain",
+      "value": "olx.kupuje.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9564778"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}
