@@ -1,0 +1,43 @@
+{
+  "id": "3a460614cf",
+  "created": "2026-11-25T20:29:15+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Threat Actors → Cybercrime + Other/Shinyhunters.md",
+  "headline": "New IOC proposal — Shinyhunters",
+  "items": [
+    {
+      "type": "sha1",
+      "value": "27da9d5b183247cadfc322880abc63e30f73822e",
+      "source": "SOCRadar",
+      "context": "ShinyHunters Claims Comeback With Revoked PGP Keys After Arrests",
+      "ref": "https://socradar.io/blog/shinyhunters-return-revoked-pgp-keys/"
+    },
+    {
+      "type": "sha1",
+      "value": "f4953411767de71bedcdabcb76f4e26f7a20978a",
+      "source": "SOCRadar",
+      "context": "ShinyHunters Claims Comeback With Revoked PGP Keys After Arrests",
+      "ref": "https://socradar.io/blog/shinyhunters-return-revoked-pgp-keys/"
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/shinyhunters-return-revoked-pgp-keys/",
+      "title": "ShinyHunters Claims Comeback With Revoked PGP Keys After Arrests",
+      "source": "SOCRadar",
+      "published": "2026-11-25",
+      "context": "Shinyhunters"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/shinyhunters-return-revoked-pgp-keys/",
+      "title": "ShinyHunters Claims Comeback With Revoked PGP Keys After Arrests",
+      "source": "SOCRadar",
+      "published": "2026-11-25",
+      "context": "Shinyhunters"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

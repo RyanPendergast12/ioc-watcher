@@ -1,0 +1,100 @@
+{
+  "id": "63051d1420",
+  "created": "2026-11-25T20:29:15+00:00",
+  "kind": "bucket",
+  "target_md": "Threat Intel/Raw Threat Intel/BAD HASHES.md",
+  "headline": "Raw intel — BAD HASHES",
+  "items": [
+    {
+      "type": "ssl_sha1",
+      "value": "9ca8233118bf720ea5c2e141f0dde31c4cc9c818",
+      "source": "Abuse.ch SSLBL",
+      "context": "PureLogsStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/9ca8233118bf720ea5c2e141f0dde31c4cc9c818/",
+      "family": "PureLogsStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "07afce465ef29e5bd8b2bf1c86e81cfe37424878",
+      "source": "Abuse.ch SSLBL",
+      "context": "PureLogsStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/07afce465ef29e5bd8b2bf1c86e81cfe37424878/",
+      "family": "PureLogsStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "040ebeff29b5e3f41e6013e783035be7666fcc53",
+      "source": "Abuse.ch SSLBL",
+      "context": "WeedStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/040ebeff29b5e3f41e6013e783035be7666fcc53/",
+      "family": "WeedStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "9112f43d7b63c2165e9d4f5e0a4b0fbeb2655e23",
+      "source": "Abuse.ch SSLBL",
+      "context": "PureLogsStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/9112f43d7b63c2165e9d4f5e0a4b0fbeb2655e23/",
+      "family": "PureLogsStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "7b9d238f14baeab95bdaf3180491bfe280ce44f3",
+      "source": "Abuse.ch SSLBL",
+      "context": "OffLoader C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/7b9d238f14baeab95bdaf3180491bfe280ce44f3/",
+      "family": "OffLoader"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "2e1c386f86155aa8886428c40f01681c692f286f",
+      "source": "Abuse.ch SSLBL",
+      "context": "FunStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/2e1c386f86155aa8886428c40f01681c692f286f/",
+      "family": "FunStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "900cfd996ea2d66b333f8a2408cb4071b2239ff7",
+      "source": "Abuse.ch SSLBL",
+      "context": "FunStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/900cfd996ea2d66b333f8a2408cb4071b2239ff7/",
+      "family": "FunStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "0f2c70bc8079380e50364e46bbe8458606091fe3",
+      "source": "Abuse.ch SSLBL",
+      "context": "Malware distribution",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/0f2c70bc8079380e50364e46bbe8458606091fe3/",
+      "family": "Malware distribution"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "d7d6b0e7c29950bee702ea2b0f253d6d4a232bd8",
+      "source": "Abuse.ch SSLBL",
+      "context": "PureLogsStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/d7d6b0e7c29950bee702ea2b0f253d6d4a232bd8/",
+      "family": "PureLogsStealer"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "0946c008154ff2809eca3d8c9e28e0ec0b8bacac",
+      "source": "Abuse.ch SSLBL",
+      "context": "SeroRAT C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/0946c008154ff2809eca3d8c9e28e0ec0b8bacac/",
+      "family": "SeroRAT"
+    },
+    {
+      "type": "ssl_sha1",
+      "value": "5848fc12988a902dc95fd31897fc72884d332a47",
+      "source": "Abuse.ch SSLBL",
+      "context": "WeedStealer C&C",
+      "ref": "https://sslbl.abuse.ch/ssl-certificates/sha1/5848fc12988a902dc95fd31897fc72884d332a47/",
+      "family": "WeedStealer"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

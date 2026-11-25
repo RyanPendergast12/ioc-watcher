@@ -1,0 +1,156 @@
+{
+  "id": "58b54d89a8",
+  "created": "2026-11-25T20:29:15+00:00",
+  "kind": "digest",
+  "target_md": "Threat Intel/Intel Feed/2026-11-25.md",
+  "headline": "Intel digest — 2026-11-25 (18 new reports)",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://unit42.paloaltonetworks.com/ai-threat-horizon/",
+      "title": "The AI Threat Horizon: Why Speed, Edge AI and Baselines Are Our Best Defense",
+      "source": "Unit 42",
+      "published": "2026-11-25",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/",
+      "title": "NGINX HTTP/2 Use-After-Free: CVE-2026-123633",
+      "source": "Unit 42",
+      "published": "2026-11-24",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://blog.alphahunt.io/signals-weekly-armory-castle-turns-vcenter-access-into-an-identity-problem/",
+      "title": "[SIGNALS WEEKLY] ARMORY CASTLE Turns vCenter Access Into an Identity Problem",
+      "source": "AlphaHunt",
+      "published": "2026-11-25",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/ai/2026/11/ai-agents-found-an-unpatched-flaw-after-being-told-to-break-in",
+      "title": "AI agents found an unpatched flaw after being told to “break in”",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-25",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/data-breaches/2026/11/two-exposed-databases-held-over-3-5-billion-records",
+      "title": "Two exposed databases held over 3.5 billion records",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-25",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://blog.talosintelligence.com/oh-is-it-thanksgiving-i-hadnt-noticed/",
+      "title": "Oh, is it Thanksgiving? I hadn’t noticed!",
+      "source": "Cisco Talos",
+      "published": "2026-11-25",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm/",
+      "title": "The Great Escape: Tradecraft insights from an agentic swarm",
+      "source": "Cisco Talos",
+      "published": "2026-11-25",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://blog.talosintelligence.com/securing-grandmas-groceries-with-pierre-cadieux/",
+      "title": "Securing Grandma's groceries with Pierre Cadieux",
+      "source": "Cisco Talos",
+      "published": "2026-11-25",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/",
+      "title": "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse",
+      "source": "Microsoft Threat Intelligence",
+      "published": "2026-11-25",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.microsoft.com/en-us/security/blog/2026/11/25/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-email-security/",
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security",
+      "source": "Microsoft Threat Intelligence",
+      "published": "2026-11-25",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://securelist.com/tr/how-to-protect-against-preinstalled-android-malware/122093/",
+      "title": "How to protect against preinstalled Android malware",
+      "source": "Securelist",
+      "published": "2026-11-25",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.rapid7.com/blog/post/so-rapid7-named-leader-2026-gartner-magic-quadrant-integrated-security-operations-center-systems-isocs",
+      "title": "Rapid7 Named a Leader in the 2026 Gartner® Magic Quadrant™ for Integrated Security Operations Center Systems",
+      "source": "Rapid7",
+      "published": "2026-11-25",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.rapid7.com/blog/post/it-2026-cybersecurity-predictions-wrong-or-right",
+      "title": "Our 2026 Cybersecurity Predictions: What We Got Right, What We Got Wrong, and What Changed",
+      "source": "Rapid7",
+      "published": "2026-11-25",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.rapid7.com/blog/post/etr-cve-2026-123903-critical-vmware-directory-service-authentication-bypass-affects-vcenter",
+      "title": "CVE-2026-123903: Critical VMware Directory Service Authentication Bypass affects vCenter",
+      "source": "Rapid7",
+      "published": "2026-11-25",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/hex-pm-rce-cve-2026-129514-exploited/",
+      "title": "Hex.pm RCE (CVE-2026-129514) Exploited in Server Attack",
+      "source": "SOCRadar",
+      "published": "2026-11-25",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/shinyhunters-return-revoked-pgp-keys/",
+      "title": "ShinyHunters Claims Comeback With Revoked PGP Keys After Arrests",
+      "source": "SOCRadar",
+      "published": "2026-11-25",
+      "context": "Shinyhunters"
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/cve-2026-123903-vcenter-auth-bypass/",
+      "title": "CVE-2026-123903: Critical Auth Bypass Hits VMware vCenter",
+      "source": "SOCRadar",
+      "published": "2026-11-25",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-isoc/",
+      "title": "CrowdStrike Accelerates the Shift to the Agentic SOC",
+      "source": "CrowdStrike",
+      "published": "2026-11-25",
+      "context": ""
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

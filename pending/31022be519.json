@@ -1,0 +1,124 @@
+{
+  "id": "31022be519",
+  "created": "2026-11-25T20:29:15+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Loaders + Initial Access/Clickfix.md",
+  "headline": "New IOC proposal — Clickfix",
+  "items": [
+    {
+      "type": "domain",
+      "value": "api-com.cfd",
+      "source": "TweetFeed",
+      "context": "@ShanHolo #ClickFix",
+      "ref": "https://x.com/ShanHolo/status/2125523026078814493",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "gwebportal.duckdns.org",
+      "source": "TweetFeed",
+      "context": "@skocherhan #AiTM #ClickFix #phishing",
+      "ref": "https://x.com/skocherhan/status/2125558673992753591",
+      "family": "AiTM"
+    },
+    {
+      "type": "domain",
+      "value": "browse-login.info",
+      "source": "TweetFeed",
+      "context": "@masaomi346 #ClickFix #malware",
+      "ref": "https://x.com/masaomi346/status/2125569703053774908",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "sksports.pk",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #malware #phishing",
+      "ref": "https://x.com/Malwarehunterr/status/2125654172901191824",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "cofic.cfd",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #malware #phishing",
+      "ref": "https://x.com/Malwarehunterr/status/2125654172901191824",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "mail.invitation-meeting.us.com",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #malware #phishing",
+      "ref": "https://x.com/Malwarehunterr/status/2125654172901191824",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "invitation-meeting.us.com",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #malware #phishing",
+      "ref": "https://x.com/Malwarehunterr/status/2125654172901191824",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "js-static.world",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #malware #phishing",
+      "ref": "https://x.com/Malwarehunterr/status/2125654172901191824",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "js-static.website",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #malware #phishing",
+      "ref": "https://x.com/Malwarehunterr/status/2125654172901191824",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "js-static.live",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #malware #phishing",
+      "ref": "https://x.com/Malwarehunterr/status/2125654172901191824",
+      "family": "ClickFix"
+    },
+    {
+      "type": "domain",
+      "value": "js-static.sbs",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #malware #phishing",
+      "ref": "https://x.com/Malwarehunterr/status/2125654172901191824",
+      "family": "ClickFix"
+    },
+    {
+      "type": "ip",
+      "value": "109.236.82.61",
+      "source": "TweetFeed",
+      "context": "@skocherhan #AiTM #ClickFix #phishing",
+      "ref": "https://x.com/skocherhan/status/2125558673992753591",
+      "family": "AiTM"
+    },
+    {
+      "type": "ip",
+      "value": "31.56.19.150",
+      "source": "TweetFeed",
+      "context": "@momomopas #AiTM #ClickFix #phishing",
+      "ref": "https://x.com/momomopas/status/2111467680981246260",
+      "family": "AiTM"
+    },
+    {
+      "type": "ip",
+      "value": "95.182.82.35",
+      "source": "TweetFeed",
+      "context": "@Malwarehunterr #ClickFix #malware #phishing",
+      "ref": "https://x.com/Malwarehunterr/status/2125654172901191824",
+      "family": "ClickFix"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

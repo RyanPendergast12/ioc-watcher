@@ -1337,7 +1337,123 @@
     "domain:require5.dynu.org": "2026-11-24",
     "cve:CVE-2026-132224": "2026-11-24",
     "cve:CVE-2026-131914": "2026-11-24",
-    "cve:CVE-2026-132165": "2026-11-24"
+    "cve:CVE-2026-132165": "2026-11-24",
+    "ssl_sha1:3ec4de7981b35b599489e6131411bfab779a3993": "2026-11-25",
+    "ssl_sha1:5531f1af029fc7cccf27c690b6e38a11689308e6": "2026-11-25",
+    "ssl_sha1:8ba9366306a3c0801ab5b7a4a52d9a19293cc867": "2026-11-25",
+    "ssl_sha1:85aa46f55739ebba1c0ad050262fdab387ab3db3": "2026-11-25",
+    "domain:api-com.cfd": "2026-11-25",
+    "domain:gwebportal.duckdns.org": "2026-11-25",
+    "domain:browse-login.info": "2026-11-25",
+    "domain:sksports.pk": "2026-11-25",
+    "domain:cofic.cfd": "2026-11-25",
+    "domain:mail.invitation-meeting.us.com": "2026-11-25",
+    "domain:invitation-meeting.us.com": "2026-11-25",
+    "domain:js-static.world": "2026-11-25",
+    "domain:js-static.website": "2026-11-25",
+    "domain:js-static.live": "2026-11-25",
+    "domain:js-static.sbs": "2026-11-25",
+    "ip:109.236.82.61": "2026-11-25",
+    "ip:31.56.19.150": "2026-11-25",
+    "ip:95.182.82.35": "2026-11-25",
+    "domain:vmi3716826.contaboserver.net": "2026-11-25",
+    "domain:capable-eclair-6d606f.netlify.app": "2026-11-25",
+    "domain:ifps62-ag1rcrr19-arcadawebapps2.vercel.app": "2026-11-25",
+    "domain:00387sfyrukkuyuyfygfmank85387sfyruk5387sfyrukkuyuyfygfmank8538.weeblysite.com": "2026-11-25",
+    "domain:signin-att-yahoo.weeblysite.com": "2026-11-25",
+    "domain:hsbcau.jrni.com": "2026-11-25",
+    "domain:djicameradrones.store": "2026-11-25",
+    "domain:ladysmithpetsupplies-co-uk-109425-crp.pages.dev": "2026-11-25",
+    "domain:official-good.mymidasbuy.cc.cd": "2026-11-25",
+    "domain:mymidasbuys.gamerstored.com": "2026-11-25",
+    "domain:netflix-clone-nine-beta-20.vercel.app": "2026-11-25",
+    "domain:ifps62-58hfrz16z-arcadawebapps2.vercel.app": "2026-11-25",
+    "domain:web.whatsappe.us.cc": "2026-11-25",
+    "domain:rajafortei.pages.dev": "2026-11-25",
+    "domain:akukuat.pages.dev": "2026-11-25",
+    "domain:xjo25-1mg-gw1i-fnru2-28-09-2026-hh.pages.dev": "2026-11-25",
+    "domain:ifps62-af7a9tq4g-arcadawebapps2.vercel.app": "2026-11-25",
+    "domain:c1t77f.vercel.app": "2026-11-25",
+    "domain:ifps62-5bi67kqct-arcadawebapps2.vercel.app": "2026-11-25",
+    "domain:netflix-clone-chi-pearl.vercel.app": "2026-11-25",
+    "domain:allegrolokalnie.oferta757434.shop": "2026-11-25",
+    "domain:lincolngalleria.com": "2026-11-25",
+    "domain:n77js.roca-divecencer.nu": "2026-11-25",
+    "domain:quanxinyin.com": "2026-11-25",
+    "domain:allegro.pl-oferta809543.shop": "2026-11-25",
+    "domain:allegro.pl145.sbs": "2026-11-25",
+    "domain:allegrolokalnie.pl145.sbs": "2026-11-25",
+    "domain:allegrolokalnie.pl-oferta809543.shop": "2026-11-25",
+    "domain:serasa-limpa-nome.vercel.app": "2026-11-25",
+    "domain:allegrolokalnie.0ferta73618.top": "2026-11-25",
+    "domain:allegro.0ferta73618.top": "2026-11-25",
+    "domain:serasalimpanome.vercel.app": "2026-11-25",
+    "domain:limpanomeserasa.vercel.app": "2026-11-25",
+    "domain:ctm7z7p3.com": "2026-11-25",
+    "domain:albigeoisfanion.info": "2026-11-25",
+    "domain:pjempresasenegocios.com": "2026-11-25",
+    "domain:pannier.dire5783102.pro": "2026-11-25",
+    "domain:plumo.dire5783102.pro": "2026-11-25",
+    "domain:vassal.dire5783102.pro": "2026-11-25",
+    "domain:tremu.dire5783102.pro": "2026-11-25",
+    "ssl_sha1:9ca8233118bf720ea5c2e141f0dde31c4cc9c818": "2026-11-25",
+    "ssl_sha1:07afce465ef29e5bd8b2bf1c86e81cfe37424878": "2026-11-25",
+    "ssl_sha1:040ebeff29b5e3f41e6013e783035be7666fcc53": "2026-11-25",
+    "ssl_sha1:9112f43d7b63c2165e9d4f5e0a4b0fbeb2655e23": "2026-11-25",
+    "ssl_sha1:7b9d238f14baeab95bdaf3180491bfe280ce44f3": "2026-11-25",
+    "ssl_sha1:2e1c386f86155aa8886428c40f01681c692f286f": "2026-11-25",
+    "ssl_sha1:900cfd996ea2d66b333f8a2408cb4071b2239ff7": "2026-11-25",
+    "ssl_sha1:0f2c70bc8079380e50364e46bbe8458606091fe3": "2026-11-25",
+    "ssl_sha1:d7d6b0e7c29950bee702ea2b0f253d6d4a232bd8": "2026-11-25",
+    "ssl_sha1:0946c008154ff2809eca3d8c9e28e0ec0b8bacac": "2026-11-25",
+    "ssl_sha1:5848fc12988a902dc95fd31897fc72884d332a47": "2026-11-25",
+    "ip:141.98.11.11": "2026-11-25",
+    "ip:66.228.42.204": "2026-11-25",
+    "ip:195.178.110.108": "2026-11-25",
+    "ip:35.210.11.157": "2026-11-25",
+    "ip:35.210.226.156": "2026-11-25",
+    "ip:35.210.11.252": "2026-11-25",
+    "ip:35.210.228.188": "2026-11-25",
+    "ip:165.227.160.189": "2026-11-25",
+    "ip:35.210.125.227": "2026-11-25",
+    "ip:35.210.159.255": "2026-11-25",
+    "ip:191.210.72.37": "2026-11-25",
+    "ip:111.119.44.29": "2026-11-25",
+    "ip:49.173.65.19": "2026-11-25",
+    "ip:207.175.102.161": "2026-11-25",
+    "ip:169.40.142.224": "2026-11-25",
+    "ip:193.37.32.219": "2026-11-25",
+    "ip:34.52.140.48": "2026-11-25",
+    "ip:217.76.63.25": "2026-11-25",
+    "ip:40.74.211.76": "2026-11-25",
+    "ip:64.225.24.145": "2026-11-25",
+    "ip:45.156.129.177": "2026-11-25",
+    "ip:83.217.174.36": "2026-11-25",
+    "ip:185.218.86.7": "2026-11-25",
+    "ip:34.38.10.57": "2026-11-25",
+    "ip:185.194.178.43": "2026-11-25",
+    "ip:137.184.85.24": "2026-11-25",
+    "ip:20.51.247.133": "2026-11-25",
+    "ip:34.156.62.96": "2026-11-25",
+    "ip:201.79.44.88": "2026-11-25",
+    "ip:216.180.246.230": "2026-11-25",
+    "ip:151.242.242.21": "2026-11-25",
+    "ip:34.76.226.40": "2026-11-25",
+    "ip:35.210.53.51": "2026-11-25",
+    "ip:2.27.61.69": "2026-11-25",
+    "domain:require4.dynu.net": "2026-11-25",
+    "sha1:27da9d5b183247cadfc322880abc63e30f73822e": "2026-11-25",
+    "sha1:f4953411767de71bedcdabcb76f4e26f7a20978a": "2026-11-25",
+    "cve:CVE-2026-103406": "2026-11-25",
+    "cve:CVE-2026-133469": "2026-11-25",
+    "cve:CVE-2025-41450": "2026-11-25",
+    "cve:CVE-2023-25914": "2026-11-25",
+    "cve:CVE-2023-25915": "2026-11-25",
+    "cve:CVE-2026-133324": "2026-11-25",
+    "cve:CVE-2026-133275": "2026-11-25",
+    "cve:CVE-2026-133311": "2026-11-25",
+    "cve:CVE-2026-133303": "2026-11-25",
+    "cve:CVE-2026-133323": "2026-11-25"
   },
   "rss": {
     "https://thedfirreport.com/feed/": [
@@ -1371,7 +1487,9 @@
       "https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-governments/",
       "https://unit42.paloaltonetworks.com/optimjack-supply-chain-attack/",
       "https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/",
-      "https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/"
+      "https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/",
+      "https://unit42.paloaltonetworks.com/ai-threat-horizon/",
+      "https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/"
     ],
     "https://www.huntress.com/blog/rss.xml": [
       "https://www.huntress.com/blog/security-insights-report",
@@ -1459,7 +1577,8 @@
       "https://blog.alphahunt.io/deep-research-the-trusted-carrier-was-also-the-attack-source/",
       "https://blog.alphahunt.io/signals-weekly-accelerating-threats-in-trusted-digital-supply-chains/",
       "https://blog.alphahunt.io/deep-research-what-did-the-legacy-system-still-authorize/",
-      "https://blog.alphahunt.io/deep-research-who-generated-the-baseline-your-detector-trusts/"
+      "https://blog.alphahunt.io/deep-research-who-generated-the-baseline-your-detector-trusts/",
+      "https://blog.alphahunt.io/signals-weekly-armory-castle-turns-vcenter-access-into-an-identity-problem/"
     ],
     "https://redcanary.com/feed/": [
       "https://redcanary.com/blog/threat-intelligence/intelligence-insights-august-2026/",
@@ -1514,7 +1633,9 @@
       "https://www.malwarebytes.com/blog/news/2026/11/a-week-in-security-november-16-november-22",
       "https://www.malwarebytes.com/blog/ai/2026/11/a-bot-tested-an-aws-key-within-8-seconds-of-exposure",
       "https://www.malwarebytes.com/blog/news/2026/11/new-windows-security-check-could-let-apps-block-access",
-      "https://www.malwarebytes.com/blog/ai/2026/11/researchers-planted-secrets-in-ai-prompts-attackers-found-them"
+      "https://www.malwarebytes.com/blog/ai/2026/11/researchers-planted-secrets-in-ai-prompts-attackers-found-them",
+      "https://www.malwarebytes.com/blog/ai/2026/11/ai-agents-found-an-unpatched-flaw-after-being-told-to-break-in",
+      "https://www.malwarebytes.com/blog/data-breaches/2026/11/two-exposed-databases-held-over-3-5-billion-records"
     ],
     "https://research.checkpoint.com/feed/": [
       "https://research.checkpoint.com/2026/16th-november-threat-intelligence-report/",
@@ -1571,7 +1692,10 @@
       "https://blog.talosintelligence.com/the-challenge-of-defending-against-bulletproof-dead-drops-on-public-blockchains/",
       "https://blog.talosintelligence.com/uat-12643-suspected-north-korea-aligned-actor-blends-blockchain-resilience-with-targeted-infostealing/",
       "https://blog.talosintelligence.com/java4shell/",
-      "https://blog.talosintelligence.com/the-internet-needs-a-nap-and-you-do-too/"
+      "https://blog.talosintelligence.com/the-internet-needs-a-nap-and-you-do-too/",
+      "https://blog.talosintelligence.com/oh-is-it-thanksgiving-i-hadnt-noticed/",
+      "https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm/",
+      "https://blog.talosintelligence.com/securing-grandmas-groceries-with-pierre-cadieux/"
     ],
     "https://www.welivesecurity.com/en/rss/feed/": [
       "https://www.welivesecurity.com/en/cybersecurity/gta-vi-isnt-out-yet-scams-full-swing/",
@@ -1632,7 +1756,9 @@
       "https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/",
       "https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/",
       "https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/",
-      "https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/"
+      "https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
+      "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/",
+      "https://www.microsoft.com/en-us/security/blog/2026/11/25/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-email-security/"
     ],
     "https://www.sentinelone.com/labs/feed/": [
       "https://www.sentinelone.com/labs/labscon26-replay-let-s-get-physical-why-cybersecurity-needs-hardware-based-security-to-survive-ai/",
@@ -1710,7 +1836,8 @@
       "https://securelist.com/operation-shadowcloud-graphdoor/122005/",
       "https://securelist.com/operation-shadowcloud-gitdoor/122004/",
       "https://securelist.com/auditteam-opsagent-forced-audit/122031/",
-      "https://securelist.com/black-friday-threat-report-2026/122061/"
+      "https://securelist.com/black-friday-threat-report-2026/122061/",
+      "https://securelist.com/tr/how-to-protect-against-preinstalled-android-malware/122093/"
     ],
     "https://www.zscaler.com/blogs/feeds/security-research": [
       "https://www.zscaler.com/blogs/security-research/cve-2026-111497-node2shell-http2shell-vulnerability-may-allow-rce",
@@ -1835,7 +1962,10 @@
       "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-breaking-zimbra-s-identity-boundaries",
       "https://www.rapid7.com/blog/post/etr-cve-2026-123890-critical-authentication-bypass-vmware-vcenter",
       "https://www.rapid7.com/blog/post/dr-comparing-mdr-providers-scorecard",
-      "https://www.rapid7.com/blog/post/ra-rapid7-analysis-vmware-vcenter-srp-authentication-bypass-to-root-cve-2026-123890"
+      "https://www.rapid7.com/blog/post/ra-rapid7-analysis-vmware-vcenter-srp-authentication-bypass-to-root-cve-2026-123890",
+      "https://www.rapid7.com/blog/post/so-rapid7-named-leader-2026-gartner-magic-quadrant-integrated-security-operations-center-systems-isocs",
+      "https://www.rapid7.com/blog/post/it-2026-cybersecurity-predictions-wrong-or-right",
+      "https://www.rapid7.com/blog/post/etr-cve-2026-123903-critical-vmware-directory-service-authentication-bypass-affects-vcenter"
     ],
     "https://socradar.io/feed/": [
       "https://socradar.io/blog/severvault-infostealer-logs-ai-profiles/",
@@ -1859,7 +1989,10 @@
       "https://socradar.io/blog/babidighost-ai-augmented-cybercrime/",
       "https://socradar.io/blog/kepco-aeromexico-defense-leak-rcs-zero-day/",
       "https://socradar.io/blog/cisco-expressway-rce-cve-2026-76466-exploited/",
-      "https://socradar.io/blog/screenconnect-cve-2026-84869-exploitation/"
+      "https://socradar.io/blog/screenconnect-cve-2026-84869-exploitation/",
+      "https://socradar.io/blog/hex-pm-rce-cve-2026-129514-exploited/",
+      "https://socradar.io/blog/shinyhunters-return-revoked-pgp-keys/",
+      "https://socradar.io/blog/cve-2026-123903-vcenter-auth-bypass/"
     ],
     "https://www.proofpoint.com/us/rss.xml": [
       "https://www.proofpoint.com/us/newsroom/news/18-outdated-identity-and-access-management-assumptions-retire",
@@ -1888,7 +2021,8 @@
       "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/",
       "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/",
       "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/",
-      "https://www.crowdstrike.com/en-us/blog/reprioritizing-automated-leads-crowdstrike-signal/"
+      "https://www.crowdstrike.com/en-us/blog/reprioritizing-automated-leads-crowdstrike-signal/",
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-isoc/"
     ],
     "https://intel471.com/blog/feed": [
       "https://www.intel471.com/blog/what-to-ask-before-you-buy-an-ai-agent-for-threat-intelligence",
@@ -2060,13 +2194,23 @@
     ]
   },
   "github": {
-    "PaloAltoNetworks/Unit42-timely-threat-intel": "2026-11-24T21:10:04+00:00",
-    "TheRavenFile/Daily-Hunt": "2026-11-24T21:10:04+00:00",
-    "eset/malware-ioc": "2026-11-24T21:10:04+00:00",
-    "prodaft/malware-ioc": "2026-11-24T21:10:04+00:00",
-    "blackorbird/APT_REPORT": "2026-11-24T21:10:04+00:00"
+    "PaloAltoNetworks/Unit42-timely-threat-intel": "2026-11-25T20:28:10+00:00",
+    "TheRavenFile/Daily-Hunt": "2026-11-25T20:28:10+00:00",
+    "eset/malware-ioc": "2026-11-25T20:28:10+00:00",
+    "prodaft/malware-ioc": "2026-11-25T20:28:10+00:00",
+    "blackorbird/APT_REPORT": "2026-11-25T20:28:10+00:00"
   },
   "kev": [
+    "CVE-2026-103406",
+    "CVE-2026-133469",
+    "CVE-2025-41450",
+    "CVE-2023-25914",
+    "CVE-2023-25915",
+    "CVE-2026-133324",
+    "CVE-2026-133275",
+    "CVE-2026-133311",
+    "CVE-2026-133303",
+    "CVE-2026-133323",
     "CVE-2026-132224",
     "CVE-2026-131914",
     "CVE-2026-132165",
@@ -5683,9 +5827,9 @@
       "last_seen": "2026-11-24"
     },
     "PureLogsStealer": {
-      "count": 34,
-      "days": 6,
-      "last_seen": "2026-11-24"
+      "count": 38,
+      "days": 7,
+      "last_seen": "2026-11-25"
     },
     "MopsStealer": {
       "count": 1,
@@ -5693,9 +5837,9 @@
       "last_seen": "2026-11-16"
     },
     "OffLoader": {
-      "count": 23,
-      "days": 6,
-      "last_seen": "2026-11-24"
+      "count": 24,
+      "days": 7,
+      "last_seen": "2026-11-25"
     },
     "WARDENStealer": {
       "count": 12,
@@ -5723,9 +5867,9 @@
       "last_seen": "2026-11-16"
     },
     "FunStealer": {
-      "count": 22,
-      "days": 5,
-      "last_seen": "2026-11-24"
+      "count": 24,
+      "days": 6,
+      "last_seen": "2026-11-25"
     },
     "ConnectWise": {
       "count": 3,
@@ -5773,14 +5917,19 @@
       "last_seen": "2026-11-19"
     },
     "WeedStealer": {
-      "count": 2,
-      "days": 1,
-      "last_seen": "2026-11-19"
+      "count": 4,
+      "days": 2,
+      "last_seen": "2026-11-25"
     },
     "Malware distribution": {
-      "count": 2,
-      "days": 2,
-      "last_seen": "2026-11-21"
+      "count": 3,
+      "days": 3,
+      "last_seen": "2026-11-25"
+    },
+    "SeroRAT": {
+      "count": 1,
+      "days": 1,
+      "last_seen": "2026-11-25"
     }
   }
 }
