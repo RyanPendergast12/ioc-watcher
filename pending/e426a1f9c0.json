@@ -1,0 +1,29 @@
+{
+  "id": "e426a1f9c0",
+  "created": "2026-11-26T20:13:21+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Threat Actors → Ransomware/Metaencryptor.md",
+  "headline": "New IOC proposal — Metaencryptor",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/losttrust-revival-eclipse-ransomware-targets-us/",
+      "title": "LostTrust Revival Tied to Eclipse Ransomware Targets US",
+      "source": "SOCRadar",
+      "published": "2026-11-26",
+      "context": "Metaencryptor"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/losttrust-revival-eclipse-ransomware-targets-us/",
+      "title": "LostTrust Revival Tied to Eclipse Ransomware Targets US",
+      "source": "SOCRadar",
+      "published": "2026-11-26",
+      "context": "Metaencryptor"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

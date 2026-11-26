@@ -1,0 +1,292 @@
+{
+  "id": "8983547dbf",
+  "created": "2026-11-26T20:13:21+00:00",
+  "kind": "bucket",
+  "target_md": "Threat Intel/Raw Threat Intel/BAD DOMAINS.md",
+  "headline": "Raw intel — BAD DOMAINS",
+  "items": [
+    {
+      "type": "domain",
+      "value": "ephemeral-gingersnap-739019.netlify.app",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "tinyurl.com",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.pl-oferta890432782.cfd",
+      "source": "openphish, PhishTank",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "metamask173.blogspot.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "bak-center.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "loja.bak-center.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "sistema.acessoprotecnologia.com.br",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "66506.cc",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "myprofile-microsoft.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "tlktok.vercel.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "apply-here-nu.vercel.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "ifps62-178wzziqj-arcadawebapps2.vercel.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "pvdmcg-r0yfs7ymo-arcadawebapps3.vercel.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "ifps62-arcadawebapps2.vercel.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "pvdmcg-arcadawebapps3.vercel.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "pvdmcg.vercel.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "instagram-clone-gules.vercel.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "booking.3825.rest",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "ifps62-htolnr64j-arcadawebapps2.vercel.app",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "legal-org-docs.d2mqddsv0wxgy0.amplifyapp.com",
+      "source": "openphish",
+      "context": "phishing",
+      "ref": ""
+    },
+    {
+      "type": "domain",
+      "value": "jshflsw.wiki",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9565916"
+    },
+    {
+      "type": "domain",
+      "value": "www2.afirmenett.site",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9565915"
+    },
+    {
+      "type": "domain",
+      "value": "pickup-amounts-operation-seller.trycloudflare.com",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9565913"
+    },
+    {
+      "type": "domain",
+      "value": "renouv-espacecourriers.bolt.host",
+      "source": "PhishTank",
+      "context": "phish SociÃÂ©tÃÂ© GÃÂ©nÃÂ©rale",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9565912"
+    },
+    {
+      "type": "domain",
+      "value": "registro-cita-digital-arbgf-2026.cr-web.workers.dev",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9565893"
+    },
+    {
+      "type": "domain",
+      "value": "allegro.ba212-120.help",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9565890"
+    },
+    {
+      "type": "domain",
+      "value": "allegro-lokalnie.pristup.click",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9565881"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.plogloszenia.cyou",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9565871"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.ogloszenia24.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9565870"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.pl-8714122.cfd",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9565868"
+    },
+    {
+      "type": "domain",
+      "value": "olx.suwws.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9565853"
+    },
+    {
+      "type": "domain",
+      "value": "aztecaempresas.com.mx",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9565850"
+    },
+    {
+      "type": "domain",
+      "value": "rebrand.ly",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9565843"
+    },
+    {
+      "type": "domain",
+      "value": "besemota.pro",
+      "source": "PhishTank",
+      "context": "phish Microsoft",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9565837"
+    },
+    {
+      "type": "domain",
+      "value": "allegrolokalnie.lokalna598091.sbs",
+      "source": "PhishTank",
+      "context": "phish Allegro",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9565833"
+    },
+    {
+      "type": "domain",
+      "value": "mickigrimland.com",
+      "source": "PhishTank",
+      "context": "phish Amazon.com",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9565832"
+    },
+    {
+      "type": "domain",
+      "value": "brt-payz.eu.cc",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9565831"
+    },
+    {
+      "type": "domain",
+      "value": "brt-payw.eu.cc",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9565830"
+    },
+    {
+      "type": "domain",
+      "value": "jeffshoub.com",
+      "source": "PhishTank",
+      "context": "phish Amazon.com",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9565829"
+    },
+    {
+      "type": "domain",
+      "value": "brt-payx.eu.cc",
+      "source": "PhishTank",
+      "context": "phish Other",
+      "ref": "http://www.phishtank.com/phish_detail.php?phish_id=9565828"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

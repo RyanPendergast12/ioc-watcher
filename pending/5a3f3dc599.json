@@ -1,0 +1,29 @@
+{
+  "id": "5a3f3dc599",
+  "created": "2026-11-26T20:13:21+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Threat Actors → APT + Nation-State/APT32 - OceanLotus.md",
+  "headline": "New IOC proposal — APT32 - OceanLotus",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/redops-weavelotus-southeast-asian-governments/",
+      "title": "RedOps: WeaveLotus Targets Southeast Asian Governments for South China Sea Intelligence",
+      "source": "SOCRadar",
+      "published": "2026-11-26",
+      "context": "APT32 - OceanLotus"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/redops-weavelotus-southeast-asian-governments/",
+      "title": "RedOps: WeaveLotus Targets Southeast Asian Governments for South China Sea Intelligence",
+      "source": "SOCRadar",
+      "published": "2026-11-26",
+      "context": "APT32 - OceanLotus"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ffd2336faf",
+  "created": "2026-11-26T20:13:21+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Botnets/ClawBot + OpenClaw.md",
+  "headline": "New IOC proposal — ClawBot + OpenClaw",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/three-attacks-zero-exploits-microsoft-365",
+      "title": "Three Attacks, Zero Exploits in Microsoft 365",
+      "source": "Huntress",
+      "published": "2026-11-25",
+      "context": "Clickfix, ClawBot + OpenClaw"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/three-attacks-zero-exploits-microsoft-365",
+      "title": "Three Attacks, Zero Exploits in Microsoft 365",
+      "source": "Huntress",
+      "published": "2026-11-25",
+      "context": "Clickfix, ClawBot + OpenClaw"
+    }
+  ],
+  "overflow": 0,
+  "status": "pending"
+}

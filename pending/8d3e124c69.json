@@ -1,0 +1,124 @@
+{
+  "id": "8d3e124c69",
+  "created": "2026-11-26T20:13:21+00:00",
+  "kind": "digest",
+  "target_md": "Threat Intel/Intel Feed/2026-11-26.md",
+  "headline": "Intel digest — 2026-11-26 (14 new reports)",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://www.huntress.com/blog/three-attacks-zero-exploits-microsoft-365",
+      "title": "Three Attacks, Zero Exploits in Microsoft 365",
+      "source": "Huntress",
+      "published": "2026-11-25",
+      "context": "Clickfix, ClawBot + OpenClaw"
+    },
+    {
+      "type": "report",
+      "value": "https://cyble.com/blog/europol-crypto-illegal-streaming-industry/",
+      "title": "Following the Cryptocurrency Trail Behind Europe’s Illegal Streaming Industry",
+      "source": "Cyble",
+      "published": "2026-11-26",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://blog.alphahunt.io/deep-research-the-mail-collector-never-registered/",
+      "title": "[DEEP RESEARCH] The Mail Collector Never Registered",
+      "source": "AlphaHunt",
+      "published": "2026-11-26",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/ai/2026/11/anthropic-built-a-honeypot-to-see-if-ai-agents-will-break-out",
+      "title": "Anthropic built a honeypot to see if AI agents will break out",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-26",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/ai/2026/11/why-new-york-is-banning-ai-chatbot-toys",
+      "title": "Why New York is banning AI chatbot toys",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-26",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/family-and-parenting/2026/11/teen-missing-for-521-days-found-help-through-among-us-chat",
+      "title": "Missing teen rescued after finding help through Among Us chat",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-26",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.cybertriage.com/blog/cyber-triage-4-1-bring-your-own-ai-and-new-dfir-timelines/",
+      "title": "Cyber Triage 4.1: Bring Your Own AI and New DFIR Timelines",
+      "source": "Cyber Triage",
+      "published": "2026-11-25",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.recordedfuture.com/blog/strategic-threat-intelligence-explained",
+      "title": "What is Strategic Threat Intelligence? | Recorded Future",
+      "source": "Recorded Future",
+      "published": "2026-11-26",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/ai-pentesting-questions-cisos-should-ask/",
+      "title": "15 Questions Every CISO Should Ask Before Allowing AI Pentesting in Production",
+      "source": "SOCRadar",
+      "published": "2026-11-26",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/redops-weavelotus-southeast-asian-governments/",
+      "title": "RedOps: WeaveLotus Targets Southeast Asian Governments for South China Sea Intelligence",
+      "source": "SOCRadar",
+      "published": "2026-11-26",
+      "context": "APT32 - OceanLotus"
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/drupal-fail2install-cve-2026-132165-exploited/",
+      "title": "Drupal Fail2Install RCE (CVE-2026-132165) Exploited in the Wild",
+      "source": "SOCRadar",
+      "published": "2026-11-26",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/1password-breach-employee-github-account/",
+      "title": "1Password Breach Traced to Hijacked Employee GitHub Account",
+      "source": "SOCRadar",
+      "published": "2026-11-26",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/losttrust-revival-eclipse-ransomware-targets-us/",
+      "title": "LostTrust Revival Tied to Eclipse Ransomware Targets US",
+      "source": "SOCRadar",
+      "published": "2026-11-26",
+      "context": "Metaencryptor"
+    },
+    {
+      "type": "report",
+      "value": "https://www.crowdstrike.com/en-us/blog/securing-employees-ai-use-requires-unified-architecture/",
+      "title": "Securing Employees&rsquo; AI Use Requires a Unified Architecture",
+      "source": "CrowdStrike",
+      "published": "2026-11-26",
+      "context": ""
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

@@ -1453,7 +1453,82 @@
     "cve:CVE-2026-133275": "2026-11-25",
     "cve:CVE-2026-133311": "2026-11-25",
     "cve:CVE-2026-133303": "2026-11-25",
-    "cve:CVE-2026-133323": "2026-11-25"
+    "cve:CVE-2026-133323": "2026-11-25",
+    "ssl_sha1:e3f4ba4c9edce49b6cd05a517115f1c555f35d81": "2026-11-26",
+    "ssl_sha1:fc106a1b721f1e8f48d8992745a69506ffbfb0f7": "2026-11-26",
+    "domain:_20261123.zip": "2026-11-26",
+    "ip:14.128.53.155": "2026-11-26",
+    "md5:37b0779c5597c01665b1c85e86fd861c": "2026-11-26",
+    "md5:1532ca559b584413f33163807f47ef88": "2026-11-26",
+    "sha256:6d150500fda6d8138a47a10b3fb5af5d991722547e712adac1cb329662de5a96": "2026-11-26",
+    "sha256:b1871fbbcb58fb660e574096bd9c3886cf9254178d99a96e1b0047e717ce12eb": "2026-11-26",
+    "domain:ephemeral-gingersnap-739019.netlify.app": "2026-11-26",
+    "domain:tinyurl.com": "2026-11-26",
+    "domain:allegrolokalnie.pl-oferta890432782.cfd": "2026-11-26",
+    "domain:metamask173.blogspot.com": "2026-11-26",
+    "domain:bak-center.com": "2026-11-26",
+    "domain:loja.bak-center.com": "2026-11-26",
+    "domain:sistema.acessoprotecnologia.com.br": "2026-11-26",
+    "domain:66506.cc": "2026-11-26",
+    "domain:myprofile-microsoft.com": "2026-11-26",
+    "domain:tlktok.vercel.app": "2026-11-26",
+    "domain:apply-here-nu.vercel.app": "2026-11-26",
+    "domain:ifps62-178wzziqj-arcadawebapps2.vercel.app": "2026-11-26",
+    "domain:pvdmcg-r0yfs7ymo-arcadawebapps3.vercel.app": "2026-11-26",
+    "domain:ifps62-arcadawebapps2.vercel.app": "2026-11-26",
+    "domain:pvdmcg-arcadawebapps3.vercel.app": "2026-11-26",
+    "domain:pvdmcg.vercel.app": "2026-11-26",
+    "domain:instagram-clone-gules.vercel.app": "2026-11-26",
+    "domain:booking.3825.rest": "2026-11-26",
+    "domain:ifps62-htolnr64j-arcadawebapps2.vercel.app": "2026-11-26",
+    "domain:legal-org-docs.d2mqddsv0wxgy0.amplifyapp.com": "2026-11-26",
+    "domain:jshflsw.wiki": "2026-11-26",
+    "domain:www2.afirmenett.site": "2026-11-26",
+    "domain:pickup-amounts-operation-seller.trycloudflare.com": "2026-11-26",
+    "domain:renouv-espacecourriers.bolt.host": "2026-11-26",
+    "domain:registro-cita-digital-arbgf-2026.cr-web.workers.dev": "2026-11-26",
+    "domain:allegro.ba212-120.help": "2026-11-26",
+    "domain:allegro-lokalnie.pristup.click": "2026-11-26",
+    "domain:allegrolokalnie.plogloszenia.cyou": "2026-11-26",
+    "domain:allegrolokalnie.ogloszenia24.sbs": "2026-11-26",
+    "domain:allegrolokalnie.pl-8714122.cfd": "2026-11-26",
+    "domain:olx.suwws.sbs": "2026-11-26",
+    "domain:aztecaempresas.com.mx": "2026-11-26",
+    "domain:rebrand.ly": "2026-11-26",
+    "domain:besemota.pro": "2026-11-26",
+    "domain:allegrolokalnie.lokalna598091.sbs": "2026-11-26",
+    "domain:mickigrimland.com": "2026-11-26",
+    "domain:brt-payz.eu.cc": "2026-11-26",
+    "domain:brt-payw.eu.cc": "2026-11-26",
+    "domain:jeffshoub.com": "2026-11-26",
+    "domain:brt-payx.eu.cc": "2026-11-26",
+    "ip:216.180.246.152": "2026-11-26",
+    "ip:103.248.120.6": "2026-11-26",
+    "ip:35.210.88.112": "2026-11-26",
+    "ip:35.210.238.150": "2026-11-26",
+    "ip:35.206.191.72": "2026-11-26",
+    "ip:35.210.10.117": "2026-11-26",
+    "ip:195.178.110.28": "2026-11-26",
+    "ip:213.209.159.133": "2026-11-26",
+    "ip:169.40.142.133": "2026-11-26",
+    "ip:217.172.126.251": "2026-11-26",
+    "ip:172.235.235.248": "2026-11-26",
+    "ip:185.194.178.59": "2026-11-26",
+    "ip:216.180.246.66": "2026-11-26",
+    "ip:185.177.72.205": "2026-11-26",
+    "ip:137.184.105.192": "2026-11-26",
+    "ip:146.190.119.114": "2026-11-26",
+    "ip:39.45.110.160": "2026-11-26",
+    "ip:216.180.246.191": "2026-11-26",
+    "ip:123.58.207.81": "2026-11-26",
+    "ip:62.133.47.132": "2026-11-26",
+    "ip:118.193.39.117": "2026-11-26",
+    "ip:185.194.178.41": "2026-11-26",
+    "ip:212.102.39.41": "2026-11-26",
+    "ip:193.47.62.31": "2026-11-26",
+    "ip:20.163.3.53": "2026-11-26",
+    "ip:51.81.169.121": "2026-11-26",
+    "domain:gets6.dynu.net": "2026-11-26"
   },
   "rss": {
     "https://thedfirreport.com/feed/": [
@@ -1540,7 +1615,8 @@
       "https://www.huntress.com/blog/rmm-alerts-msp-soc-incident-response",
       "https://www.huntress.com/blog/eu-data-hosting",
       "https://www.huntress.com/blog/tradecraft-tuesday-clickfix-lures-and-infrastructure",
-      "https://www.huntress.com/blog/why-resilience-has-to-come-first"
+      "https://www.huntress.com/blog/why-resilience-has-to-come-first",
+      "https://www.huntress.com/blog/three-attacks-zero-exploits-microsoft-365"
     ],
     "https://cyble.com/feed/": [
       "https://cyble.com/blog/cert-in-security-auditing-guideline/",
@@ -1556,7 +1632,8 @@
       "https://cyble.com/blog/eu-sanctions-social-design-agency-noname05716/",
       "https://cyble.com/blog/java4shell-cve-2026-114938-bug/",
       "https://cyble.com/blog/europe-2027-cyber-compliance/",
-      "https://cyble.com/blog/cve-2026-123890-vcenter-zero-day-patching/"
+      "https://cyble.com/blog/cve-2026-123890-vcenter-zero-day-patching/",
+      "https://cyble.com/blog/europol-crypto-illegal-streaming-industry/"
     ],
     "https://blog.alphahunt.io/rss/": [
       "https://blog.alphahunt.io/deep-research-the-upload-attempt-was-real-the-backdoor-was-still-a-hypothesis/",
@@ -1578,7 +1655,8 @@
       "https://blog.alphahunt.io/signals-weekly-accelerating-threats-in-trusted-digital-supply-chains/",
       "https://blog.alphahunt.io/deep-research-what-did-the-legacy-system-still-authorize/",
       "https://blog.alphahunt.io/deep-research-who-generated-the-baseline-your-detector-trusts/",
-      "https://blog.alphahunt.io/signals-weekly-armory-castle-turns-vcenter-access-into-an-identity-problem/"
+      "https://blog.alphahunt.io/signals-weekly-armory-castle-turns-vcenter-access-into-an-identity-problem/",
+      "https://blog.alphahunt.io/deep-research-the-mail-collector-never-registered/"
     ],
     "https://redcanary.com/feed/": [
       "https://redcanary.com/blog/threat-intelligence/intelligence-insights-august-2026/",
@@ -1635,7 +1713,10 @@
       "https://www.malwarebytes.com/blog/news/2026/11/new-windows-security-check-could-let-apps-block-access",
       "https://www.malwarebytes.com/blog/ai/2026/11/researchers-planted-secrets-in-ai-prompts-attackers-found-them",
       "https://www.malwarebytes.com/blog/ai/2026/11/ai-agents-found-an-unpatched-flaw-after-being-told-to-break-in",
-      "https://www.malwarebytes.com/blog/data-breaches/2026/11/two-exposed-databases-held-over-3-5-billion-records"
+      "https://www.malwarebytes.com/blog/data-breaches/2026/11/two-exposed-databases-held-over-3-5-billion-records",
+      "https://www.malwarebytes.com/blog/ai/2026/11/anthropic-built-a-honeypot-to-see-if-ai-agents-will-break-out",
+      "https://www.malwarebytes.com/blog/ai/2026/11/why-new-york-is-banning-ai-chatbot-toys",
+      "https://www.malwarebytes.com/blog/family-and-parenting/2026/11/teen-missing-for-521-days-found-help-through-among-us-chat"
     ],
     "https://research.checkpoint.com/feed/": [
       "https://research.checkpoint.com/2026/16th-november-threat-intelligence-report/",
@@ -1671,7 +1752,8 @@
       "https://www.cybertriage.com/ai/sans-vs-skl-which-ai-framework-should-you-use/",
       "https://www.cybertriage.com/blog/dfir_ai-2026-challenge-winners/",
       "https://www.cybertriage.com/blog/3-ai-prompts-for-more-confident-dfir-investigations/",
-      "https://www.cybertriage.com/blog/ai-in-cyber-triage-4-0/"
+      "https://www.cybertriage.com/blog/ai-in-cyber-triage-4-0/",
+      "https://www.cybertriage.com/blog/cyber-triage-4-1-bring-your-own-ai-and-new-dfir-timelines/"
     ],
     "https://blog.talosintelligence.com/rss/": [
       "https://blog.talosintelligence.com/artex-and-beyond/",
@@ -1930,7 +2012,8 @@
       "https://www.recordedfuture.com/blog/2027-soti-regional-summaries",
       "https://www.recordedfuture.com/blog/ai-industrial-attack-workflow",
       "https://www.recordedfuture.com/blog/what-are-threat-intelligence-feeds",
-      "https://www.recordedfuture.com/blog/cyber-threats-space-race"
+      "https://www.recordedfuture.com/blog/cyber-threats-space-race",
+      "https://www.recordedfuture.com/blog/strategic-threat-intelligence-explained"
     ],
     "https://www.rapid7.com/blog/rss/": [
       "https://www.rapid7.com/blog/post/etr-rapid7-detected-exploitation-of-cve-2026-90436-against-atlassian-confluence-data-center-n-able-n-central-also-exploited",
@@ -1992,7 +2075,12 @@
       "https://socradar.io/blog/screenconnect-cve-2026-84869-exploitation/",
       "https://socradar.io/blog/hex-pm-rce-cve-2026-129514-exploited/",
       "https://socradar.io/blog/shinyhunters-return-revoked-pgp-keys/",
-      "https://socradar.io/blog/cve-2026-123903-vcenter-auth-bypass/"
+      "https://socradar.io/blog/cve-2026-123903-vcenter-auth-bypass/",
+      "https://socradar.io/blog/ai-pentesting-questions-cisos-should-ask/",
+      "https://socradar.io/blog/redops-weavelotus-southeast-asian-governments/",
+      "https://socradar.io/blog/drupal-fail2install-cve-2026-132165-exploited/",
+      "https://socradar.io/blog/1password-breach-employee-github-account/",
+      "https://socradar.io/blog/losttrust-revival-eclipse-ransomware-targets-us/"
     ],
     "https://www.proofpoint.com/us/rss.xml": [
       "https://www.proofpoint.com/us/newsroom/news/18-outdated-identity-and-access-management-assumptions-retire",
@@ -2022,7 +2110,8 @@
       "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/",
       "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/",
       "https://www.crowdstrike.com/en-us/blog/reprioritizing-automated-leads-crowdstrike-signal/",
-      "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-isoc/"
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-isoc/",
+      "https://www.crowdstrike.com/en-us/blog/securing-employees-ai-use-requires-unified-architecture/"
     ],
     "https://intel471.com/blog/feed": [
       "https://www.intel471.com/blog/what-to-ask-before-you-buy-an-ai-agent-for-threat-intelligence",
@@ -2066,7 +2155,8 @@
       "https://www.intel471.com/blog/the-uk-cyber-security-resilience-bill",
       "https://www.intel471.com/blog/how-ai-and-the-human-advantage-beat-tomorrows-threats",
       "https://www.intel471.com/blog/meet-agent471-ai-that-gives-your-security-team-time-back",
-      "https://www.intel471.com/blog/aerospace-to-chemicals-why-manufacturers-are-easy-targets-for-access-brokers"
+      "https://www.intel471.com/blog/aerospace-to-chemicals-why-manufacturers-are-easy-targets-for-access-brokers",
+      "https://www.intel471.com/blog/emerging-threat-artex"
     ],
     "https://feeds.feedburner.com/threatintelligence/pvexyqv7v0v": [
       "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/",
@@ -2194,11 +2284,11 @@
     ]
   },
   "github": {
-    "PaloAltoNetworks/Unit42-timely-threat-intel": "2026-11-25T20:28:10+00:00",
-    "TheRavenFile/Daily-Hunt": "2026-11-25T20:28:10+00:00",
-    "eset/malware-ioc": "2026-11-25T20:28:10+00:00",
-    "prodaft/malware-ioc": "2026-11-25T20:28:10+00:00",
-    "blackorbird/APT_REPORT": "2026-11-25T20:28:10+00:00"
+    "PaloAltoNetworks/Unit42-timely-threat-intel": "2026-11-26T20:09:56+00:00",
+    "TheRavenFile/Daily-Hunt": "2026-11-26T20:09:56+00:00",
+    "eset/malware-ioc": "2026-11-26T20:09:56+00:00",
+    "prodaft/malware-ioc": "2026-11-26T20:09:56+00:00",
+    "blackorbird/APT_REPORT": "2026-11-26T20:09:56+00:00"
   },
   "kev": [
     "CVE-2026-103406",

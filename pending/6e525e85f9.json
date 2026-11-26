@@ -1,0 +1,60 @@
+{
+  "id": "6e525e85f9",
+  "created": "2026-11-26T20:13:21+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Loaders + Initial Access/WinosStager.md",
+  "headline": "New IOC proposal — WinosStager",
+  "items": [
+    {
+      "type": "domain",
+      "value": "_20261123.zip",
+      "source": "TweetFeed",
+      "context": "@bomccss #ValleyRAT",
+      "ref": "https://x.com/bomccss/status/2125838239257010474",
+      "family": "ValleyRAT"
+    },
+    {
+      "type": "ip",
+      "value": "14.128.53.155",
+      "source": "TweetFeed",
+      "context": "@tdatwja #ValleyRAT",
+      "ref": "https://x.com/tdatwja/status/2125775592834670865",
+      "family": "ValleyRAT"
+    },
+    {
+      "type": "md5",
+      "value": "37b0779c5597c01665b1c85e86fd861c",
+      "source": "TweetFeed",
+      "context": "@tdatwja #ValleyRAT",
+      "ref": "https://x.com/tdatwja/status/2125775592834670865",
+      "family": "ValleyRAT"
+    },
+    {
+      "type": "md5",
+      "value": "1532ca559b584413f33163807f47ef88",
+      "source": "TweetFeed",
+      "context": "@tdatwja #ValleyRAT",
+      "ref": "https://x.com/tdatwja/status/2125775592834670865",
+      "family": "ValleyRAT"
+    },
+    {
+      "type": "sha256",
+      "value": "6d150500fda6d8138a47a10b3fb5af5d991722547e712adac1cb329662de5a96",
+      "source": "TweetFeed",
+      "context": "@tdatwja #ValleyRAT",
+      "ref": "https://x.com/tdatwja/status/2125775592834670865",
+      "family": "ValleyRAT"
+    },
+    {
+      "type": "sha256",
+      "value": "b1871fbbcb58fb660e574096bd9c3886cf9254178d99a96e1b0047e717ce12eb",
+      "source": "TweetFeed",
+      "context": "@bomccss #ValleyRAT",
+      "ref": "https://x.com/bomccss/status/2109980523649176027",
+      "family": "ValleyRAT"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}
