@@ -1,0 +1,28 @@
+{
+  "id": "3bfd6df5c1",
+  "created": "2026-11-27T19:59:14+00:00",
+  "kind": "iocs",
+  "target_md": "Threat Intel/Malware Families/Loaders + Initial Access/Guloader.md",
+  "headline": "New IOC proposal — Guloader",
+  "items": [
+    {
+      "type": "ip",
+      "value": "102.220.161.229",
+      "source": "TweetFeed",
+      "context": "@bomccss #GuLoader #Remcos",
+      "ref": "https://x.com/bomccss/status/2126115042823459058",
+      "family": "GuLoader"
+    },
+    {
+      "type": "sha256",
+      "value": "9a2db95eefbecfbb86b4307e76ff87e747503c07782dd8db2b0c3efafab1b601",
+      "source": "TweetFeed",
+      "context": "@bomccss #GuLoader #Remcos",
+      "ref": "https://x.com/bomccss/status/2126115040554307727",
+      "family": "GuLoader"
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}

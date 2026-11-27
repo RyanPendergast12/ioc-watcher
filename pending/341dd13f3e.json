@@ -1,0 +1,60 @@
+{
+  "id": "341dd13f3e",
+  "created": "2026-11-27T19:59:14+00:00",
+  "kind": "digest",
+  "target_md": "Threat Intel/Intel Feed/2026-11-27.md",
+  "headline": "Intel digest — 2026-11-27 (6 new reports)",
+  "items": [
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/bugs/2026/11/drupal-sites-are-being-hijacked-and-a-follow-up-flaw-is-already-under-attack",
+      "title": "Drupal sites are being hijacked, and a follow-up flaw is already under attack",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-27",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://www.malwarebytes.com/blog/news/2026/11/malware-steals-gmail-messages-using-a-fake-google-sheets-extension",
+      "title": "Malware steals Gmail messages using a fake Google Sheets extension",
+      "source": "Malwarebytes Labs",
+      "published": "2026-11-27",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/dwp-cyber-incident-universal-credit-offline/",
+      "title": "DWP Cyber Incident Takes Universal Credit and PIP Services Offline",
+      "source": "SOCRadar",
+      "published": "2026-11-27",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/sap-security-incident-github-tokens-source-code/",
+      "title": "SAP Security Incident: Stolen GitHub Tokens and Source Code Risk",
+      "source": "SOCRadar",
+      "published": "2026-11-27",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/babidighost-metabase-takeovers/",
+      "title": "BabidiGhost Metabase Takeovers: Inside the Actor’s Second Server",
+      "source": "SOCRadar",
+      "published": "2026-11-27",
+      "context": ""
+    },
+    {
+      "type": "report",
+      "value": "https://socradar.io/blog/socradar-autonomous-exposure-management/",
+      "title": "Attack Surface Management Is Now Autonomous Exposure Management",
+      "source": "SOCRadar",
+      "published": "2026-11-27",
+      "context": ""
+    }
+  ],
+  "reports": [],
+  "overflow": 0,
+  "status": "pending"
+}
